@@ -1,6 +1,8 @@
 ### Hi, I am Francesco! 👋
 
-I am an Assistant Professor of Data Science and Accounting Information Systems at Bocconi University.
+I am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University.
+
+I am also a fellow at the Bocconi Institute for Data Science and Analyics. 
 
 I try to understand what companies (and managers) write in their reports using Natural Language Processing techniques. 
 
