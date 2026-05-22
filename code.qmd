@@ -1,0 +1,44 @@
+---
+title: "Code"
+---
+
+I am an active developer of open-source tools for empirical accounting
+and finance research. All projects live on
+[GitHub](https://github.com/contefranz).
+
+## Featured projects
+
+### edgartools
+*An open-source library to efficiently collect financial filings from
+the SEC EDGAR database.*
+Funded by a Bocconi Junior Research Grant (PI, 2019–2020, €8,000).
+
+[Repository](https://github.com/contefranz) ·
+*Replace the link above with the actual repository URL.*
+
+## How to use this section
+
+Add one block per project, with:
+
+- a short description (one or two sentences),
+- the language/stack,
+- a link to the repo,
+- (optional) a link to a related paper or vignette.
+
+Example template:
+
+```markdown
+### project-name
+*One-line description of what the project does and why it matters.*
+
+**Stack:** R / Python / …
+[Repository](https://github.com/contefranz/project-name) ·
+[Paper](https://doi.org/...)
+```
+
+## Reproducibility
+
+Where possible, the code that accompanies my published papers is
+released alongside the working-paper version. If you are looking for
+replication materials for a specific paper and cannot find them, please
+[email me](mailto:francesco.grossetti@unibocconi.it).

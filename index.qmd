@@ -1,0 +1,63 @@
+---
+title: "Francesco Grossetti"
+subtitle: "Assistant Professor of Accounting Analytics and Data Science — Bocconi University"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:francesco.grossetti@unibocconi.it
+    - icon: github
+      text: GitHub
+      href: https://github.com/contefranz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/francescogrossetti/
+    - text: "{{< iconify academicons google-scholar >}} Scholar"
+      href: https://scholar.google.com/
+    - text: "Bocconi page"
+      href: https://accounting.unibocconi.eu/faculty/francesco-grossetti
+toc: false
+---
+
+## About
+
+I am an Assistant Professor of Accounting Analytics and Data Science at the
+[Department of Accounting](https://accounting.unibocconi.eu) at Bocconi
+University, a Fellow at the
+[Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu),
+and a member of the Bocconi Digital Transformation and AI Committee.
+
+My research sits at the intersection of **Natural Language Processing**,
+**Machine Learning**, and **empirical finance**. I use large-scale textual
+and multimodal financial data to study corporate disclosure and its
+consequences — including firm tax outcomes and investor reactions to
+multi-dimensional financial narratives. Methodologically, I draw on
+statistical learning and computational statistics, with a focus on
+stochastic processes for sequential data, which lets me model how
+corporate information evolves over time (disclosure cascades, topic
+model identification, and more).
+
+My work has appeared in the *Review of Accounting Studies*, the
+*Journal of Machine Learning Research*, the *Journal of Accounting and
+Public Policy*, and other outlets. I am an Editorial Board member of
+*Accounting in Europe* (2026–2029) and Scientific Program Coordinator of
+the 4th Bocconi Accounting Symposium (June 2026).
+
+## Education
+
+- **Ph.D.** in Applied and Computational Statistics — Politecnico di Milano (MOX) · 2017
+- **M.Sc.** in Astrophysics and Space Physics — Università di Milano-Bicocca · 2010
+- **B.Sc.** in Physics — Università di Milano-Bicocca
+
+## Positions
+
+- **Assistant Professor**, Department of Accounting, Bocconi University · 2018 – present
+- **Fellow**, Bocconi Institute for Data Science and Analytics · 2018 – present
+- **Visiting Associate Professor** (recurrent), NHH, Bergen · 2024 – 2025
+- **Visiting Assistant Professor**, IE University, Madrid · October 2022
+- **Postdoctoral Fellow**, Bocconi University · 2017 – 2018
+- **Research Fellow**, Politecnico di Milano · 2011 – 2013

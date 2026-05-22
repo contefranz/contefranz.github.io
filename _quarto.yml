@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Francesco Grossetti"
+  description: "Personal website of Francesco Grossetti, Bocconi University"
+  site-url: https://contefranz.github.io
+  repo-url: https://github.com/contefranz/contefranz
+  navbar:
+    pinned: true
+    background: light
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: code.qmd
+        text: Code
+    right:
+      - icon: github
+        href: https://github.com/contefranz
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francescogrossetti/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:francesco.grossetti@unibocconi.it
+        aria-label: Email
+  page-footer:
+    background: light
+    left: "© 2026 Francesco Grossetti"
+    right:
+      - icon: github
+        href: https://github.com/contefranz
+      - icon: envelope
+        href: mailto:francesco.grossetti@unibocconi.it
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    code-copy: true
+    code-overflow: wrap
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: true
+    fontsize: 1.05em
+    mainfont: "Inter, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    monofont: "JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace"
