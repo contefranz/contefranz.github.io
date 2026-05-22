@@ -1,0 +1,129 @@
+/* ---------- Fonts ---------- */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
+/* ---------- Palette (light, calm, academic) ---------- */
+:root {
+  --fg: #1f2328;
+  --fg-muted: #57606a;
+  --bg: #ffffff;
+  --bg-soft: #f6f8fa;
+  --border: #d0d7de;
+  --accent: #1a5fb4;
+  --accent-soft: #eaf2fb;
+}
+
+/* ---------- Base ---------- */
+body {
+  color: var(--fg);
+  background: var(--bg);
+  font-feature-settings: "kern", "liga", "calt", "ss01";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.65;
+}
+
+#quarto-content {
+  max-width: 1080px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--fg);
+}
+
+h1 { margin-top: 0.2em; }
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+}
+h3 { margin-top: 1.6rem; }
+
+p, li { color: var(--fg); }
+.text-muted { color: var(--fg-muted) !important; }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  border-bottom: 1px solid var(--border);
+  background: var(--bg) !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+  font-weight: 500;
+}
+.navbar .nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* ---------- About block (landing page) ---------- */
+.quarto-about-trestles .about-entity {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  background: var(--bg-soft);
+}
+.quarto-about-trestles .about-link {
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.quarto-about-trestles .about-link:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+/* ---------- TOC ---------- */
+#TOC, .toc-active a {
+  font-size: 0.92em;
+}
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+  border-left: 2px solid var(--accent);
+  color: var(--accent);
+}
+
+/* ---------- Code ---------- */
+pre, code {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+pre {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+code:not(pre code) {
+  background: var(--bg-soft);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  font-size: 0.92em;
+}
+
+/* ---------- Lists ---------- */
+ol, ul {
+  padding-left: 1.4rem;
+}
+ol li, ul li {
+  margin-bottom: 0.25rem;
+}
+
+/* ---------- Footer ---------- */
+.page-footer {
+  border-top: 1px solid var(--border);
+  background: var(--bg) !important;
+  color: var(--fg-muted);
+  font-size: 0.9em;
+}

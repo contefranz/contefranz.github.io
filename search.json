@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "I am an active developer of open-source tools for empirical accounting and finance research. All projects live on GitHub."
+  },
+  {
+    "objectID": "code.html#featured-projects",
+    "href": "code.html#featured-projects",
+    "title": "Code",
+    "section": "Featured projects",
+    "text": "Featured projects\n\nedgartools\nAn open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020, €8,000).\nRepository · Replace the link above with the actual repository URL."
+  },
+  {
+    "objectID": "code.html#how-to-use-this-section",
+    "href": "code.html#how-to-use-this-section",
+    "title": "Code",
+    "section": "How to use this section",
+    "text": "How to use this section\nAdd one block per project, with:\n\na short description (one or two sentences),\nthe language/stack,\na link to the repo,\n(optional) a link to a related paper or vignette.\n\nExample template:\n### project-name\n*One-line description of what the project does and why it matters.*\n\n**Stack:** R / Python / …\n[Repository](https://github.com/contefranz/project-name) ·\n[Paper](https://doi.org/...)"
+  },
+  {
+    "objectID": "code.html#reproducibility",
+    "href": "code.html#reproducibility",
+    "title": "Code",
+    "section": "Reproducibility",
+    "text": "Reproducibility\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "At Bocconi I have developed and currently direct multiple courses that integrate Data Science, AI, and computational methods into the MSc. and BSc. curricula in Accounting and AI. The aim is to make students fluent in advanced analytical techniques — from Natural Language Processing to Blockchain fundamentals — so they can lead in data-rich accounting and finance environments.\nIn 2023–2024 I received the Bocconi Teaching Award for Innovation for the course Introduction to Blockchain."
+  },
+  {
+    "objectID": "teaching.html#current-courses-bocconi-university",
+    "href": "teaching.html#current-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Current courses — Bocconi University",
+    "text": "Current courses — Bocconi University\n\nBig Data for Business Decisions\nMSc. Elective\nAdvanced data-science methods applied to managerial and accounting problems: from data wrangling at scale to predictive modeling and the use of textual and unstructured data in business decisions.\n\n\nStatistical and Computational Methods in Accounting\nBSc. in Artificial Intelligence — Elective\nStatistical learning, computational statistics, and modern programming practices applied to accounting data. Connects the foundations of statistical inference to the analytical workflows used in research and industry.\n\n\nIntroduction to Blockchain\nBSc. Elective\nA hands-on introduction to distributed ledger technologies: cryptographic primitives, consensus, smart contracts, and the accounting/auditing implications of on-chain data. Bocconi Teaching Award for Innovation, 2023–2024."
+  },
+  {
+    "objectID": "teaching.html#past-courses-bocconi-university",
+    "href": "teaching.html#past-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Past courses — Bocconi University",
+    "text": "Past courses — Bocconi University\n\nAccounting and Financial Statement Analysis — Module I\nDeep Learning for Computer Vision\nComputer Programming and Database Systems"
+  },
+  {
+    "objectID": "teaching.html#sda-bocconi-school-of-management",
+    "href": "teaching.html#sda-bocconi-school-of-management",
+    "title": "Teaching",
+    "section": "SDA Bocconi School of Management",
+    "text": "SDA Bocconi School of Management\n\nMastering Data for Insurance — Natural Language Processing Module — Executive Custom Program."
+  },
+  {
+    "objectID": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "href": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "title": "Teaching",
+    "section": "NHH and Free University of Bozen (2024–2025)",
+    "text": "NHH and Free University of Bozen (2024–2025)\n\nIntroduction to Blockchain — offered at both BSc. and MSc. level."
+  },
+  {
+    "objectID": "teaching.html#student-advising",
+    "href": "teaching.html#student-advising",
+    "title": "Teaching",
+    "section": "Student advising",
+    "text": "Student advising\nSince 2018 I have advised more than 40 MSc. and 30 BSc. students on theses spanning corporate disclosure, NLP, machine learning, and blockchain applications in accounting.\nProspective advisees: please email me a short note describing your background and the questions you would like to work on."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francesco Grossetti",
+    "section": "",
+    "text": "I am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nMy research sits at the intersection of Natural Language Processing, Machine Learning, and empirical finance. I use large-scale textual and multimodal financial data to study corporate disclosure and its consequences — including firm tax outcomes and investor reactions to multi-dimensional financial narratives. Methodologically, I draw on statistical learning and computational statistics, with a focus on stochastic processes for sequential data, which lets me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets. I am an Editorial Board member of Accounting in Europe (2026–2029) and Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 2026)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Francesco Grossetti",
+    "section": "",
+    "text": "I am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nMy research sits at the intersection of Natural Language Processing, Machine Learning, and empirical finance. I use large-scale textual and multimodal financial data to study corporate disclosure and its consequences — including firm tax outcomes and investor reactions to multi-dimensional financial narratives. Methodologically, I draw on statistical learning and computational statistics, with a focus on stochastic processes for sequential data, which lets me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets. I am an Editorial Board member of Accounting in Europe (2026–2029) and Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 2026)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Francesco Grossetti",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Applied and Computational Statistics — Politecnico di Milano (MOX) · 2017\nM.Sc. in Astrophysics and Space Physics — Università di Milano-Bicocca · 2010\nB.Sc. in Physics — Università di Milano-Bicocca"
+  },
+  {
+    "objectID": "index.html#positions",
+    "href": "index.html#positions",
+    "title": "Francesco Grossetti",
+    "section": "Positions",
+    "text": "Positions\n\nAssistant Professor, Department of Accounting, Bocconi University · 2018 – present\nFellow, Bocconi Institute for Data Science and Analytics · 2018 – present\nVisiting Associate Professor (recurrent), NHH, Bergen · 2024 – 2025\nVisiting Assistant Professor, IE University, Madrid · October 2022\nPostdoctoral Fellow, Bocconi University · 2017 – 2018\nResearch Fellow, Politecnico di Milano · 2011 – 2013"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work on corporate disclosure, applying NLP, machine learning, and computational statistics to large-scale textual and multimodal financial data. A full CV is available on request."
+  },
+  {
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "Research",
+    "section": "Published",
+    "text": "Published\n\nInvestor Distraction and Multi-Dimensional Financial Narrative, with M. Gietzmann and C. M. Lewis. Review of Accounting Studies (2026), 31, 334–373.\nUsing Narrative Disclosures to Predict Tax Outcomes, with O. Bogachek, P. Demeré, and A. De Vito. Review of Accounting Studies (2026), 31, 374–412.\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct, with O. Bogachek and M. Gietzmann. Journal of Risk Research (2024), 27(7), 735–769.\nA Statistical Approach for Optimal Topic Model Identification, with C. M. Lewis. Journal of Machine Learning Research (2022), 23(58), 1–20.\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?, with M. Gietzmann. Journal of Accounting and Public Policy (2021), 40(5), 106881.\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012, with S. Scalvini, A. M. Paganoni, M. T. La Rovere, R. Pedretti, and M. Frigerio. European Journal of Preventive Cardiology (2019).\nA Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data, with F. Ieva and A. Paganoni. Health Care Management Science (2018).\nH\\(\\alpha^3\\): An H\\(\\alpha\\) Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings, with G. Gavazzi et al. Astronomy & Astrophysics (2013).\nH\\(\\alpha^3\\): An H\\(\\alpha\\) Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster, with G. Gavazzi et al. Astronomy & Astrophysics (2012)."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data, with C. Burd, E. Casi, and P. Lisowsky — under 3rd-round review.\nThe Information Content of Loan Contract Disclosures, with I. Brancaccio and P. Demeré — under review.\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains, with M. Gietzmann and C. M. Lewis — under review.\nTax-Motivated Share Repurchases and Corporate Investment During Crisis, with C. D’Augusta and A. De Vito — under review.\nGoodness-of-Fit Indices and Diagnostics for Topic Models, with C. M. Lewis."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nM&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking, with A. Ellahie and R. Vincenzi.\nTies That Blind: Social Networks, Pressure, and CEO Wrongdoing, with L. Bullini Orlandi, A. De Vito, and P. Demeré.\nDisclosure Cascade: A Hawkes Process Approach, with M. Gietzmann."
+  },
+  {
+    "objectID": "research.html#books-and-monographs",
+    "href": "research.html#books-and-monographs",
+    "title": "Research",
+    "section": "Books and monographs",
+    "text": "Books and monographs\n\nValue Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms, with O. Bogachek. Springer – SIDREA Series in Accounting and Business Administration, 2025.\nTax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration, with A. De Vito. Springer – SIDREA Series in Accounting and Business Administration, 2024.\nPython for Non-Pythonians: How to Win Over Programming Languages, with G. Rubera. Bocconi University Press – Egea, 2019."
+  },
+  {
+    "objectID": "research.html#grants-and-awards",
+    "href": "research.html#grants-and-awards",
+    "title": "Research",
+    "section": "Grants and awards",
+    "text": "Grants and awards\n\nCIVICA Research Grant EXECML (2024–2026, €35,000) — Using Machine Learning to Uncover Subjective Incentives in Executive Compensation, with J. P. Gomez, K. Valogianni, and M. Ivanova.\nBocconi Teaching Award for Innovation (2023–2024) — for the course Introduction to Blockchain.\nCIVICA Faculty Short Visits Program (March 2024) — Optimal Benchmarking for Mutual Fund Performance Evaluation with NLP, at IE University.\nBocconi Senior Research Grant, Co-PI (2020–2021, €9,000) — Multi-modal Communication in Corporate Reporting, with A. Caglio.\nBocconi Junior Research Grant, PI (2019–2020, €8,000) — edgartools: An Open Source Library to Efficiently Collect Financial Filings from SEC EDGAR Database."
+  },
+  {
+    "objectID": "research.html#service",
+    "href": "research.html#service",
+    "title": "Research",
+    "section": "Service",
+    "text": "Service\n\nEditorial Board, Accounting in Europe (European Accounting Association) — 2026–2029.\nScientific Program Coordinator, 4th Bocconi Accounting Symposium — June 22–23, 2026.\nReviewer (2018–present): Journal of Accounting and Public Policy, Journal of Business, Finance, and Accounting, FARS section of AAA."
+  },
+  {
+    "objectID": "research.html#selected-talks",
+    "href": "research.html#selected-talks",
+    "title": "Research",
+    "section": "Selected talks",
+    "text": "Selected talks\n\n2026 — 48th EAA Annual Congress (Prague); NHH Invited Seminar (Bergen); BI Invited Seminar (Oslo).\n2025 — 47th EAA Annual Congress (Rome, discussant).\n2024 — CIVICA Faculty Short Visit Seminar, IE University.\n2023 — EAA Congress (Aalto, Helsinki); University of Padua.\n2022 — EAA Congress (NHH, Bergen); NHH Seminar Series.\n2021 — University of Bologna.\n2020 — Portsmouth Business School.\n2019 — AAA Annual Meeting (San Francisco); IIRAF (Beijing).\n2018 — EAA Congress (Bocconi)."
+  }
+]
