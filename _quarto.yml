@@ -13,18 +13,18 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: research.qmd
+      - href: index.qmd#publications
         text: Research
-      - href: teaching.qmd
+      - href: index.qmd#service-teaching-and-outreach
         text: Teaching
-      - href: code.qmd
+      - href: index.qmd#code
         text: Code
     right:
       - icon: github
         href: https://github.com/contefranz
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/in/francescogrossetti/
+        href: https://www.linkedin.com/in/francesco-grossetti/
         aria-label: LinkedIn
       - icon: envelope
         href: mailto:francesco.grossetti@unibocconi.it

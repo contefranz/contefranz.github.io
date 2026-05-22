@@ -1,29 +1,51 @@
 ---
 title: "Francesco Grossetti"
-subtitle: "Assistant Professor of Accounting Analytics and Data Science — Bocconi University"
+subtitle: "Assistant Professor of Accounting Analytics and Data Science"
 about:
   template: trestles
-  image: profile.jpg
+  image: profile.jpeg
   image-shape: round
   image-width: 16em
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:francesco.grossetti@unibocconi.it
+    # - icon: envelope
+    #   text: ""
+    #   href: mailto:francesco.grossetti@unibocconi.it
     - icon: github
-      text: GitHub
+      text: ""
       href: https://github.com/contefranz
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=3_RK7O8AAAAJ&hl=en
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Francesco-Grossetti
     - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/francescogrossetti/
-    - text: "{{< iconify academicons google-scholar >}} Scholar"
-      href: https://scholar.google.com/
-    - text: "Bocconi page"
+      text: ""
+      href: https://www.linkedin.com/in/francesco-grossetti/
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-5130-7745
+    - text: "Bocconi"
       href: https://accounting.unibocconi.eu/faculty/francesco-grossetti
+page-layout: full
 toc: false
 ---
 
-## About
+```{=html}
+<ul id="sidebar-contact" style="display:none">
+  <li><i class="bi bi-buildings"></i><span>Department of Accounting, Bocconi University<br>Via Roentgen 1, 20136 Milano, Italy</span></li>
+  <li><i class="bi bi-envelope-at"></i><span><a href="mailto:francesco.grossetti@unibocconi.it">francesco.grossetti@unibocconi.it</a></span></li>
+</ul>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const list = document.getElementById('sidebar-contact');
+  const links = document.querySelector('.about-entity .about-links');
+  if (list && links) {
+    list.style.display = '';
+    links.parentNode.insertBefore(list, links);
+  }
+});
+</script>
+```
+
+## Short Bio
 
 I am an Assistant Professor of Accounting Analytics and Data Science at the
 [Department of Accounting](https://accounting.unibocconi.eu) at Bocconi
@@ -31,7 +53,7 @@ University, a Fellow at the
 [Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu),
 and a member of the Bocconi Digital Transformation and AI Committee.
 
-My research sits at the intersection of **Natural Language Processing**,
+My work sits at the intersection of **Natural Language Processing**,
 **Machine Learning**, and **empirical finance**. I use large-scale textual
 and multimodal financial data to study corporate disclosure and its
 consequences — including firm tax outcomes and investor reactions to
@@ -43,17 +65,15 @@ model identification, and more).
 
 My work has appeared in the *Review of Accounting Studies*, the
 *Journal of Machine Learning Research*, the *Journal of Accounting and
-Public Policy*, and other outlets. I am an Editorial Board member of
-*Accounting in Europe* (2026–2029) and Scientific Program Coordinator of
-the 4th Bocconi Accounting Symposium (June 2026).
+Public Policy*, and other outlets.
 
-## Education
+### Education
 
 - **Ph.D.** in Applied and Computational Statistics — Politecnico di Milano (MOX) · 2017
 - **M.Sc.** in Astrophysics and Space Physics — Università di Milano-Bicocca · 2010
 - **B.Sc.** in Physics — Università di Milano-Bicocca
 
-## Positions
+### Positions
 
 - **Assistant Professor**, Department of Accounting, Bocconi University · 2018 – present
 - **Fellow**, Bocconi Institute for Data Science and Analytics · 2018 – present
@@ -61,3 +81,188 @@ the 4th Bocconi Accounting Symposium (June 2026).
 - **Visiting Assistant Professor**, IE University, Madrid · October 2022
 - **Postdoctoral Fellow**, Bocconi University · 2017 – 2018
 - **Research Fellow**, Politecnico di Milano · 2011 – 2013
+
+:::: {.columns}
+
+::: {.column width="48%"}
+### Research
+
+<!-- TODO: rewrite this paragraph in your own voice. -->
+**My research** focuses on how firms communicate with capital markets
+through text — annual reports, conference calls, codes of conduct, loan
+contracts, and tax disclosures — and on what investors, regulators, and
+machine-learning systems can recover from those communications. I combine
+**NLP**, **statistical learning**, and **stochastic-process models** with
+empirical accounting and finance, with a particular interest in
+**disclosure cascades**, **topic-model diagnostics**, and the limits of
+large language models in highly specialized domains.
+
+**Recent grants and recognitions:**
+
+- **CIVICA Research Grant EXECML** (2024–2026, €35,000) — *Using Machine
+  Learning to Uncover Subjective Incentives in Executive Compensation*,
+  with J. P. Gomez, K. Valogianni, and M. Ivanova.
+- **CIVICA Faculty Short Visits Program** (March 2024) — *Optimal
+  Benchmarking for Mutual Fund Performance Evaluation with NLP*, at IE
+  University.
+- **Bocconi Senior Research Grant**, Co-PI (2020–2021, €9,000) —
+  *Multi-modal Communication in Corporate Reporting*, with A. Caglio.
+- **Bocconi Junior Research Grant**, PI (2019–2020, €8,000) —
+  *edgartools: An Open Source Library to Efficiently Collect Financial
+  Filings from the SEC EDGAR Database*.
+:::
+
+::: {.column width="4%"}
+<!-- spacer -->
+:::
+
+::: {.column width="48%"}
+### Service, Teaching and Outreach
+
+<!-- TODO: rewrite this paragraph in your own voice. -->
+I serve on the **Editorial Board** of *Accounting in Europe* (2026–2029)
+and as **Scientific Program Coordinator** of the 4th Bocconi Accounting
+Symposium (June 22–23, 2026). I review for the *Journal of Accounting and
+Public Policy*, the *Journal of Business, Finance, and Accounting*, and
+the FARS section of AAA.
+
+At Bocconi I have designed and direct courses that bring data science,
+NLP, and blockchain into the MSc. and BSc. curricula in Accounting and
+AI. In 2023–2024 I received the **Bocconi Teaching Award for Innovation**
+for the course *Introduction to Blockchain*.
+
+**Current courses — Bocconi University:**
+
+- **Big Data for Business Decisions** — *MSc. Elective*
+- **Statistical and Computational Methods in Accounting** — *BSc. in AI,
+  Elective*
+- **Introduction to Blockchain** — *BSc. Elective* · *Bocconi Teaching
+  Award for Innovation, 2023–2024*
+
+I also teach **Introduction to Blockchain** at NHH (Bergen) and the Free
+University of Bozen (2024–2025), and the **NLP module** of *Mastering
+Data for Insurance* at SDA Bocconi Executive Custom Program.
+
+Since 2018 I have advised more than **40 MSc.** and **30 BSc.** theses on
+corporate disclosure, NLP, machine learning, and blockchain applications
+in accounting. Prospective advisees: please email me with a short note on
+your background and the questions you would like to work on.
+:::
+
+::::
+
+## Research Outputs {#publications}
+
+<!-- I work on corporate disclosure, applying NLP, machine learning, and -->
+<!-- computational statistics to large-scale textual and multimodal financial -->
+<!-- data. A full CV is available -->
+<!-- [on request](mailto:francesco.grossetti@unibocconi.it). -->
+
+### Published
+
+1. **Investor Distraction and Multi-Dimensional Financial Narrative**,
+   with M. Gietzmann and C. M. Lewis.
+   *Review of Accounting Studies* (2026), 31, 334–373.
+
+1. **Using Narrative Disclosures to Predict Tax Outcomes**,
+   with O. Bogachek, P. Demeré, and A. De Vito.
+   *Review of Accounting Studies* (2026), 31, 374–412.
+
+1. **Risk Guidance and Anti-Corruption Language: Evidence from Corporate
+   Codes of Conduct**, with O. Bogachek and M. Gietzmann.
+   *Journal of Risk Research* (2024), 27(7), 735–769.
+
+1. **A Statistical Approach for Optimal Topic Model Identification**,
+   with C. M. Lewis.
+   *Journal of Machine Learning Research* (2022), 23(58), 1–20.
+
+1. **Blockchain and Other Distributed Ledger Technologies: Where Is the
+   Accounting?**, with M. Gietzmann.
+   *Journal of Accounting and Public Policy* (2021), 40(5), 106881.
+
+1. **Impact of In-Hospital Cardiac Rehabilitation on Mortality and
+   Readmissions in Heart Failure: A Population Study in Lombardy, Italy,
+   from 2005 to 2012**, with S. Scalvini, A. M. Paganoni, M. T. La Rovere,
+   R. Pedretti, and M. Frigerio.
+   *European Journal of Preventive Cardiology* (2019).
+
+1. **A Multi-State Approach to Hospital Readmissions of Patients Affected
+   by Chronic Heart Failure: The Value Added by Administrative Data**,
+   with F. Ieva and A. Paganoni.
+   *Health Care Management Science* (2018).
+
+1. **H$\alpha^3$: An H$\alpha$ Imaging Survey of HI-Selected Galaxies from
+   ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster
+   and Surroundings**, with G. Gavazzi et al.
+   *Astronomy & Astrophysics* (2013).
+
+1. **H$\alpha^3$: An H$\alpha$ Imaging Survey of HI-Selected Galaxies from
+   ALFALFA. I. Catalogue in the Local Supercluster**, with G. Gavazzi et al.
+   *Astronomy & Astrophysics* (2012).
+
+### Working papers
+
+- **FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data**,
+  with C. Burd, E. Casi, and P. Lisowsky — *under 3rd-round review*.
+- **The Information Content of Loan Contract Disclosures**,
+  with I. Brancaccio and P. Demeré — *under review*.
+- **It's the Human Touch! Performance of Large Language Models in
+  Highly-Specific Domains**, with M. Gietzmann and C. M. Lewis — *under review*.
+- **Tax-Motivated Share Repurchases and Corporate Investment During Crisis**,
+  with C. D'Augusta and A. De Vito — *under review*.
+- **Goodness-of-Fit Indices and Diagnostics for Topic Models**,
+  with C. M. Lewis.
+
+### Work in progress
+
+- **M&A Bankers' Human Capital: The Role of Expertise, Connections, and
+  Background in Dealmaking**, with A. Ellahie and R. Vincenzi.
+- **Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing**,
+  with L. Bullini Orlandi, A. De Vito, and P. Demeré.
+- **Disclosure Cascade: A Hawkes Process Approach**, with M. Gietzmann.
+
+### Books and monographs
+
+- **Value Relevance of Textual Characteristics — Evidence from Annual
+  Reports of U.S. Listed Firms**, with O. Bogachek.
+  Springer – SIDREA Series in Accounting and Business Administration, 2025.
+- **Tax Avoidance Research: Exploring Networks and Dynamics of Global
+  Academic Collaboration**, with A. De Vito.
+  Springer – SIDREA Series in Accounting and Business Administration, 2024.
+- **Python for Non-Pythonians: How to Win Over Programming Languages**,
+  with G. Rubera. Bocconi University Press – Egea, 2019.
+
+### Selected talks
+
+- **2026** — 48th EAA Annual Congress (Prague); NHH Invited Seminar (Bergen);
+  BI Invited Seminar (Oslo).
+- **2025** — 47th EAA Annual Congress (Rome, discussant).
+- **2024** — CIVICA Faculty Short Visit Seminar, IE University.
+- **2023** — EAA Congress (Aalto, Helsinki); University of Padua.
+- **2022** — EAA Congress (NHH, Bergen); NHH Seminar Series.
+- **2021** — University of Bologna.
+- **2020** — Portsmouth Business School.
+- **2019** — AAA Annual Meeting (San Francisco); IIRAF (Beijing).
+- **2018** — EAA Congress (Bocconi).
+
+## Code
+
+I am an active developer of open-source tools for empirical accounting
+and finance research. All projects live on
+[GitHub](https://github.com/contefranz).
+
+<!-- ### Featured projects -->
+
+<!-- #### edgartools -->
+<!-- *An open-source library to efficiently collect financial filings from -->
+<!-- the SEC EDGAR database.* -->
+<!-- Funded by a Bocconi Junior Research Grant (PI, 2019–2020, €8,000). -->
+
+<!-- [Repository](https://github.com/contefranz) -->
+
+### Reproducibility
+
+Where possible, the code that accompanies my published papers is
+released alongside the working-paper version. If you are looking for
+replication materials for a specific paper and cannot find them, please
+[email me](mailto:francesco.grossetti@unibocconi.it).
