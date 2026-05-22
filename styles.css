@@ -1,5 +1,5 @@
 /* ---------- Fonts ---------- */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto+Slab:wght@500;700&family=JetBrains+Mono:wght@400;500&display=swap");
 
 /* ---------- Palette (light, calm, academic) ---------- */
 :root {
@@ -24,6 +24,11 @@ body {
 
 #quarto-content {
   max-width: 1080px;
+}
+
+/* Landing page uses the full viewport, so lift the cap there */
+#quarto-content.page-layout-full {
+  max-width: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -67,7 +72,113 @@ a:hover {
   color: var(--accent) !important;
 }
 
+/* ---------- Full-width page grid override ---------- */
+/* Quarto's default grid caps body-content at ~800px. On the landing page
+   (page-layout: full) we want the content to use the available viewport. */
+.page-layout-full.page-columns {
+  grid-template-columns:
+    [screen-start] 1.5em
+    [screen-start-inset page-start page-start-inset body-start-outset body-start body-content-start] 1fr
+    [body-content-end body-end body-end-outset page-end-inset page-end screen-end-inset] 1.5em
+    [screen-end] !important;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------- Two-column blocks in body ---------- */
+/* Quarto's .columns is presentations-only by default; make it work in HTML. */
+.quarto-about-trestles .about-contents div.columns,
+#quarto-document-content div.columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.quarto-about-trestles .about-contents div.columns > div.column,
+#quarto-document-content div.columns > div.column {
+  min-width: 0;
+}
+/* Stack columns on narrow viewports */
+@media (max-width: 768px) {
+  .quarto-about-trestles .about-contents div.columns,
+  #quarto-document-content div.columns {
+    flex-direction: column;
+  }
+  .quarto-about-trestles .about-contents div.columns > div.column,
+  #quarto-document-content div.columns > div.column {
+    width: 100% !important;
+  }
+}
+
 /* ---------- About block (landing page) ---------- */
+.quarto-about-trestles {
+  padding-left: clamp(1rem, 4vw, 3rem) !important;
+  padding-right: clamp(1rem, 4vw, 3rem) !important;
+}
+
+/* Durante-style sidebar header */
+.quarto-about-trestles .about-entity .quarto-title h1.title {
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+  line-height: 1.15;
+  margin-bottom: 0.4em;
+  letter-spacing: -0.01em;
+}
+.quarto-about-trestles .about-entity .quarto-title p.subtitle.lead {
+  font-family: "Roboto Slab", serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+  line-height: 1.4;
+  margin-bottom: 1.25rem;
+}
+
+/* Contact list injected into the sidebar */
+.quarto-about-trestles .about-entity #sidebar-contact {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.25rem 0;
+  text-align: left;
+  width: 100%;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.quarto-about-trestles .about-entity #sidebar-contact li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+  color: var(--fg);
+}
+.quarto-about-trestles .about-entity #sidebar-contact li i {
+  flex-shrink: 0;
+  margin-top: 0.18em;
+  color: var(--fg-muted);
+  font-size: 1rem;
+}
+.quarto-about-trestles .about-entity #sidebar-contact li a {
+  color: var(--fg);
+  border-bottom: none;
+}
+.quarto-about-trestles .about-entity #sidebar-contact li a:hover {
+  color: var(--accent);
+  border-bottom: 1px solid var(--accent);
+}
+
+.quarto-about-trestles .about-entity {
+  flex: 0 0 clamp(200px, 22vw, 300px) !important;
+}
+
+.quarto-about-trestles .about-contents {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
 .quarto-about-trestles .about-entity {
   border: 1px solid var(--border);
   border-radius: 12px;
