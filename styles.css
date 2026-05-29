@@ -122,10 +122,11 @@ a:hover {
 .quarto-about-trestles .about-entity .quarto-title h1.title {
   font-family: "Roboto Slab", serif;
   font-weight: 700;
-  font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+  font-size: clamp(1.5rem, 2.2vw, 2rem);
   line-height: 1.15;
   margin-bottom: 0.4em;
   letter-spacing: -0.01em;
+  white-space: nowrap;
 }
 .quarto-about-trestles .about-entity .quarto-title p.subtitle.lead {
   font-family: "Roboto Slab", serif;
@@ -171,7 +172,7 @@ a:hover {
 }
 
 .quarto-about-trestles .about-entity {
-  flex: 0 0 clamp(200px, 22vw, 300px) !important;
+  flex: 0 0 clamp(260px, 28vw, 400px) !important;
 }
 
 .quarto-about-trestles .about-contents {

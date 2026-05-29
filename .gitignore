@@ -3,6 +3,7 @@
 *_files/
 *_cache/
 .Rproj.user/
+*.Rproj
 .Rhistory
 .RData
 .Ruserdata
