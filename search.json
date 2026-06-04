@@ -1,5 +1,565 @@
 [
   {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nNLPstudio\n\n\n\nR\n\nNLP\n\nfeatured\n\n\n\nComposable NLP pipelines for empirical accounting and finance research.\n\n\n\n\n\n\n\n\n\n\nedgartools\n\n\n\nR\n\nSEC\n\nEDGAR\n\nfeatured\n\n\n\nAn open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).\n\n\n\n\n\nNo matching items\n\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "At Bocconi I have designed and direct courses that bring data science, NLP, and blockchain into the MSc. and BSc. curricula in Accounting and AI. In 2023–2024 I received the Bocconi Teaching Award for Innovation for Introduction to Blockchain."
+  },
+  {
+    "objectID": "teaching.html#current-courses-bocconi-university",
+    "href": "teaching.html#current-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Current courses — Bocconi University",
+    "text": "Current courses — Bocconi University\n\nBig Data for Business Decisions — MSc. Elective\nStatistical and Computational Methods in Accounting — BSc. in AI, Elective\nIntroduction to Blockchain — BSc. Elective · Bocconi Teaching Award for Innovation, 2023–2024"
+  },
+  {
+    "objectID": "teaching.html#past-courses-bocconi-university",
+    "href": "teaching.html#past-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Past courses — Bocconi University",
+    "text": "Past courses — Bocconi University\n\nAccounting and Financial Statement Analysis — Module I\nDeep Learning for Computer Vision\nComputer Programming and Database Systems"
+  },
+  {
+    "objectID": "teaching.html#sda-bocconi-school-of-management",
+    "href": "teaching.html#sda-bocconi-school-of-management",
+    "title": "Teaching",
+    "section": "SDA Bocconi School of Management",
+    "text": "SDA Bocconi School of Management\n\nMastering Data for Insurance — NLP Module, Executive Custom Program."
+  },
+  {
+    "objectID": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "href": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "title": "Teaching",
+    "section": "NHH and Free University of Bozen (2024–2025)",
+    "text": "NHH and Free University of Bozen (2024–2025)\n\nIntroduction to Blockchain — offered at both BSc. and MSc. level."
+  },
+  {
+    "objectID": "teaching.html#service",
+    "href": "teaching.html#service",
+    "title": "Teaching",
+    "section": "Service",
+    "text": "Service\nI serve on the Editorial Board of Accounting in Europe (2026–2029) and as Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 22–23, 2026). I review for the Journal of Accounting and Public Policy, the Journal of Business, Finance, and Accounting, and the FARS section of AAA."
+  },
+  {
+    "objectID": "teaching.html#advising",
+    "href": "teaching.html#advising",
+    "title": "Teaching",
+    "section": "Advising",
+    "text": "Advising\nSince 2018 I have advised more than 40 MSc. and 30 BSc. theses on corporate disclosure, NLP, machine learning, and blockchain applications in accounting.\nProspective advisees: please email me with a short note on your background and the questions you would like to work on."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html",
+    "href": "publications/wp-fintag2text.html",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "",
+    "text": "Working paper — under 3rd-round review."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#abstract",
+    "href": "publications/wp-fintag2text.html#abstract",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#citation",
+    "href": "publications/wp-fintag2text.html#citation",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Citation",
+    "text": "Citation\nBurd, C., Casi, E., Grossetti, F., & Lisowsky, P. (work in progress). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data."
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html",
+    "href": "publications/2012-halpha3-i.html",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "",
+    "text": "Astronomy & Astrophysics (2012).\nDOI · PDF"
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#abstract",
+    "href": "publications/2012-halpha3-i.html#abstract",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#citation",
+    "href": "publications/2012-halpha3-i.html#citation",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "Citation",
+    "text": "Citation\nGavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., Haynes, M. P., & Fabello, S. (2012). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Astronomy & Astrophysics."
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#bibtex",
+    "href": "publications/2012-halpha3-i.html#bibtex",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{gavazzi2012halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Sabrina},\n  journal = {Astronomy \\& Astrophysics},\n  year    = {2012}\n}"
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html",
+    "href": "publications/wp-topic-gof.html",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "",
+    "text": "Working paper."
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html#abstract",
+    "href": "publications/wp-topic-gof.html#abstract",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html#citation",
+    "href": "publications/wp-topic-gof.html#citation",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., & Lewis, C. M. (work in progress). Goodness-of-Fit Indices and Diagnostics for Topic Models."
+  },
+  {
+    "objectID": "publications/wip-ma-bankers.html",
+    "href": "publications/wip-ma-bankers.html",
+    "title": "M&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking",
+    "section": "",
+    "text": "Work in progress."
+  },
+  {
+    "objectID": "publications/wip-ma-bankers.html#abstract",
+    "href": "publications/wip-ma-bankers.html#abstract",
+    "title": "M&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html",
+    "href": "publications/wp-human-touch-llm.html",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "",
+    "text": "Working paper — under review."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html#abstract",
+    "href": "publications/wp-human-touch-llm.html#abstract",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html#citation",
+    "href": "publications/wp-human-touch-llm.html#citation",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "Citation",
+    "text": "Citation\nGietzmann, M., Grossetti, F., & Lewis, C. M. (work in progress). It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains."
+  },
+  {
+    "objectID": "publications/book-value-relevance-2025.html",
+    "href": "publications/book-value-relevance-2025.html",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
+    "section": "",
+    "text": "Springer – SIDREA Series in Accounting and Business Administration (2025).\nPublisher · Read sample"
+  },
+  {
+    "objectID": "publications/book-value-relevance-2025.html#abstract",
+    "href": "publications/book-value-relevance-2025.html#abstract",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract / overview forthcoming."
+  },
+  {
+    "objectID": "publications/book-value-relevance-2025.html#citation",
+    "href": "publications/book-value-relevance-2025.html#citation",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
+    "section": "Citation",
+    "text": "Citation\nBogachek, O., & Grossetti, F. (2025). Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms. Springer – SIDREA Series."
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html",
+    "href": "publications/book-tax-avoidance-2024.html",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "",
+    "text": "Springer – SIDREA Series in Accounting and Business Administration (2024).\nPublisher · Read sample"
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html#abstract",
+    "href": "publications/book-tax-avoidance-2024.html#abstract",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract / overview forthcoming."
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html#citation",
+    "href": "publications/book-tax-avoidance-2024.html#citation",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "Citation",
+    "text": "Citation\nDe Vito, A., & Grossetti, F. (2024). Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration. Springer – SIDREA Series."
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html",
+    "href": "publications/2022-topic-model-identification.html",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "",
+    "text": "Journal of Machine Learning Research (2022), 23(58), 1–20.\nDOI · PDF · Code"
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#abstract",
+    "href": "publications/2022-topic-model-identification.html#abstract",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#citation",
+    "href": "publications/2022-topic-model-identification.html#citation",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., & Lewis, C. M. (2022). A Statistical Approach for Optimal Topic Model Identification. Journal of Machine Learning Research, 23(58), 1–20."
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#bibtex",
+    "href": "publications/2022-topic-model-identification.html#bibtex",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2022topic,\n  title   = {A Statistical Approach for Optimal Topic Model Identification},\n  author  = {Grossetti, Francesco and Lewis, Craig M.},\n  journal = {Journal of Machine Learning Research},\n  volume  = {23},\n  number  = {58},\n  pages   = {1--20},\n  year    = {2022}\n}"
+  },
+  {
+    "objectID": "publications/2013-halpha3-ii.html",
+    "href": "publications/2013-halpha3-ii.html",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
+    "section": "",
+    "text": "Astronomy & Astrophysics (2013).\nDOI · PDF"
+  },
+  {
+    "objectID": "publications/2013-halpha3-ii.html#abstract",
+    "href": "publications/2013-halpha3-ii.html#abstract",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2013-halpha3-ii.html#citation",
+    "href": "publications/2013-halpha3-ii.html#citation",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
+    "section": "Citation",
+    "text": "Citation\nGavazzi, G., Fumagalli, M., Fossati, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., & Haynes, M. P. (2013). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Astronomy & Astrophysics."
+  },
+  {
+    "objectID": "publications/2013-halpha3-ii.html#bibtex",
+    "href": "publications/2013-halpha3-ii.html#bibtex",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{gavazzi2013halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Fossati, Matteo and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P.},\n  journal = {Astronomy \\& Astrophysics},\n  year    = {2013}\n}"
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html",
+    "href": "publications/2026-investor-distraction.html",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "",
+    "text": "Review of Accounting Studies (2026), 31, 334–373.\nDOI · PDF · Code"
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#abstract",
+    "href": "publications/2026-investor-distraction.html#abstract",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming — add the published abstract here."
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#citation",
+    "href": "publications/2026-investor-distraction.html#citation",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., Gietzmann, M., & Lewis, C. M. (2026). Investor Distraction and Multi-Dimensional Financial Narrative. Review of Accounting Studies, 31, 334–373."
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#bibtex",
+    "href": "publications/2026-investor-distraction.html#bibtex",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2026investor,\n  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},\n  author  = {Grossetti, Francesco and Gietzmann, Miles and Lewis, Craig M.},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {334--373},\n  year    = {2026}\n}"
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html",
+    "href": "publications/2021-blockchain-accounting.html",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "",
+    "text": "Journal of Accounting and Public Policy (2021), 40(5), 106881.\nDOI · PDF · Code"
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#abstract",
+    "href": "publications/2021-blockchain-accounting.html#abstract",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#citation",
+    "href": "publications/2021-blockchain-accounting.html#citation",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., & Gietzmann, M. (2021). Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting? Journal of Accounting and Public Policy, 40(5), 106881."
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#bibtex",
+    "href": "publications/2021-blockchain-accounting.html#bibtex",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2021blockchain,\n  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},\n  author  = {Grossetti, Francesco and Gietzmann, Miles},\n  journal = {Journal of Accounting and Public Policy},\n  volume  = {40},\n  number  = {5},\n  pages   = {106881},\n  year    = {2021}\n}"
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html",
+    "href": "publications/2018-multistate-readmissions.html",
+    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "",
+    "text": "Health Care Management Science (2018).\nDOI · PDF"
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#abstract",
+    "href": "publications/2018-multistate-readmissions.html#abstract",
+    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#citation",
+    "href": "publications/2018-multistate-readmissions.html#citation",
+    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., Ieva, F., & Paganoni, A. M. (2018). A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data. Health Care Management Science."
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#bibtex",
+    "href": "publications/2018-multistate-readmissions.html#bibtex",
+    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  year    = {2018}\n}"
+  },
+  {
+    "objectID": "publications/wp-tax-repurchases.html",
+    "href": "publications/wp-tax-repurchases.html",
+    "title": "Tax-Motivated Share Repurchases and Corporate Investment During Crisis",
+    "section": "",
+    "text": "Working paper — under review."
+  },
+  {
+    "objectID": "publications/wp-tax-repurchases.html#abstract",
+    "href": "publications/wp-tax-repurchases.html#abstract",
+    "title": "Tax-Motivated Share Repurchases and Corporate Investment During Crisis",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-tax-repurchases.html#citation",
+    "href": "publications/wp-tax-repurchases.html#citation",
+    "title": "Tax-Motivated Share Repurchases and Corporate Investment During Crisis",
+    "section": "Citation",
+    "text": "Citation\nD’Augusta, C., De Vito, A., & Grossetti, F. (work in progress). Tax-Motivated Share Repurchases and Corporate Investment During Crisis."
+  },
+  {
+    "objectID": "publications/2024-risk-guidance-codes.html",
+    "href": "publications/2024-risk-guidance-codes.html",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
+    "section": "",
+    "text": "Journal of Risk Research (2024), 27(7), 735–769.\nDOI · PDF · Code"
+  },
+  {
+    "objectID": "publications/2024-risk-guidance-codes.html#abstract",
+    "href": "publications/2024-risk-guidance-codes.html#abstract",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2024-risk-guidance-codes.html#citation",
+    "href": "publications/2024-risk-guidance-codes.html#citation",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
+    "section": "Citation",
+    "text": "Citation\nBogachek, O., Gietzmann, M., & Grossetti, F. (2024). Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct. Journal of Risk Research, 27(7), 735–769."
+  },
+  {
+    "objectID": "publications/2024-risk-guidance-codes.html#bibtex",
+    "href": "publications/2024-risk-guidance-codes.html#bibtex",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{bogachek2024risk,\n  title   = {Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct},\n  author  = {Bogachek, Olga and Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Risk Research},\n  volume  = {27},\n  number  = {7},\n  pages   = {735--769},\n  year    = {2024}\n}"
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html",
+    "href": "publications/2026-narrative-tax-outcomes.html",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "",
+    "text": "Review of Accounting Studies (2026), 31, 374–412.\nDOI · PDF · Code"
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#abstract",
+    "href": "publications/2026-narrative-tax-outcomes.html#abstract",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming — add the published abstract here."
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#citation",
+    "href": "publications/2026-narrative-tax-outcomes.html#citation",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "Citation",
+    "text": "Citation\nBogachek, O., Demeré, P., De Vito, A., & Grossetti, F. (2026). Using Narrative Disclosures to Predict Tax Outcomes. Review of Accounting Studies, 31, 374–412."
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#bibtex",
+    "href": "publications/2026-narrative-tax-outcomes.html#bibtex",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{bogachek2026narrative,\n  title   = {Using Narrative Disclosures to Predict Tax Outcomes},\n  author  = {Bogachek, Olga and Demer{\\'e}, Paul and De Vito, Antonio and Grossetti, Francesco},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {374--412},\n  year    = {2026}\n}"
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html",
+    "href": "publications/wp-loan-contract-disclosures.html",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "",
+    "text": "Working paper — under review."
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html#abstract",
+    "href": "publications/wp-loan-contract-disclosures.html#abstract",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html#citation",
+    "href": "publications/wp-loan-contract-disclosures.html#citation",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "Citation",
+    "text": "Citation\nBrancaccio, I., Demeré, P., & Grossetti, F. (work in progress). The Information Content of Loan Contract Disclosures."
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html",
+    "href": "publications/wip-disclosure-cascade.html",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "",
+    "text": "Work in progress."
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html#abstract",
+    "href": "publications/wip-disclosure-cascade.html#abstract",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2019-cardiac-rehab.html",
+    "href": "publications/2019-cardiac-rehab.html",
+    "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
+    "section": "",
+    "text": "European Journal of Preventive Cardiology (2019).\nDOI · PDF"
+  },
+  {
+    "objectID": "publications/2019-cardiac-rehab.html#abstract",
+    "href": "publications/2019-cardiac-rehab.html#abstract",
+    "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/2019-cardiac-rehab.html#citation",
+    "href": "publications/2019-cardiac-rehab.html#citation",
+    "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., Scalvini, S., Paganoni, A. M., La Rovere, M. T., Pedretti, R., & Frigerio, M. (2019). Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012. European Journal of Preventive Cardiology."
+  },
+  {
+    "objectID": "publications/2019-cardiac-rehab.html#bibtex",
+    "href": "publications/2019-cardiac-rehab.html#bibtex",
+    "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2019cardiac,\n  title   = {Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012},\n  author  = {Grossetti, Francesco and Scalvini, Simonetta and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto and Frigerio, Maria},\n  journal = {European Journal of Preventive Cardiology},\n  year    = {2019}\n}"
+  },
+  {
+    "objectID": "publications/wip-ties-that-blind.html",
+    "href": "publications/wip-ties-that-blind.html",
+    "title": "Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing",
+    "section": "",
+    "text": "Work in progress."
+  },
+  {
+    "objectID": "publications/wip-ties-that-blind.html#abstract",
+    "href": "publications/wip-ties-that-blind.html#abstract",
+    "title": "Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing",
+    "section": "Abstract",
+    "text": "Abstract\nAbstract forthcoming."
+  },
+  {
+    "objectID": "publications/book-python-2019.html",
+    "href": "publications/book-python-2019.html",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "",
+    "text": "Bocconi University Press – Egea (2019).\nPublisher"
+  },
+  {
+    "objectID": "publications/book-python-2019.html#abstract",
+    "href": "publications/book-python-2019.html#abstract",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "Abstract",
+    "text": "Abstract\nA hands-on introduction to Python for readers without a programming background, written for students of accounting, finance, and management who need to become productive with code."
+  },
+  {
+    "objectID": "publications/book-python-2019.html#citation",
+    "href": "publications/book-python-2019.html#citation",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., & Rubera, G. (2019). Python for Non-Pythonians: How to Win Over Programming Languages. Bocconi University Press – Egea."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My research uses NLP, machine learning, and computational statistics on large-scale textual and multimodal financial data to study corporate disclosure and its consequences — investor reactions to layered narratives, firm tax outcomes, disclosure cascades, and the diagnostics of topic models. Below: published work, working papers, work in progress, books, and recent talks."
+  },
+  {
+    "objectID": "publications.html#published",
+    "href": "publications.html#published",
+    "title": "Publications",
+    "section": "Published",
+    "text": "Published\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ndisclosure\n\nfeatured\n\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\nFrancesco Grossetti, Miles Gietzmann, Craig M. Lewis\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ntax\n\nfeatured\n\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\nOlga Bogachek, Paul Demeré, Antonio De Vito, Francesco Grossetti\n\n\n\n\n\n\n\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct\n\n\n\npublished\n\n2024\n\naccounting\n\nNLP\n\ngovernance\n\n\n\nJournal of Risk Research, 2024\n\n\n\n\n\nJan 1, 2024\n\n\nOlga Bogachek, Miles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\n\npublished\n\n2022\n\nmachine-learning\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nJournal of Machine Learning Research, 2022\n\n\n\n\n\nJan 1, 2022\n\n\nFrancesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?\n\n\n\npublished\n\n2021\n\naccounting\n\nblockchain\n\n\n\nJournal of Accounting and Public Policy, 2021\n\n\n\n\n\nJan 1, 2021\n\n\nFrancesco Grossetti, Miles Gietzmann\n\n\n\n\n\n\n\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012\n\n\n\npublished\n\n2019\n\nbiostatistics\n\nhealthcare\n\n\n\nEuropean Journal of Preventive Cardiology, 2019\n\n\n\n\n\nJan 1, 2019\n\n\nFrancesco Grossetti, Simonetta Scalvini, Anna Maria Paganoni, Maria Teresa La Rovere, Roberto Pedretti, Maria Frigerio\n\n\n\n\n\n\n\nA Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data\n\n\n\npublished\n\n2018\n\nbiostatistics\n\nhealthcare\n\n\n\nHealth Care Management Science, 2018\n\n\n\n\n\nJan 1, 2018\n\n\nFrancesco Grossetti, Francesca Ieva, Anna Maria Paganoni\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings\n\n\n\npublished\n\n2013\n\nastrophysics\n\n\n\nAstronomy & Astrophysics, 2013\n\n\n\n\n\nJan 1, 2013\n\n\nFrancesco Grossetti, Giuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Veronica Galardo, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster\n\n\n\npublished\n\n2012\n\nastrophysics\n\n\n\nAstronomy & Astrophysics, 2012\n\n\n\n\n\nJan 1, 2012\n\n\nFrancesco Grossetti, Giuseppe Gavazzi, Michele Fumagalli, Veronica Galardo, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes, Sabrina Fabello\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nStatus\n\n\n\n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\nChristopher Burd, Eddy Casi, Francesco Grossetti, Petro Lisowsky\n\n\nWorking paper — under 3rd-round review\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\nWorking paper — under review\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\nIlaria Brancaccio, Paul Demeré, Francesco Grossetti\n\n\nWorking paper — under review\n\n\n\n\n\n\nTax-Motivated Share Repurchases and Corporate Investment During Crisis\n\n\nCarlo D’Augusta, Antonio De Vito, Francesco Grossetti\n\n\nWorking paper — under review\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\nFrancesco Grossetti, Craig M. Lewis\n\n\nWorking paper\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#work-in-progress",
+    "href": "publications.html#work-in-progress",
+    "title": "Publications",
+    "section": "Work in progress",
+    "text": "Work in progress\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nDisclosure Cascade: A Hawkes Process Approach\n\n\nMiles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\nM&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking\n\n\nAtif Ellahie, Francesco Grossetti, Riccardo Vincenzi\n\n\n\n\n\n\nTies That Blind: Social Networks, Pressure, and CEO Wrongdoing\n\n\nLudovica Bullini Orlandi, Antonio De Vito, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#books-and-monographs",
+    "href": "publications.html#books-and-monographs",
+    "title": "Publications",
+    "section": "Books and monographs",
+    "text": "Books and monographs\n\n\n\n\n\nValue Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms\n\n\nSpringer — SIDREA Series in Accounting and Business Administration, 2025\n\n\n\n\n\nJan 1, 2025\n\n\nOlga Bogachek, Francesco Grossetti\n\n\n\n\n\n\n\nTax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration\n\n\nSpringer — SIDREA Series in Accounting and Business Administration, 2024\n\n\n\n\n\nJan 1, 2024\n\n\nAntonio De Vito, Francesco Grossetti\n\n\n\n\n\n\n\nPython for Non-Pythonians: How to Win Over Programming Languages\n\n\nBocconi University Press / Egea, 2019\n\n\n\n\n\nJan 1, 2019\n\n\nFrancesco Grossetti, Gaia Rubera\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#selected-talks",
+    "href": "publications.html#selected-talks",
+    "title": "Publications",
+    "section": "Selected talks",
+    "text": "Selected talks\n\n2026 — 48th EAA Annual Congress (Prague); NHH Invited Seminar (Bergen); BI Invited Seminar (Oslo).\n2025 — 47th EAA Annual Congress (Rome, discussant).\n2024 — CIVICA Faculty Short Visit Seminar, IE University.\n2023 — EAA Congress (Aalto, Helsinki); University of Padua.\n2022 — EAA Congress (NHH, Bergen); NHH Seminar Series.\n2021 — University of Bologna.\n2020 — Portsmouth Business School.\n2019 — AAA Annual Meeting (San Francisco); IIRAF (Beijing).\n2018 — EAA Congress (Bocconi)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Francesco Grossetti",
@@ -11,20 +571,20 @@
     "href": "index.html#short-bio",
     "title": "Francesco Grossetti",
     "section": "Short Bio",
-    "text": "Short Bio\nI am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nMy work sits at the intersection of Natural Language Processing, Machine Learning, and empirical finance. I use large-scale textual and multimodal financial data to study corporate disclosure and its consequences — including firm tax outcomes and investor reactions to multi-dimensional financial narratives. Methodologically, I draw on statistical learning and computational statistics, with a focus on stochastic processes for sequential data, which lets me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets.\n\nEducation\n\nPh.D. in Applied and Computational Statistics — Politecnico di Milano (MOX) · 2017\nM.Sc. in Astrophysics and Space Physics — Università di Milano-Bicocca · 2010\nB.Sc. in Physics — Università di Milano-Bicocca\n\n\n\nPositions\n\nAssistant Professor, Department of Accounting, Bocconi University · 2018 – present\nFellow, Bocconi Institute for Data Science and Analytics · 2018 – present\nVisiting Associate Professor (recurrent), NHH, Bergen · 2024 – 2025\nVisiting Assistant Professor, IE University, Madrid · October 2022\nPostdoctoral Fellow, Bocconi University · 2017 – 2018\nResearch Fellow, Politecnico di Milano · 2011 – 2013\n\n\n\n\n\nResearch\n\nMy research focuses on how firms communicate with capital markets through text — annual reports, conference calls, codes of conduct, loan contracts, and tax disclosures — and on what investors, regulators, and machine-learning systems can recover from those communications. I combine NLP, statistical learning, and stochastic-process models with empirical accounting and finance, with a particular interest in disclosure cascades, topic-model diagnostics, and the limits of large language models in highly specialized domains.\nRecent grants and recognitions:\n\nCIVICA Research Grant EXECML (2024–2026, €35,000) — Using Machine Learning to Uncover Subjective Incentives in Executive Compensation, with J. P. Gomez, K. Valogianni, and M. Ivanova.\nCIVICA Faculty Short Visits Program (March 2024) — Optimal Benchmarking for Mutual Fund Performance Evaluation with NLP, at IE University.\nBocconi Senior Research Grant, Co-PI (2020–2021, €9,000) — Multi-modal Communication in Corporate Reporting, with A. Caglio.\nBocconi Junior Research Grant, PI (2019–2020, €8,000) — edgartools: An Open Source Library to Efficiently Collect Financial Filings from the SEC EDGAR Database.\n\n\n\n\n\n\nService, Teaching and Outreach\n\nI serve on the Editorial Board of Accounting in Europe (2026–2029) and as Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 22–23, 2026). I review for the Journal of Accounting and Public Policy, the Journal of Business, Finance, and Accounting, and the FARS section of AAA.\nAt Bocconi I have designed and direct courses that bring data science, NLP, and blockchain into the MSc. and BSc. curricula in Accounting and AI. In 2023–2024 I received the Bocconi Teaching Award for Innovation for the course Introduction to Blockchain.\nCurrent courses — Bocconi University:\n\nBig Data for Business Decisions — MSc. Elective\nStatistical and Computational Methods in Accounting — BSc. in AI, Elective\nIntroduction to Blockchain — BSc. Elective · Bocconi Teaching Award for Innovation, 2023–2024\n\nI also teach Introduction to Blockchain at NHH (Bergen) and the Free University of Bozen (2024–2025), and the NLP module of Mastering Data for Insurance at SDA Bocconi Executive Custom Program.\nSince 2018 I have advised more than 40 MSc. and 30 BSc. theses on corporate disclosure, NLP, machine learning, and blockchain applications in accounting. Prospective advisees: please email me with a short note on your background and the questions you would like to work on."
+    "text": "Short Bio\nI am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nMy work sits at the intersection of Natural Language Processing, Machine Learning, and empirical finance. I use large-scale textual and multimodal financial data to study corporate disclosure and its consequences — including firm tax outcomes and investor reactions to multi-dimensional financial narratives. Methodologically, I draw on statistical learning and computational statistics, with a focus on stochastic processes for sequential data, which lets me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets.\n\nEducation\n\nPh.D. in Applied and Computational Statistics — Politecnico di Milano (MOX) · 2017\nM.Sc. in Astrophysics and Space Physics — Università di Milano-Bicocca · 2010\nB.Sc. in Physics — Università di Milano-Bicocca\n\n\n\nPositions\n\nAssistant Professor, Department of Accounting, Bocconi University · 2018 – present\nFellow, Bocconi Institute for Data Science and Analytics · 2018 – present\nVisiting Associate Professor (recurrent), NHH, Bergen · 2024 – 2025\nVisiting Assistant Professor, IE University, Madrid · October 2022\nPostdoctoral Fellow, Bocconi University · 2017 – 2018\nResearch Fellow, Politecnico di Milano · 2011 – 2013"
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#featured-publications",
+    "href": "index.html#featured-publications",
     "title": "Francesco Grossetti",
-    "section": "Research Outputs",
-    "text": "Research Outputs\n\n\n\n\n\nPublished\n\nInvestor Distraction and Multi-Dimensional Financial Narrative, with M. Gietzmann and C. M. Lewis. Review of Accounting Studies (2026), 31, 334–373.\nUsing Narrative Disclosures to Predict Tax Outcomes, with O. Bogachek, P. Demeré, and A. De Vito. Review of Accounting Studies (2026), 31, 374–412.\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct, with O. Bogachek and M. Gietzmann. Journal of Risk Research (2024), 27(7), 735–769.\nA Statistical Approach for Optimal Topic Model Identification, with C. M. Lewis. Journal of Machine Learning Research (2022), 23(58), 1–20.\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?, with M. Gietzmann. Journal of Accounting and Public Policy (2021), 40(5), 106881.\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012, with S. Scalvini, A. M. Paganoni, M. T. La Rovere, R. Pedretti, and M. Frigerio. European Journal of Preventive Cardiology (2019).\nA Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data, with F. Ieva and A. Paganoni. Health Care Management Science (2018).\nH\\(\\alpha^3\\): An H\\(\\alpha\\) Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings, with G. Gavazzi et al. Astronomy & Astrophysics (2013).\nH\\(\\alpha^3\\): An H\\(\\alpha\\) Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster, with G. Gavazzi et al. Astronomy & Astrophysics (2012).\n\n\n\nWorking papers\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data, with C. Burd, E. Casi, and P. Lisowsky — under 3rd-round review.\nThe Information Content of Loan Contract Disclosures, with I. Brancaccio and P. Demeré — under review.\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains, with M. Gietzmann and C. M. Lewis — under review.\nTax-Motivated Share Repurchases and Corporate Investment During Crisis, with C. D’Augusta and A. De Vito — under review.\nGoodness-of-Fit Indices and Diagnostics for Topic Models, with C. M. Lewis.\n\n\n\nWork in progress\n\nM&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking, with A. Ellahie and R. Vincenzi.\nTies That Blind: Social Networks, Pressure, and CEO Wrongdoing, with L. Bullini Orlandi, A. De Vito, and P. Demeré.\nDisclosure Cascade: A Hawkes Process Approach, with M. Gietzmann.\n\n\n\nBooks and monographs\n\nValue Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms, with O. Bogachek. Springer – SIDREA Series in Accounting and Business Administration, 2025.\nTax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration, with A. De Vito. Springer – SIDREA Series in Accounting and Business Administration, 2024.\nPython for Non-Pythonians: How to Win Over Programming Languages, with G. Rubera. Bocconi University Press – Egea, 2019.\n\n\n\nSelected talks\n\n2026 — 48th EAA Annual Congress (Prague); NHH Invited Seminar (Bergen); BI Invited Seminar (Oslo).\n2025 — 47th EAA Annual Congress (Rome, discussant).\n2024 — CIVICA Faculty Short Visit Seminar, IE University.\n2023 — EAA Congress (Aalto, Helsinki); University of Padua.\n2022 — EAA Congress (NHH, Bergen); NHH Seminar Series.\n2021 — University of Bologna.\n2020 — Portsmouth Business School.\n2019 — AAA Annual Meeting (San Francisco); IIRAF (Beijing).\n2018 — EAA Congress (Bocconi)."
+    "section": "Featured Publications",
+    "text": "Featured Publications\n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\nJournal of Machine Learning Research, 2022\n\n\n\n\n\nJan 1, 2022\n\n\n\n\n\nNo matching items\n\nSee all publications →"
   },
   {
-    "objectID": "index.html#code",
-    "href": "index.html#code",
+    "objectID": "index.html#featured-code",
+    "href": "index.html#featured-code",
     "title": "Francesco Grossetti",
-    "section": "Code",
-    "text": "Code\nI am an active developer of open-source tools for empirical accounting and finance research. All projects live on GitHub.\n\n\n\n\n\n\n\nReproducibility\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
+    "section": "Featured Code",
+    "text": "Featured Code\n\n\n\n\n\n\n\n\nNLPstudio\n\n\nComposable NLP pipelines for empirical accounting and finance research.\n\n\n\n\n\n\n\n\n\n\nedgartools\n\n\nAn open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).\n\n\n\n\n\nNo matching items\n\nSee all projects →"
   }
 ]

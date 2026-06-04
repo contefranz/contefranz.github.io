@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/code.html",
+    "items": [
+      "/code/nlpstudio.html",
+      "/code/edgartools.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2026-investor-distraction.html",
+      "/publications/2026-narrative-tax-outcomes.html",
+      "/publications/2024-risk-guidance-codes.html",
+      "/publications/2022-topic-model-identification.html",
+      "/publications/2021-blockchain-accounting.html",
+      "/publications/2019-cardiac-rehab.html",
+      "/publications/2018-multistate-readmissions.html",
+      "/publications/2013-halpha3-ii.html",
+      "/publications/2012-halpha3-i.html",
+      "/publications/wp-fintag2text.html",
+      "/publications/wp-human-touch-llm.html",
+      "/publications/wp-loan-contract-disclosures.html",
+      "/publications/wp-tax-repurchases.html",
+      "/publications/wp-topic-gof.html",
+      "/publications/wip-disclosure-cascade.html",
+      "/publications/wip-ma-bankers.html",
+      "/publications/wip-ties-that-blind.html",
+      "/publications/book-value-relevance-2025.html",
+      "/publications/book-tax-avoidance-2024.html",
+      "/publications/book-python-2019.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/publications/2026-investor-distraction.html",
+      "/publications/2026-narrative-tax-outcomes.html",
+      "/publications/2022-topic-model-identification.html",
+      "/code/nlpstudio.html",
+      "/code/edgartools.html"
+    ]
+  }
+]
