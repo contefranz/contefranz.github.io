@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -167,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -277,7 +277,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -292,9 +292,9 @@ window.Quarto = {
   <li><a href="#selected-talks" id="toc-selected-talks" class="nav-link" data-scroll-target="#selected-talks">Selected talks</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(20)</span></div><div class="category" data-category="MjAxMg==">2012 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAxMw==">2013 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAxOA==">2018 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAxOQ==">2019 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MjAyMQ==">2021 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAyMg==">2022 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAyNA==">2024 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="MjAyNQ==">2025 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MjAyNg==">2026 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YWNjb3VudGluZw==">accounting <span class="quarto-category-count">(11)</span></div><div class="category" data-category="YXN0cm9waHlzaWNz">astrophysics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YmlibGlvbWV0cmljcw==">bibliometrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ymlvc3RhdGlzdGljcw==">biostatistics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YmxvY2tjaGFpbg==">blockchain <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ym9vaw==">book <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Y29ycG9yYXRlLWZpbmFuY2U=">corporate-finance <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZWR1Y2F0aW9u">education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmVhdHVyZWQ=">featured <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Z292ZXJuYW5jZQ==">governance <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aGVhbHRoY2FyZQ==">healthcare <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExN">LLM <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFjaGluZS1sZWFybmluZw==">machine-learning <span class="quarto-category-count">(3)</span></div><div class="category" data-category="bWV0aG9kcw==">methods <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TkxQ">NLP <span class="quarto-category-count">(9)</span></div><div class="category" data-category="cHJvZ3JhbW1pbmc=">programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHVibGlzaGVk">published <span class="quarto-category-count">(8)</span></div><div class="category" data-category="c3RvY2hhc3RpYy1wcm9jZXNzZXM=">stochastic-processes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGF4">tax <span class="quarto-category-count">(3)</span></div><div class="category" data-category="d2lw">wip <span class="quarto-category-count">(3)</span></div><div class="category" data-category="d29ya2luZw==">working <span class="quarto-category-count">(5)</span></div><div class="category" data-category="WEJSTA==">XBRL <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -303,7 +303,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -342,11 +342,26 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
+<div class="quarto-post image-right" data-index="0" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkNkaXNjbG9zdXJlJTJDZmVhdHVyZWQ=" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-investor-distraction.html" class="no-external">Investor Distraction and Multi-Dimensional Financial Narrative</a>
 </h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cHVibGlzaGVk'); return false;">published</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('MjAyNg=='); return false;">2026</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('YWNjb3VudGluZw=='); return false;">accounting</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZGlzY2xvc3VyZQ=='); return false;">disclosure</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZmVhdHVyZWQ='); return false;">featured</div>
+
+</div>
 <div class="delink listing-description"><a href="./publications/2026-investor-distraction.html" class="no-external">
 <p><em>Review of Accounting Studies</em> (2026)</p>
 </a></div>
@@ -362,7 +377,7 @@ Miles Gietzmann, Francesco Grossetti, Craig M. Lewis
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-narrative-tax-outcomes.html" class="no-external">Using Narrative Disclosures to Predict Tax Outcomes</a>
@@ -397,7 +412,7 @@ Olga Bogachek, Antonio De Vito, Paul Demeré, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyNCUyQ2FjY291bnRpbmclMkNOTFAlMkNnb3Zlcm5hbmNl" data-listing-date-sort="1719792000000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyNCUyQ2FjY291bnRpbmclMkNOTFAlMkNnb3Zlcm5hbmNl" data-listing-date-sort="1719792000000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2024-risk-guidance-codes.html" class="no-external">Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct</a>
@@ -430,7 +445,7 @@ Olga Bogachek, Miles Gietzmann, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
+<div class="quarto-post image-right" data-index="3" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2022-topic-model-identification.html" class="no-external">A Statistical Approach for Optimal Topic Model Identification</a>
@@ -465,7 +480,7 @@ Craig M. Lewis, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="cHVibGlzaGVkJTJDMjAyMSUyQ2FjY291bnRpbmclMkNibG9ja2NoYWlu" data-listing-date-sort="1630454400000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
+<div class="quarto-post image-right" data-index="4" data-categories="cHVibGlzaGVkJTJDMjAyMSUyQ2FjY291bnRpbmclMkNibG9ja2NoYWlu" data-listing-date-sort="1630454400000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2021-blockchain-accounting.html" class="no-external">Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?</a>
@@ -496,7 +511,7 @@ Miles Gietzmann, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="cHVibGlzaGVkJTJDMjAxOSUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1556668800000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
+<div class="quarto-post image-right" data-index="5" data-categories="cHVibGlzaGVkJTJDMjAxOSUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1556668800000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2019-cardiac-rehab.html" class="no-external">Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012</a>
@@ -527,7 +542,7 @@ Simonetta Scalvini, Francesco Grossetti, Anna Maria Paganoni, Maria Teresa La Ro
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="cHVibGlzaGVkJTJDMjAxOCUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1527811200000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
+<div class="quarto-post image-right" data-index="6" data-categories="cHVibGlzaGVkJTJDMjAxOCUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1527811200000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2018-multistate-readmissions.html" class="no-external">A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data</a>
@@ -558,7 +573,7 @@ Francesco Grossetti, Francesca Ieva, Anna Maria Paganoni
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="cHVibGlzaGVkJTJDMjAxMyUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1367366400000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<div class="quarto-post image-right" data-index="7" data-categories="cHVibGlzaGVkJTJDMjAxMyUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1367366400000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2013-halpha3-ii.html" class="no-external">Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings</a>
@@ -587,7 +602,7 @@ Giuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Vincenzo Galardo, Francesco
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="cHVibGlzaGVkJTJDMjAxMiUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1346457600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
+<div class="quarto-post image-right" data-index="8" data-categories="cHVibGlzaGVkJTJDMjAxMiUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1346457600000" data-listing-file-modified-sort="1780603085517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="332">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2012-halpha3-i.html" class="no-external">Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster</a>
@@ -662,7 +677,7 @@ Status
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFAlMkNYQlJM" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27" data-listing-title-sort="FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data" data-listing-filename-sort="wp-fintag2text.qmd">
+<tr data-index="0" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFAlMkNYQlJM" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27" data-listing-title-sort="FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data" data-listing-filename-sort="wp-fintag2text.qmd">
 <td>
 <a href="./publications/wp-fintag2text.html" class="title listing-title">FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data</a>
 </td>
@@ -675,7 +690,7 @@ Status
 
 </tr>
 
-<tr data-index="1" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNMTE0lMkNOTFA=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28" data-listing-title-sort="It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains" data-listing-filename-sort="wp-human-touch-llm.qmd">
+<tr data-index="1" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNMTE0lMkNOTFA=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28" data-listing-title-sort="It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains" data-listing-filename-sort="wp-human-touch-llm.qmd">
 <td>
 <a href="./publications/wp-human-touch-llm.html" class="title listing-title">It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains</a>
 </td>
@@ -688,7 +703,7 @@ Status
 
 </tr>
 
-<tr data-index="2" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFA=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="The Information Content of Loan Contract Disclosures" data-listing-filename-sort="wp-loan-contract-disclosures.qmd">
+<tr data-index="2" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFA=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23" data-listing-title-sort="The Information Content of Loan Contract Disclosures" data-listing-filename-sort="wp-loan-contract-disclosures.qmd">
 <td>
 <a href="./publications/wp-loan-contract-disclosures.html" class="title listing-title">The Information Content of Loan Contract Disclosures</a>
 </td>
@@ -701,7 +716,7 @@ Status
 
 </tr>
 
-<tr data-index="3" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkN0YXglMkNjb3Jwb3JhdGUtZmluYW5jZQ==" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25" data-listing-title-sort="Tax-Motivated Share Repurchases and Corporate Investment During Crisis" data-listing-filename-sort="wp-tax-repurchases.qmd">
+<tr data-index="3" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkN0YXglMkNjb3Jwb3JhdGUtZmluYW5jZQ==" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25" data-listing-title-sort="Tax-Motivated Share Repurchases and Corporate Investment During Crisis" data-listing-filename-sort="wp-tax-repurchases.qmd">
 <td>
 <a href="./publications/wp-tax-repurchases.html" class="title listing-title">Tax-Motivated Share Repurchases and Corporate Investment During Crisis</a>
 </td>
@@ -714,7 +729,7 @@ Status
 
 </tr>
 
-<tr data-index="4" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2Rz" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236417" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="19" data-listing-title-sort="Goodness-of-Fit Indices and Diagnostics for Topic Models" data-listing-filename-sort="wp-topic-gof.qmd">
+<tr data-index="4" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2Rz" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="19" data-listing-title-sort="Goodness-of-Fit Indices and Diagnostics for Topic Models" data-listing-filename-sort="wp-topic-gof.qmd">
 <td>
 <a href="./publications/wp-topic-gof.html" class="title listing-title">Goodness-of-Fit Indices and Diagnostics for Topic Models</a>
 </td>
@@ -770,7 +785,7 @@ Status
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ05MUCUyQ3N0b2NoYXN0aWMtcHJvY2Vzc2Vz" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Disclosure Cascade: A Hawkes Process Approach" data-listing-filename-sort="wip-disclosure-cascade.qmd">
+<tr data-index="0" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ05MUCUyQ3N0b2NoYXN0aWMtcHJvY2Vzc2Vz" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Disclosure Cascade: A Hawkes Process Approach" data-listing-filename-sort="wip-disclosure-cascade.qmd">
 <td>
 <a href="./publications/wip-disclosure-cascade.html" class="title listing-title">Disclosure Cascade: A Hawkes Process Approach</a>
 </td>
@@ -780,7 +795,7 @@ Status
 
 </tr>
 
-<tr data-index="1" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2NvcnBvcmF0ZS1maW5hbmNl" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="M&amp;A Bankers' Human Capital: The Role of Expertise, Connections, and Background in Dealmaking" data-listing-filename-sort="wip-ma-bankers.qmd">
+<tr data-index="1" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2NvcnBvcmF0ZS1maW5hbmNl" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="M&amp;A Bankers' Human Capital: The Role of Expertise, Connections, and Background in Dealmaking" data-listing-filename-sort="wip-ma-bankers.qmd">
 <td>
 <a href="./publications/wip-ma-bankers.html" class="title listing-title">M&amp;A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking</a>
 </td>
@@ -790,7 +805,7 @@ Status
 
 </tr>
 
-<tr data-index="2" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2dvdmVybmFuY2U=" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing" data-listing-filename-sort="wip-ties-that-blind.qmd">
+<tr data-index="2" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2dvdmVybmFuY2U=" data-listing-date-sort="1748736000000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5" data-listing-title-sort="Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing" data-listing-filename-sort="wip-ties-that-blind.qmd">
 <td>
 <a href="./publications/wip-ties-that-blind.html" class="title listing-title">Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing</a>
 </td>
@@ -809,7 +824,7 @@ Status
 <h2 class="anchored" data-anchor-id="books-and-monographs">Books and monographs</h2>
 <div id="listing-books" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Ym9vayUyQzIwMjUlMkNhY2NvdW50aW5nJTJDTkxQ" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
+<div class="quarto-post image-right" data-index="0" data-categories="Ym9vayUyQzIwMjUlMkNhY2NvdW50aW5nJTJDTkxQ" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-value-relevance-2025.html" class="no-external">Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms</a>
@@ -829,7 +844,7 @@ Olga Bogachek, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Ym9vayUyQzIwMjQlMkNhY2NvdW50aW5nJTJDdGF4JTJDYmlibGlvbWV0cmljcw==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
+<div class="quarto-post image-right" data-index="1" data-categories="Ym9vayUyQzIwMjQlMkNhY2NvdW50aW5nJTJDdGF4JTJDYmlibGlvbWV0cmljcw==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-tax-avoidance-2024.html" class="no-external">Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration</a>
@@ -849,7 +864,7 @@ Antonio De Vito, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Ym9vayUyQzIwMTklMkNwcm9ncmFtbWluZyUyQ2VkdWNhdGlvbg==" data-listing-date-sort="1546300800000" data-listing-file-modified-sort="1780602236416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
+<div class="quarto-post image-right" data-index="2" data-categories="Ym9vayUyQzIwMTklMkNwcm9ncmFtbWluZyUyQ2VkdWNhdGlvbg==" data-listing-date-sort="1546300800000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-python-2019.html" class="no-external">Python for Non-Pythonians: How to Win Over Programming Languages</a>
