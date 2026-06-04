@@ -81,28 +81,28 @@
     "href": "publications/2012-halpha3-i.html",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
     "section": "",
-    "text": "Astronomy & Astrophysics (2012).\nDOI · PDF"
+    "text": "PDF | DOI"
   },
   {
     "objectID": "publications/2012-halpha3-i.html#abstract",
     "href": "publications/2012-halpha3-i.html#abstract",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nWe present Hα³ (acronym for Hα − αα), an Hα narrow-band imaging survey of ~400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (~10⁷·⁵ − 10¹¹·⁵ M☉). We image in Hα+[NII] all the galaxies that contain more than 10⁷ M☉ of neutral atomic hydrogen in the sky region 11h &lt; RA &lt; 16h; 4° &lt; Dec &lt; 16°; 350 &lt; cz &lt; 2000 km s⁻¹ using the San Pedro Martir 2 m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with Hα fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the Hα fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs)."
   },
   {
     "objectID": "publications/2012-halpha3-i.html#citation",
     "href": "publications/2012-halpha3-i.html#citation",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
     "section": "Citation",
-    "text": "Citation\nGavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., Haynes, M. P., & Fabello, S. (2012). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Astronomy & Astrophysics."
+    "text": "Citation\nGavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., Haynes, M. P. & Fabello, S. (2012). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster. Astronomy & Astrophysics, 545, A16."
   },
   {
     "objectID": "publications/2012-halpha3-i.html#bibtex",
     "href": "publications/2012-halpha3-i.html#bibtex",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{gavazzi2012halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Sabrina},\n  journal = {Astronomy \\& Astrophysics},\n  year    = {2012}\n}"
+    "text": "BibTeX\n@article{gavazzi2012halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Silvia},\n  journal = {Astronomy \\& Astrophysics},\n  volume  = {545},\n  pages   = {A16},\n  year    = {2012},\n  doi     = {10.1051/0004-6361/201218788}\n}"
   },
   {
     "objectID": "publications/wp-topic-gof.html",
@@ -207,140 +207,140 @@
     "href": "publications/2022-topic-model-identification.html",
     "title": "A Statistical Approach for Optimal Topic Model Identification",
     "section": "",
-    "text": "Journal of Machine Learning Research (2022), 23(58), 1–20.\nDOI · PDF · Code"
+    "text": "PDF | JMLR | Code"
   },
   {
     "objectID": "publications/2022-topic-model-identification.html#abstract",
     "href": "publications/2022-topic-model-identification.html#abstract",
     "title": "A Statistical Approach for Optimal Topic Model Identification",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nLatent Dirichlet Allocation is a popular machine-learning technique that identifies latent structures in a corpus of documents. This paper addresses the ongoing concern that formal procedures for determining the optimal LDA configuration do not exist by introducing a set of parametric tests that rely on the assumed multinomial distribution specification underlying the original LDA model. Our methodology defines a set of rigorous statistical procedures that identify and evaluate the optimal topic model. The U.S. Presidential Inaugural Address Corpus is used as a case study to show the numerical results. We find that 92 topics best describe the corpus. We further validate the method through a simulation study confirming the superiority of our approach compared to other standard heuristic metrics like the perplexity index."
   },
   {
     "objectID": "publications/2022-topic-model-identification.html#citation",
     "href": "publications/2022-topic-model-identification.html#citation",
     "title": "A Statistical Approach for Optimal Topic Model Identification",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F., & Lewis, C. M. (2022). A Statistical Approach for Optimal Topic Model Identification. Journal of Machine Learning Research, 23(58), 1–20."
+    "text": "Citation\nLewis, C. M. & Grossetti, F. (2022). A Statistical Approach for Optimal Topic Model Identification. Journal of Machine Learning Research, 23(58), 1–20."
   },
   {
     "objectID": "publications/2022-topic-model-identification.html#bibtex",
     "href": "publications/2022-topic-model-identification.html#bibtex",
     "title": "A Statistical Approach for Optimal Topic Model Identification",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2022topic,\n  title   = {A Statistical Approach for Optimal Topic Model Identification},\n  author  = {Grossetti, Francesco and Lewis, Craig M.},\n  journal = {Journal of Machine Learning Research},\n  volume  = {23},\n  number  = {58},\n  pages   = {1--20},\n  year    = {2022}\n}"
+    "text": "BibTeX\n@article{lewis2022topic,\n  title   = {A Statistical Approach for Optimal Topic Model Identification},\n  author  = {Lewis, Craig M. and Grossetti, Francesco},\n  journal = {Journal of Machine Learning Research},\n  volume  = {23},\n  number  = {58},\n  pages   = {1--20},\n  year    = {2022}\n}"
   },
   {
     "objectID": "publications/2013-halpha3-ii.html",
     "href": "publications/2013-halpha3-ii.html",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
     "section": "",
-    "text": "Astronomy & Astrophysics (2013).\nDOI · PDF"
+    "text": "PDF | arXiv"
   },
   {
     "objectID": "publications/2013-halpha3-ii.html#abstract",
     "href": "publications/2013-halpha3-ii.html#abstract",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nWe present the analysis of Hα³, an Hα imaging survey of 409 galaxies selected from the HI Arecibo ALFALFA Survey in the Local Supercluster, including the Virgo cluster. We explore the relations between the stellar mass, the HI mass, and the current massive SFR of nearby galaxies in the Virgo cluster and we compare them with those of isolated galaxies in the Local Supercluster, disentangling the role of the environment in shaping the star formation properties of galaxies at the present cosmological epoch. We investigate the relationships between atomic neutral gas and newly formed stars in different environments, across many morphological types, and over a wide range of stellar masses adopting an updated calibration of the HI deficiency parameter. Studying the mean properties of late-type galaxies in the Local Supercluster, we find that galaxies in increasing local galaxy density conditions (or decreasing projected angular separation from M87) show a significant decrease in the HI content and in the mean specific star formation rate, along with a progressive reddening of their stellar populations. The gradual quenching of the star formation occurs outside-in, consistently with the predictions of the ram pressure model. Once considered as a whole, the Virgo cluster is effective in removing neutral hydrogen from galaxies, and this perturbation is strong enough to appreciably reduce the SFR of its entire galaxy population. An estimate of the present infall rate of 300–400 galaxies per Gyr in the Virgo cluster is obtained from the number of existing HI-rich late-type systems, assuming 200–300 Myr as the time scale for HI ablation. If the infall process has been acting at constant rate this would imply that the Virgo cluster has formed approximately 2 Gyr ago, consistently with the idea that Virgo is in a young state of dynamical evolution."
   },
   {
     "objectID": "publications/2013-halpha3-ii.html#citation",
     "href": "publications/2013-halpha3-ii.html#citation",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
     "section": "Citation",
-    "text": "Citation\nGavazzi, G., Fumagalli, M., Fossati, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., & Haynes, M. P. (2013). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Astronomy & Astrophysics."
+    "text": "Citation\nGavazzi, G., Fumagalli, M., Fossati, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R. & Haynes, M. P. (2013). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings. Astronomy & Astrophysics, 553, A89."
   },
   {
     "objectID": "publications/2013-halpha3-ii.html#bibtex",
     "href": "publications/2013-halpha3-ii.html#bibtex",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{gavazzi2013halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Fossati, Matteo and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P.},\n  journal = {Astronomy \\& Astrophysics},\n  year    = {2013}\n}"
+    "text": "BibTeX\n@article{gavazzi2013halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Fossati, Matteo and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P.},\n  journal = {Astronomy \\& Astrophysics},\n  volume  = {553},\n  pages   = {A89},\n  year    = {2013}\n}"
   },
   {
     "objectID": "publications/2026-investor-distraction.html",
     "href": "publications/2026-investor-distraction.html",
     "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
     "section": "",
-    "text": "Review of Accounting Studies (2026), 31, 334–373.\nDOI · PDF · Code"
+    "text": "PDF | Code"
   },
   {
     "objectID": "publications/2026-investor-distraction.html#abstract",
     "href": "publications/2026-investor-distraction.html#abstract",
     "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming — add the published abstract here."
+    "text": "Abstract\nThis paper investigates how institutional investor distraction affects the assimilation of narrative content in the MD&A section of the 10-K filing. We introduce the Aggregate Attribute Index (\\(AAI\\)) and an alternative formulation (\\(AltAAI\\)), which capture linguistic features beyond tone to provide a broader measure of corporate narrative richness. Using machine learning and natural language processing, we analyze U.S. firms that follow a staggered reporting strategy, releasing quantitative results before full narrative disclosures. This design isolates the incremental effects of complex language when other portfolio events distract investors. We find that narrative complexity does not trigger short-term return responses but significantly affects stock prices over longer horizons. Complexity moderates how and when attention-constrained investors adjust prices. These effects are not captured by dictionary-based tone or readability metrics, underscoring the distinct role of multi-dimensional attributes in shaping delayed market reactions and price discovery."
   },
   {
     "objectID": "publications/2026-investor-distraction.html#citation",
     "href": "publications/2026-investor-distraction.html#citation",
     "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F., Gietzmann, M., & Lewis, C. M. (2026). Investor Distraction and Multi-Dimensional Financial Narrative. Review of Accounting Studies, 31, 334–373."
+    "text": "Citation\nGietzmann, M., Grossetti, F. & Lewis, C. M. (2026). Investor Distraction and Multi-Dimensional Financial Narrative. Review of Accounting Studies, 31, 334–373."
   },
   {
     "objectID": "publications/2026-investor-distraction.html#bibtex",
     "href": "publications/2026-investor-distraction.html#bibtex",
     "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2026investor,\n  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},\n  author  = {Grossetti, Francesco and Gietzmann, Miles and Lewis, Craig M.},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {334--373},\n  year    = {2026}\n}"
+    "text": "BibTeX\n@article{gietzmann2026investor,\n  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},\n  author  = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {334--373},\n  year    = {2026}\n}"
   },
   {
     "objectID": "publications/2021-blockchain-accounting.html",
     "href": "publications/2021-blockchain-accounting.html",
     "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
     "section": "",
-    "text": "Journal of Accounting and Public Policy (2021), 40(5), 106881.\nDOI · PDF · Code"
+    "text": "DOI | SSRN"
   },
   {
     "objectID": "publications/2021-blockchain-accounting.html#abstract",
     "href": "publications/2021-blockchain-accounting.html#abstract",
     "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nIn a recent survey of academic research, Fintech-related topics — broadly classified as crypto-currency studies — were by far the most researched topics in the social sciences. However, we have observed that, perhaps surprisingly, even though crypto-currencies rely on a distributed accounting ledger technology, relatively few of those studies were conducted by accounting academics. While some of the features of a system like Bitcoin do not necessarily rely on a traditional accounting knowledge, this knowledge is key in designing effective real-world distributed systems. The article discusses how an accounting perspective is essential for understanding the implications of blockchain and other distributed ledger technologies, including smart contracting, auditability, and the architectural choices required to build accounting-grade distributed systems."
   },
   {
     "objectID": "publications/2021-blockchain-accounting.html#citation",
     "href": "publications/2021-blockchain-accounting.html#citation",
     "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F., & Gietzmann, M. (2021). Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting? Journal of Accounting and Public Policy, 40(5), 106881."
+    "text": "Citation\nGietzmann, M. & Grossetti, F. (2021). Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting? Journal of Accounting and Public Policy, 40(5), 106881."
   },
   {
     "objectID": "publications/2021-blockchain-accounting.html#bibtex",
     "href": "publications/2021-blockchain-accounting.html#bibtex",
     "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2021blockchain,\n  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},\n  author  = {Grossetti, Francesco and Gietzmann, Miles},\n  journal = {Journal of Accounting and Public Policy},\n  volume  = {40},\n  number  = {5},\n  pages   = {106881},\n  year    = {2021}\n}"
+    "text": "BibTeX\n@article{gietzmann2021blockchain,\n  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},\n  author  = {Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Accounting and Public Policy},\n  volume  = {40},\n  number  = {5},\n  pages   = {106881},\n  year    = {2021},\n  doi     = {10.1016/j.jaccpubpol.2021.106881}\n}"
   },
   {
     "objectID": "publications/2018-multistate-readmissions.html",
     "href": "publications/2018-multistate-readmissions.html",
-    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
     "section": "",
-    "text": "Health Care Management Science (2018).\nDOI · PDF"
+    "text": "DOI | PubMed"
   },
   {
     "objectID": "publications/2018-multistate-readmissions.html#abstract",
     "href": "publications/2018-multistate-readmissions.html#abstract",
-    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nHealthcare administrative databases are becoming more and more important and reliable sources of clinical and epidemiological information, and are able to track several interactions between a patient and the public healthcare system. This study uses data extracted from the administrative data warehouse of Regione Lombardia, a region in northern Italy, with the aim of providing a description of the epidemiology of Heart Failure patients at the regional level, profiling health service utilization over time, and investigating variations in patient care according to geographic area and socio-demographic characteristics. We apply multi-state models to estimate transition probabilities between admission, discharge, and death states while adjusting for state-dependent covariates. The analysis examines the effects of pharmacological and outpatient care covariates on patients’ readmissions and death, representing an early Italian investigation into factors influencing hospitalization and mortality outcomes in heart failure patients."
   },
   {
     "objectID": "publications/2018-multistate-readmissions.html#citation",
     "href": "publications/2018-multistate-readmissions.html#citation",
-    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F., Ieva, F., & Paganoni, A. M. (2018). A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data. Health Care Management Science."
+    "text": "Citation\nGrossetti, F., Ieva, F. & Paganoni, A. M. (2018). A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data. Health Care Management Science, 21, 281–291."
   },
   {
     "objectID": "publications/2018-multistate-readmissions.html#bibtex",
     "href": "publications/2018-multistate-readmissions.html#bibtex",
-    "title": "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  year    = {2018}\n}"
+    "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  volume  = {21},\n  number  = {2},\n  pages   = {281--291},\n  year    = {2018},\n  doi     = {10.1007/s10729-017-9400-z}\n}"
   },
   {
     "objectID": "publications/wp-tax-repurchases.html",
@@ -368,56 +368,56 @@
     "href": "publications/2024-risk-guidance-codes.html",
     "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "",
-    "text": "Journal of Risk Research (2024), 27(7), 735–769.\nDOI · PDF · Code"
+    "text": "DOI | Publisher"
   },
   {
     "objectID": "publications/2024-risk-guidance-codes.html#abstract",
     "href": "publications/2024-risk-guidance-codes.html#abstract",
     "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nMultinational firms often face challenges doing business in countries where corruption is common practice in the business environment. This study examines anticorruption guidance provided in the corporate Codes of Conduct (CoC). We evaluate if this guidance is consistent with the firm-specific idiosyncratic exposure to corruption, or if corporate ‘tone from the top’ (TTT) uses only broad brush general language ‘impression management’ in an attempt to appear compliant. We also explore the interaction between anti-corruption guidance and audit oversight. Using quantitative textual analysis on a sample of Standard & Poor’s (S&P) 500 firms’ CoC, we develop a measure of anti-corruption language based on the most prevalent topics covered in these documents. We find the positive association between the anti-corruption topics and the firm-adjusted level of corruption risk. That is, the language used varies depending upon idiosyncratic firm risk, suggesting CoC is not simply used for impression management. We also identify a non-linear relationship in which audit oversight is observed as increasingly important in the most severe corrupt settings. Our results could be useful to practitioners and policymakers who may care about the information content of CoC when evaluating a firm’s risk management practices. We also show that when the corruption risk is sufficiently high, the anti-corruption TTT needs to be supplemented by other control activities such as audit oversight."
   },
   {
     "objectID": "publications/2024-risk-guidance-codes.html#citation",
     "href": "publications/2024-risk-guidance-codes.html#citation",
     "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "Citation",
-    "text": "Citation\nBogachek, O., Gietzmann, M., & Grossetti, F. (2024). Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct. Journal of Risk Research, 27(7), 735–769."
+    "text": "Citation\nBogachek, O., Gietzmann, M. & Grossetti, F. (2024). Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct. Journal of Risk Research, 27(7), 735–769."
   },
   {
     "objectID": "publications/2024-risk-guidance-codes.html#bibtex",
     "href": "publications/2024-risk-guidance-codes.html#bibtex",
     "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{bogachek2024risk,\n  title   = {Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct},\n  author  = {Bogachek, Olga and Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Risk Research},\n  volume  = {27},\n  number  = {7},\n  pages   = {735--769},\n  year    = {2024}\n}"
+    "text": "BibTeX\n@article{bogachek2024risk,\n  title   = {Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct},\n  author  = {Bogachek, Olga and Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Risk Research},\n  volume  = {27},\n  number  = {7},\n  pages   = {735--769},\n  year    = {2024},\n  doi     = {10.1080/13669877.2023.2181857}\n}"
   },
   {
     "objectID": "publications/2026-narrative-tax-outcomes.html",
     "href": "publications/2026-narrative-tax-outcomes.html",
     "title": "Using Narrative Disclosures to Predict Tax Outcomes",
     "section": "",
-    "text": "Review of Accounting Studies (2026), 31, 374–412.\nDOI · PDF · Code"
+    "text": "PDF | DOI"
   },
   {
     "objectID": "publications/2026-narrative-tax-outcomes.html#abstract",
     "href": "publications/2026-narrative-tax-outcomes.html#abstract",
     "title": "Using Narrative Disclosures to Predict Tax Outcomes",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming — add the published abstract here."
+    "text": "Abstract\nWe examine whether narrative discussion in financial disclosures can help corporate stakeholders better predict tax outcomes. To measure qualitative discussion, we use topic modeling analysis to create measures of the thematic content of 10-K disclosures. We find that qualitative discussion in financial disclosures can substantially improve prediction of tax outcomes in in- and out-of-sample tests. We also find that prediction-relevant discussion is distributed throughout the 10-K, supporting that disclosures should be analyzed holistically rather than examining only limited pieces of larger disclosures. Further, we find that analysts often do not use this information effectively, resulting in predictable and economically meaningful forecast errors. These findings illustrate the wealth of qualitative information in 10-K disclosures for stakeholders concerned about tax outcomes and offer a practical approach to examining qualitative disclosures and using them to predict tax outcomes."
   },
   {
     "objectID": "publications/2026-narrative-tax-outcomes.html#citation",
     "href": "publications/2026-narrative-tax-outcomes.html#citation",
     "title": "Using Narrative Disclosures to Predict Tax Outcomes",
     "section": "Citation",
-    "text": "Citation\nBogachek, O., Demeré, P., De Vito, A., & Grossetti, F. (2026). Using Narrative Disclosures to Predict Tax Outcomes. Review of Accounting Studies, 31, 374–412."
+    "text": "Citation\nBogachek, O., De Vito, A., Demeré, P. & Grossetti, F. (2026). Using Narrative Disclosures to Predict Tax Outcomes. Review of Accounting Studies, 31, 374–412."
   },
   {
     "objectID": "publications/2026-narrative-tax-outcomes.html#bibtex",
     "href": "publications/2026-narrative-tax-outcomes.html#bibtex",
     "title": "Using Narrative Disclosures to Predict Tax Outcomes",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{bogachek2026narrative,\n  title   = {Using Narrative Disclosures to Predict Tax Outcomes},\n  author  = {Bogachek, Olga and Demer{\\'e}, Paul and De Vito, Antonio and Grossetti, Francesco},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {374--412},\n  year    = {2026}\n}"
+    "text": "BibTeX\n@article{bogachek2026narrative,\n  title   = {Using Narrative Disclosures to Predict Tax Outcomes},\n  author  = {Bogachek, Olga and De Vito, Antonio and Demer{\\'e}, Paul and Grossetti, Francesco},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {374--412},\n  year    = {2026},\n  doi     = {10.1007/s11142-025-09914-3}\n}"
   },
   {
     "objectID": "publications/wp-loan-contract-disclosures.html",
@@ -459,28 +459,28 @@
     "href": "publications/2019-cardiac-rehab.html",
     "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
     "section": "",
-    "text": "European Journal of Preventive Cardiology (2019).\nDOI · PDF"
+    "text": "DOI | PubMed"
   },
   {
     "objectID": "publications/2019-cardiac-rehab.html#abstract",
     "href": "publications/2019-cardiac-rehab.html#abstract",
     "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
     "section": "Abstract",
-    "text": "Abstract\nAbstract forthcoming."
+    "text": "Abstract\nAims. The 2016 European guidelines for the diagnosis and treatment of heart failure classified cardiac rehabilitation as a mandatory class I intervention. The aim of this study was to evaluate, in a large heart failure population, the impact of in-hospital cardiac rehabilitation on mortality and rehospitalisations.\nMethods and results. Patients with a new diagnosis of heart failure between 2005 and 2012 were identified from the Lombardy region healthcare administrative database. Two groups were compared: patients receiving only acute care hospitalisation (group A) versus patients admitted to an in-hospital cardiac rehabilitation program after the index event (group B). Hospitalisations, mortality, readmissions, drug prescriptions, and outpatient visits were analysed. Total mortality was 30% in group A versus 29% in group B. At Cox and logistic regression analyses, after adjustment for covariates, group B had a significantly lower risk of mortality (hazard ratio 0.5768, 95% confidence interval 0.5650–0.5888, P &lt; 0.0001) and readmissions (0.7997, 0.7758–0.8244, P &lt; 0.0001) than group A.\nConclusion. This study showed in a large population of heart failure patients that in-hospital cardiac rehabilitation is associated with a reduction of all-cause mortality and rehospitalisations in heart failure."
   },
   {
     "objectID": "publications/2019-cardiac-rehab.html#citation",
     "href": "publications/2019-cardiac-rehab.html#citation",
     "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F., Scalvini, S., Paganoni, A. M., La Rovere, M. T., Pedretti, R., & Frigerio, M. (2019). Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012. European Journal of Preventive Cardiology."
+    "text": "Citation\nScalvini, S., Grossetti, F., Paganoni, A. M., La Rovere, M. T., Pedretti, R. F. E. & Frigerio, M. (2019). Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012. European Journal of Preventive Cardiology, 26, 808–817."
   },
   {
     "objectID": "publications/2019-cardiac-rehab.html#bibtex",
     "href": "publications/2019-cardiac-rehab.html#bibtex",
     "title": "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2019cardiac,\n  title   = {Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012},\n  author  = {Grossetti, Francesco and Scalvini, Simonetta and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto and Frigerio, Maria},\n  journal = {European Journal of Preventive Cardiology},\n  year    = {2019}\n}"
+    "text": "BibTeX\n@article{scalvini2019cardiac,\n  title   = {Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012},\n  author  = {Scalvini, Simonetta and Grossetti, Francesco and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto F. E. and Frigerio, Maria},\n  journal = {European Journal of Preventive Cardiology},\n  volume  = {26},\n  number  = {8},\n  pages   = {808--817},\n  year    = {2019},\n  doi     = {10.1177/2047487319833512}\n}"
   },
   {
     "objectID": "publications/wip-ties-that-blind.html",
@@ -529,7 +529,7 @@
     "href": "publications.html#published",
     "title": "Publications",
     "section": "Published",
-    "text": "Published\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ndisclosure\n\nfeatured\n\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\nFrancesco Grossetti, Miles Gietzmann, Craig M. Lewis\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ntax\n\nfeatured\n\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\nOlga Bogachek, Paul Demeré, Antonio De Vito, Francesco Grossetti\n\n\n\n\n\n\n\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct\n\n\n\npublished\n\n2024\n\naccounting\n\nNLP\n\ngovernance\n\n\n\nJournal of Risk Research, 2024\n\n\n\n\n\nJan 1, 2024\n\n\nOlga Bogachek, Miles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\n\npublished\n\n2022\n\nmachine-learning\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nJournal of Machine Learning Research, 2022\n\n\n\n\n\nJan 1, 2022\n\n\nFrancesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?\n\n\n\npublished\n\n2021\n\naccounting\n\nblockchain\n\n\n\nJournal of Accounting and Public Policy, 2021\n\n\n\n\n\nJan 1, 2021\n\n\nFrancesco Grossetti, Miles Gietzmann\n\n\n\n\n\n\n\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012\n\n\n\npublished\n\n2019\n\nbiostatistics\n\nhealthcare\n\n\n\nEuropean Journal of Preventive Cardiology, 2019\n\n\n\n\n\nJan 1, 2019\n\n\nFrancesco Grossetti, Simonetta Scalvini, Anna Maria Paganoni, Maria Teresa La Rovere, Roberto Pedretti, Maria Frigerio\n\n\n\n\n\n\n\nA Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data\n\n\n\npublished\n\n2018\n\nbiostatistics\n\nhealthcare\n\n\n\nHealth Care Management Science, 2018\n\n\n\n\n\nJan 1, 2018\n\n\nFrancesco Grossetti, Francesca Ieva, Anna Maria Paganoni\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings\n\n\n\npublished\n\n2013\n\nastrophysics\n\n\n\nAstronomy & Astrophysics, 2013\n\n\n\n\n\nJan 1, 2013\n\n\nFrancesco Grossetti, Giuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Veronica Galardo, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster\n\n\n\npublished\n\n2012\n\nastrophysics\n\n\n\nAstronomy & Astrophysics, 2012\n\n\n\n\n\nJan 1, 2012\n\n\nFrancesco Grossetti, Giuseppe Gavazzi, Michele Fumagalli, Veronica Galardo, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes, Sabrina Fabello\n\n\n\n\n\nNo matching items"
+    "text": "Published\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 9, 2026\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ntax\n\nfeatured\n\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 1, 2026\n\n\nOlga Bogachek, Antonio De Vito, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct\n\n\n\npublished\n\n2024\n\naccounting\n\nNLP\n\ngovernance\n\n\n\nJournal of Risk Research (2024)\n\n\n\n\n\nJul 1, 2024\n\n\nOlga Bogachek, Miles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\n\npublished\n\n2022\n\nmachine-learning\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nJournal of Machine Learning Research (2022)\n\n\n\n\n\nFeb 1, 2022\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\n\n\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?\n\n\n\npublished\n\n2021\n\naccounting\n\nblockchain\n\n\n\nJournal of Accounting and Public Policy (2021)\n\n\n\n\n\nSep 1, 2021\n\n\nMiles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012\n\n\n\npublished\n\n2019\n\nbiostatistics\n\nhealthcare\n\n\n\nEuropean Journal of Preventive Cardiology (2019)\n\n\n\n\n\nMay 1, 2019\n\n\nSimonetta Scalvini, Francesco Grossetti, Anna Maria Paganoni, Maria Teresa La Rovere, Roberto F. E. Pedretti, Maria Frigerio\n\n\n\n\n\n\n\nA Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data\n\n\n\npublished\n\n2018\n\nbiostatistics\n\nhealthcare\n\n\n\nHealth Care Management Science (2018)\n\n\n\n\n\nJun 1, 2018\n\n\nFrancesco Grossetti, Francesca Ieva, Anna Maria Paganoni\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings\n\n\n\npublished\n\n2013\n\nastrophysics\n\n\n\nAstronomy & Astrophysics (2013)\n\n\n\n\n\nMay 1, 2013\n\n\nGiuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Vincenzo Galardo, Francesco Grossetti, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster\n\n\n\npublished\n\n2012\n\nastrophysics\n\n\n\nAstronomy & Astrophysics (2012)\n\n\n\n\n\nSep 1, 2012\n\n\nGiuseppe Gavazzi, Michele Fumagalli, Vincenzo Galardo, Francesco Grossetti, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes, Silvia Fabello\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#working-papers",
@@ -578,7 +578,7 @@
     "href": "index.html#featured-publications",
     "title": "Francesco Grossetti",
     "section": "Featured Publications",
-    "text": "Featured Publications\n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\nReview of Accounting Studies, 2026\n\n\n\n\n\nJan 15, 2026\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\nJournal of Machine Learning Research, 2022\n\n\n\n\n\nJan 1, 2022\n\n\n\n\n\nNo matching items\n\nSee all publications →"
+    "text": "Featured Publications\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\nJournal of Machine Learning Research (2022)\n\n\n\n\n\nFeb 1, 2022\n\n\n\n\n\nNo matching items\n\nSee all publications →"
   },
   {
     "objectID": "index.html#featured-code",
