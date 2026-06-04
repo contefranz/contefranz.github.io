@@ -1,0 +1,84 @@
+---
+title: "Publications"
+page-layout: full
+toc: true
+toc-location: right
+listing:
+  - id: published
+    contents: "publications/*.qmd"
+    include:
+      categories: "published"
+    type: default
+    sort: "date desc"
+    categories: numbered
+    sort-ui: [date, title]
+    filter-ui: true
+    fields: [date, title, author, description, categories]
+    field-display-names:
+      description: "Venue"
+  - id: working
+    contents: "publications/*.qmd"
+    include:
+      categories: "working"
+    type: table
+    sort: "date desc"
+    fields: [title, author, description]
+    field-display-names:
+      description: "Status"
+  - id: wip
+    contents: "publications/*.qmd"
+    include:
+      categories: "wip"
+    type: table
+    sort: "title"
+    fields: [title, author]
+  - id: books
+    contents: "publications/*.qmd"
+    include:
+      categories: "book"
+    type: default
+    sort: "date desc"
+    fields: [date, title, author, description]
+    field-display-names:
+      description: "Publisher"
+---
+
+My research uses **NLP**, **machine learning**, and **computational
+statistics** on large-scale textual and multimodal financial data to study
+corporate disclosure and its consequences — investor reactions to layered
+narratives, firm tax outcomes, disclosure cascades, and the diagnostics of
+topic models. Below: published work, working papers, work in progress,
+books, and recent talks.
+
+## Published
+
+::: {#published}
+:::
+
+## Working papers
+
+::: {#working}
+:::
+
+## Work in progress
+
+::: {#wip}
+:::
+
+## Books and monographs
+
+::: {#books}
+:::
+
+## Selected talks
+
+- **2026** — 48th EAA Annual Congress (Prague); NHH Invited Seminar
+  (Bergen); BI Invited Seminar (Oslo).
+- **2025** — 47th EAA Annual Congress (Rome, discussant).
+- **2024** — CIVICA Faculty Short Visit Seminar, IE University.
+- **2023** — EAA Congress (Aalto, Helsinki); University of Padua.
+- **2022** — EAA Congress (NHH, Bergen); NHH Seminar Series.
+- **2021** — University of Bologna.
+- **2020** — Portsmouth Business School.
+- **2019** — AAA Annual Meeting (San Francisco); IIRAF (Beijing).
+- **2018** — EAA Congress (Bocconi).

@@ -1,0 +1,44 @@
+---
+title: "Investor Distraction and Multi-Dimensional Financial Narrative"
+description: "Review of Accounting Studies, 2026"
+author:
+  - Francesco Grossetti
+  - Miles Gietzmann
+  - Craig M. Lewis
+date: 2026-01-15
+categories: [published, 2026, accounting, NLP, disclosure, featured]
+venue: "Review of Accounting Studies"
+volume: "31"
+pages: "334–373"
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Review of Accounting Studies* (2026), **31**, 334–373.
+
+[DOI](#) · [PDF](#) · [Code](#)
+
+## Abstract
+
+*Abstract forthcoming — add the published abstract here.*
+
+## Citation
+
+Grossetti, F., Gietzmann, M., & Lewis, C. M. (2026). Investor Distraction
+and Multi-Dimensional Financial Narrative. *Review of Accounting Studies*,
+31, 334–373.
+
+## BibTeX
+
+```{.bibtex}
+@article{grossetti2026investor,
+  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},
+  author  = {Grossetti, Francesco and Gietzmann, Miles and Lewis, Craig M.},
+  journal = {Review of Accounting Studies},
+  volume  = {31},
+  pages   = {334--373},
+  year    = {2026}
+}
+```

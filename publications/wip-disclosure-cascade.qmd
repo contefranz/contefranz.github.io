@@ -1,0 +1,17 @@
+---
+title: "Disclosure Cascade: A Hawkes Process Approach"
+description: "Work in progress"
+author:
+  - Miles Gietzmann
+  - Francesco Grossetti
+date: 2025-06-01
+categories: [wip, accounting, NLP, stochastic-processes]
+venue: ""
+status: wip
+---
+
+> Work in progress.
+
+## Abstract
+
+*Abstract forthcoming.*

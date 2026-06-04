@@ -1,0 +1,25 @@
+---
+title: "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms"
+description: "Springer — SIDREA Series in Accounting and Business Administration, 2025"
+author:
+  - Olga Bogachek
+  - Francesco Grossetti
+date: 2025-01-01
+categories: [book, 2025, accounting, NLP]
+venue: "Springer – SIDREA Series in Accounting and Business Administration"
+status: book
+---
+
+> Springer – SIDREA Series in Accounting and Business Administration (2025).
+
+[Publisher](#) · [Read sample](#)
+
+## Abstract
+
+*Abstract / overview forthcoming.*
+
+## Citation
+
+Bogachek, O., & Grossetti, F. (2025). *Value Relevance of Textual
+Characteristics — Evidence from Annual Reports of U.S. Listed Firms*.
+Springer – SIDREA Series.

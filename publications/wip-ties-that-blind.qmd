@@ -1,0 +1,19 @@
+---
+title: "Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing"
+description: "Work in progress"
+author:
+  - Ludovica Bullini Orlandi
+  - Antonio De Vito
+  - Paul Demeré
+  - Francesco Grossetti
+date: 2025-06-01
+categories: [wip, accounting, governance]
+venue: ""
+status: wip
+---
+
+> Work in progress.
+
+## Abstract
+
+*Abstract forthcoming.*

@@ -1,0 +1,45 @@
+---
+title: "Using Narrative Disclosures to Predict Tax Outcomes"
+description: "Review of Accounting Studies, 2026"
+author:
+  - Olga Bogachek
+  - Paul Demeré
+  - Antonio De Vito
+  - Francesco Grossetti
+date: 2026-01-15
+categories: [published, 2026, accounting, NLP, tax, featured]
+venue: "Review of Accounting Studies"
+volume: "31"
+pages: "374–412"
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Review of Accounting Studies* (2026), **31**, 374–412.
+
+[DOI](#) · [PDF](#) · [Code](#)
+
+## Abstract
+
+*Abstract forthcoming — add the published abstract here.*
+
+## Citation
+
+Bogachek, O., Demeré, P., De Vito, A., & Grossetti, F. (2026). Using
+Narrative Disclosures to Predict Tax Outcomes. *Review of Accounting
+Studies*, 31, 374–412.
+
+## BibTeX
+
+```{.bibtex}
+@article{bogachek2026narrative,
+  title   = {Using Narrative Disclosures to Predict Tax Outcomes},
+  author  = {Bogachek, Olga and Demer{\'e}, Paul and De Vito, Antonio and Grossetti, Francesco},
+  journal = {Review of Accounting Studies},
+  volume  = {31},
+  pages   = {374--412},
+  year    = {2026}
+}
+```

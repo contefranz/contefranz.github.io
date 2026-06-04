@@ -1,0 +1,51 @@
+---
+title: "Teaching"
+page-layout: article
+toc: true
+toc-location: right
+---
+
+At Bocconi I have designed and direct courses that bring **data science**,
+**NLP**, and **blockchain** into the MSc. and BSc. curricula in Accounting
+and AI. In 2023–2024 I received the **Bocconi Teaching Award for
+Innovation** for *Introduction to Blockchain*.
+
+## Current courses — Bocconi University
+
+- **Big Data for Business Decisions** — *MSc. Elective*
+- **Statistical and Computational Methods in Accounting** — *BSc. in AI,
+  Elective*
+- **Introduction to Blockchain** — *BSc. Elective* · *Bocconi Teaching
+  Award for Innovation, 2023–2024*
+
+## Past courses — Bocconi University
+
+- **Accounting and Financial Statement Analysis** — Module I
+- **Deep Learning for Computer Vision**
+- **Computer Programming and Database Systems**
+
+## SDA Bocconi School of Management
+
+- **Mastering Data for Insurance** — NLP Module, Executive Custom Program.
+
+## NHH and Free University of Bozen (2024–2025)
+
+- **Introduction to Blockchain** — offered at both BSc. and MSc. level.
+
+## Service
+
+I serve on the **Editorial Board** of *Accounting in Europe* (2026–2029)
+and as **Scientific Program Coordinator** of the 4th Bocconi Accounting
+Symposium (June 22–23, 2026). I review for the *Journal of Accounting and
+Public Policy*, the *Journal of Business, Finance, and Accounting*, and
+the FARS section of AAA.
+
+## Advising
+
+Since 2018 I have advised more than **40 MSc.** and **30 BSc.** theses on
+corporate disclosure, NLP, machine learning, and blockchain applications
+in accounting.
+
+Prospective advisees: please [email me](mailto:francesco.grossetti@unibocconi.it)
+with a short note on your background and the questions you would like to
+work on.

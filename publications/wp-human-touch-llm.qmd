@@ -1,0 +1,24 @@
+---
+title: "It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains"
+description: "Working paper — under review"
+author:
+  - Miles Gietzmann
+  - Francesco Grossetti
+  - Craig M. Lewis
+date: 2025-01-01
+categories: [working, machine-learning, LLM, NLP]
+venue: "Under review"
+status: working
+---
+
+> Working paper — *under review.*
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Gietzmann, M., Grossetti, F., & Lewis, C. M. (work in progress). It's the
+Human Touch! Performance of Large Language Models in Highly-Specific
+Domains.

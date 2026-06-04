@@ -1,0 +1,25 @@
+---
+title: "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration"
+description: "Springer — SIDREA Series in Accounting and Business Administration, 2024"
+author:
+  - Antonio De Vito
+  - Francesco Grossetti
+date: 2024-01-01
+categories: [book, 2024, accounting, tax, bibliometrics]
+venue: "Springer – SIDREA Series in Accounting and Business Administration"
+status: book
+---
+
+> Springer – SIDREA Series in Accounting and Business Administration (2024).
+
+[Publisher](#) · [Read sample](#)
+
+## Abstract
+
+*Abstract / overview forthcoming.*
+
+## Citation
+
+De Vito, A., & Grossetti, F. (2024). *Tax Avoidance Research: Exploring
+Networks and Dynamics of Global Academic Collaboration*. Springer – SIDREA
+Series.

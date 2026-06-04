@@ -1,0 +1,48 @@
+---
+title: "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings"
+description: "Astronomy & Astrophysics, 2013"
+author:
+  - Francesco Grossetti
+  - Giuseppe Gavazzi
+  - Michele Fumagalli
+  - Matteo Fossati
+  - Veronica Galardo
+  - Alessandro Boselli
+  - Riccardo Giovanelli
+  - Martha P. Haynes
+date: 2013-01-01
+categories: [published, 2013, astrophysics]
+venue: "Astronomy & Astrophysics"
+volume: ""
+pages: ""
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Astronomy & Astrophysics* (2013).
+
+[DOI](#) · [PDF](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Gavazzi, G., Fumagalli, M., Fossati, M., Galardo, V., Grossetti, F.,
+Boselli, A., Giovanelli, R., & Haynes, M. P. (2013). Hα³: An Hα Imaging
+Survey of HI-Selected Galaxies from ALFALFA. II. *Astronomy &
+Astrophysics*.
+
+## BibTeX
+
+```{.bibtex}
+@article{gavazzi2013halpha,
+  title   = {H$\alpha^3$: An H$\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings},
+  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Fossati, Matteo and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P.},
+  journal = {Astronomy \& Astrophysics},
+  year    = {2013}
+}
+```

@@ -1,0 +1,23 @@
+---
+title: "Tax-Motivated Share Repurchases and Corporate Investment During Crisis"
+description: "Working paper — under review"
+author:
+  - Carlo D'Augusta
+  - Antonio De Vito
+  - Francesco Grossetti
+date: 2025-01-01
+categories: [working, accounting, tax, corporate-finance]
+venue: "Under review"
+status: working
+---
+
+> Working paper — *under review.*
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+D'Augusta, C., De Vito, A., & Grossetti, F. (work in progress).
+Tax-Motivated Share Repurchases and Corporate Investment During Crisis.

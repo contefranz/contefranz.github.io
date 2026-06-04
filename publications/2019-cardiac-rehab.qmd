@@ -1,0 +1,46 @@
+---
+title: "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012"
+description: "European Journal of Preventive Cardiology, 2019"
+author:
+  - Francesco Grossetti
+  - Simonetta Scalvini
+  - Anna Maria Paganoni
+  - Maria Teresa La Rovere
+  - Roberto Pedretti
+  - Maria Frigerio
+date: 2019-01-01
+categories: [published, 2019, biostatistics, healthcare]
+venue: "European Journal of Preventive Cardiology"
+volume: ""
+pages: ""
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *European Journal of Preventive Cardiology* (2019).
+
+[DOI](#) · [PDF](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Grossetti, F., Scalvini, S., Paganoni, A. M., La Rovere, M. T., Pedretti, R.,
+& Frigerio, M. (2019). Impact of In-Hospital Cardiac Rehabilitation on
+Mortality and Readmissions in Heart Failure: A Population Study in Lombardy,
+Italy, from 2005 to 2012. *European Journal of Preventive Cardiology*.
+
+## BibTeX
+
+```{.bibtex}
+@article{grossetti2019cardiac,
+  title   = {Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012},
+  author  = {Grossetti, Francesco and Scalvini, Simonetta and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto and Frigerio, Maria},
+  journal = {European Journal of Preventive Cardiology},
+  year    = {2019}
+}
+```

@@ -1,0 +1,26 @@
+---
+title: "Code"
+page-layout: full
+toc: false
+listing:
+  id: code
+  contents: "code/*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, description, categories]
+  sort: "title"
+  categories: true
+  filter-ui: true
+---
+
+I develop open-source tools for empirical accounting and finance
+research. Each card below links to the project's own documentation site
+or repository.
+
+::: {#code}
+:::
+
+Where possible, the code that accompanies my published papers is released
+alongside the working-paper version. If you are looking for replication
+materials for a specific paper and cannot find them, please
+[email me](mailto:francesco.grossetti@unibocconi.it).

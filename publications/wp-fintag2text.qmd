@@ -1,0 +1,24 @@
+---
+title: "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data"
+description: "Working paper — under 3rd-round review"
+author:
+  - Christopher Burd
+  - Eddy Casi
+  - Francesco Grossetti
+  - Petro Lisowsky
+date: 2025-01-01
+categories: [working, accounting, NLP, XBRL]
+venue: "Under 3rd-round review"
+status: working
+---
+
+> Working paper — *under 3rd-round review.*
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Burd, C., Casi, E., Grossetti, F., & Lisowsky, P. (work in progress).
+FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data.

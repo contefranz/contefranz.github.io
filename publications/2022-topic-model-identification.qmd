@@ -1,0 +1,44 @@
+---
+title: "A Statistical Approach for Optimal Topic Model Identification"
+description: "Journal of Machine Learning Research, 2022"
+author:
+  - Francesco Grossetti
+  - Craig M. Lewis
+date: 2022-01-01
+categories: [published, 2022, machine-learning, NLP, methods, featured]
+venue: "Journal of Machine Learning Research"
+volume: "23(58)"
+pages: "1–20"
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Journal of Machine Learning Research* (2022), **23(58)**, 1–20.
+
+[DOI](#) · [PDF](#) · [Code](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Grossetti, F., & Lewis, C. M. (2022). A Statistical Approach for Optimal
+Topic Model Identification. *Journal of Machine Learning Research*,
+23(58), 1–20.
+
+## BibTeX
+
+```{.bibtex}
+@article{grossetti2022topic,
+  title   = {A Statistical Approach for Optimal Topic Model Identification},
+  author  = {Grossetti, Francesco and Lewis, Craig M.},
+  journal = {Journal of Machine Learning Research},
+  volume  = {23},
+  number  = {58},
+  pages   = {1--20},
+  year    = {2022}
+}
+```

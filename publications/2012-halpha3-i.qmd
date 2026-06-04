@@ -1,0 +1,48 @@
+---
+title: "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster"
+description: "Astronomy & Astrophysics, 2012"
+author:
+  - Francesco Grossetti
+  - Giuseppe Gavazzi
+  - Michele Fumagalli
+  - Veronica Galardo
+  - Alessandro Boselli
+  - Riccardo Giovanelli
+  - Martha P. Haynes
+  - Sabrina Fabello
+date: 2012-01-01
+categories: [published, 2012, astrophysics]
+venue: "Astronomy & Astrophysics"
+volume: ""
+pages: ""
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Astronomy & Astrophysics* (2012).
+
+[DOI](#) · [PDF](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Gavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A.,
+Giovanelli, R., Haynes, M. P., & Fabello, S. (2012). Hα³: An Hα Imaging
+Survey of HI-Selected Galaxies from ALFALFA. I. *Astronomy &
+Astrophysics*.
+
+## BibTeX
+
+```{.bibtex}
+@article{gavazzi2012halpha,
+  title   = {H$\alpha^3$: An H$\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},
+  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Sabrina},
+  journal = {Astronomy \& Astrophysics},
+  year    = {2012}
+}
+```

@@ -239,3 +239,103 @@ ol li, ul li {
   color: var(--fg-muted);
   font-size: 0.9em;
 }
+
+/* ---------- Listings (publications, code, featured) ---------- */
+.quarto-listing {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* Neutralize global h2/h3 border on listing card titles */
+.quarto-listing .listing-title,
+.quarto-listing .card-title,
+.quarto-listing .listing-item h3 {
+  border-bottom: none !important;
+  margin-top: 0;
+  padding-bottom: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+/* Default-type listing items get a soft card frame */
+.quarto-listing-default .listing-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  margin-bottom: 0.9rem;
+  background: var(--bg);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.quarto-listing-default .listing-item:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+/* Grid-type listing (Code page) */
+.quarto-listing-grid .card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.quarto-listing-grid .card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.quarto-listing-grid .card .card-body {
+  padding: 1rem 1.1rem;
+}
+
+/* Table-type listing (Working / WIP) */
+.quarto-listing-table th {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--fg-muted);
+  border-bottom: 1px solid var(--border);
+}
+.quarto-listing-table td {
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 0.5rem;
+  vertical-align: top;
+}
+
+/* Listing metadata (date, categories) */
+.quarto-listing .listing-date,
+.quarto-listing .listing-author {
+  color: var(--fg-muted);
+  font-size: 0.88rem;
+}
+
+/* Category filter chips */
+.quarto-listing-category {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  margin: 0.15rem 0.3rem 0.15rem 0;
+  font-size: 0.8rem;
+  background: var(--bg);
+  color: var(--fg-muted);
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.quarto-listing-category:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.quarto-listing-category.active {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+/* "See all →" links under the featured listings on the landing */
+.featured-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.92rem;
+  color: var(--accent);
+  border-bottom: 1px solid transparent;
+}
+.featured-link:hover {
+  border-bottom-color: var(--accent);
+}

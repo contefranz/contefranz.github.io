@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: _site
 
+execute:
+  freeze: auto
+
 website:
   title: "Francesco Grossetti"
   description: "Personal website of Francesco Grossetti, Bocconi University"
@@ -13,12 +16,12 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: index.qmd#publications
-        text: Research
-      - href: index.qmd#service-teaching-and-outreach
-        text: Teaching
-      - href: index.qmd#code
+      - href: publications.qmd
+        text: Publications
+      - href: code.qmd
         text: Code
+      - href: teaching.qmd
+        text: Teaching
     right:
       - icon: github
         href: https://github.com/contefranz

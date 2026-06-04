@@ -1,0 +1,23 @@
+---
+title: "The Information Content of Loan Contract Disclosures"
+description: "Working paper — under review"
+author:
+  - Ilaria Brancaccio
+  - Paul Demeré
+  - Francesco Grossetti
+date: 2025-01-01
+categories: [working, accounting, NLP]
+venue: "Under review"
+status: working
+---
+
+> Working paper — *under review.*
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Brancaccio, I., Demeré, P., & Grossetti, F. (work in progress). The
+Information Content of Loan Contract Disclosures.

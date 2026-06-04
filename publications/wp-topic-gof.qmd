@@ -1,0 +1,22 @@
+---
+title: "Goodness-of-Fit Indices and Diagnostics for Topic Models"
+description: "Working paper"
+author:
+  - Francesco Grossetti
+  - Craig M. Lewis
+date: 2025-01-01
+categories: [working, machine-learning, NLP, methods]
+venue: ""
+status: working
+---
+
+> Working paper.
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Grossetti, F., & Lewis, C. M. (work in progress). Goodness-of-Fit Indices
+and Diagnostics for Topic Models.

@@ -1,0 +1,42 @@
+---
+title: "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data"
+description: "Health Care Management Science, 2018"
+author:
+  - Francesco Grossetti
+  - Francesca Ieva
+  - Anna Maria Paganoni
+date: 2018-01-01
+categories: [published, 2018, biostatistics, healthcare]
+venue: "Health Care Management Science"
+volume: ""
+pages: ""
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Health Care Management Science* (2018).
+
+[DOI](#) · [PDF](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Grossetti, F., Ieva, F., & Paganoni, A. M. (2018). A Multi-State Approach
+to Hospital Readmissions of Patients Affected by Chronic Heart Failure:
+The Value Added by Administrative Data. *Health Care Management Science*.
+
+## BibTeX
+
+```{.bibtex}
+@article{grossetti2018multistate,
+  title   = {A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},
+  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},
+  journal = {Health Care Management Science},
+  year    = {2018}
+}
+```

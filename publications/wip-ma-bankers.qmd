@@ -1,0 +1,18 @@
+---
+title: "M&A Bankers' Human Capital: The Role of Expertise, Connections, and Background in Dealmaking"
+description: "Work in progress"
+author:
+  - Atif Ellahie
+  - Francesco Grossetti
+  - Riccardo Vincenzi
+date: 2025-06-01
+categories: [wip, accounting, corporate-finance]
+venue: ""
+status: wip
+---
+
+> Work in progress.
+
+## Abstract
+
+*Abstract forthcoming.*

@@ -1,0 +1,44 @@
+---
+title: "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?"
+description: "Journal of Accounting and Public Policy, 2021"
+author:
+  - Francesco Grossetti
+  - Miles Gietzmann
+date: 2021-01-01
+categories: [published, 2021, accounting, blockchain]
+venue: "Journal of Accounting and Public Policy"
+volume: "40(5)"
+pages: "106881"
+doi: ""
+pdf: ""
+code: ""
+status: published
+---
+
+> *Journal of Accounting and Public Policy* (2021), **40(5)**, 106881.
+
+[DOI](#) · [PDF](#) · [Code](#)
+
+## Abstract
+
+*Abstract forthcoming.*
+
+## Citation
+
+Grossetti, F., & Gietzmann, M. (2021). Blockchain and Other Distributed
+Ledger Technologies: Where Is the Accounting? *Journal of Accounting and
+Public Policy*, 40(5), 106881.
+
+## BibTeX
+
+```{.bibtex}
+@article{grossetti2021blockchain,
+  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},
+  author  = {Grossetti, Francesco and Gietzmann, Miles},
+  journal = {Journal of Accounting and Public Policy},
+  volume  = {40},
+  number  = {5},
+  pages   = {106881},
+  year    = {2021}
+}
+```
