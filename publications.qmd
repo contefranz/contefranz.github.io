@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-page-layout: full
+page-layout: article
 toc: true
 toc-location: right
 listing:
@@ -10,7 +10,7 @@ listing:
       status: "published"
     type: default
     sort: "date desc"
-    categories: numbered
+    categories: false
     sort-ui: [date, title]
     filter-ui: true
     fields: [date, title, author, description, categories]

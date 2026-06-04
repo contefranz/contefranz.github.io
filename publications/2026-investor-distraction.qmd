@@ -6,7 +6,7 @@ author:
   - Francesco Grossetti
   - Craig M. Lewis
 date: 2026-03-09
-# categories: [published, 2026, accounting, NLP, disclosure, featured]
+categories: [published, 2026, accounting, NLP, disclosure, featured]
 venue: "Review of Accounting Studies"
 volume: "31"
 pages: "334–373"

@@ -1,6 +1,6 @@
 ---
 title: "Code"
-page-layout: full
+page-layout: article
 toc: false
 listing:
   id: code
@@ -9,7 +9,7 @@ listing:
   grid-columns: 2
   fields: [image, title, description, categories]
   sort: "title"
-  categories: true
+  categories: false
   filter-ui: true
 ---
 
