@@ -1,40 +1,35 @@
 ---
 title: "A Statistical Approach for Optimal Topic Model Identification"
-description: "Journal of Machine Learning Research, 2022"
+description: "*Journal of Machine Learning Research* (2022)"
 author:
-  - Francesco Grossetti
   - Craig M. Lewis
-date: 2022-01-01
+  - Francesco Grossetti
+date: 2022-02-01
 categories: [published, 2022, machine-learning, NLP, methods, featured]
 venue: "Journal of Machine Learning Research"
-volume: "23(58)"
+volume: "23"
 pages: "1–20"
-doi: ""
-pdf: ""
-code: ""
 status: published
 ---
 
-> *Journal of Machine Learning Research* (2022), **23(58)**, 1–20.
-
-[DOI](#) · [PDF](#) · [Code](#)
+[PDF](https://www.jmlr.org/papers/volume23/19-297/19-297.pdf) | [JMLR](https://www.jmlr.org/papers/v23/19-297.html) | [Code](https://github.com/contefranz/OpTop)
 
 ## Abstract
 
-*Abstract forthcoming.*
+Latent Dirichlet Allocation is a popular machine-learning technique that identifies latent structures in a corpus of documents. This paper addresses the ongoing concern that formal procedures for determining the optimal LDA configuration do not exist by introducing a set of parametric tests that rely on the assumed multinomial distribution specification underlying the original LDA model. Our methodology defines a set of rigorous statistical procedures that identify and evaluate the optimal topic model. The U.S. Presidential Inaugural Address Corpus is used as a case study to show the numerical results. We find that 92 topics best describe the corpus. We further validate the method through a simulation study confirming the superiority of our approach compared to other standard heuristic metrics like the perplexity index.
 
 ## Citation
 
-Grossetti, F., & Lewis, C. M. (2022). A Statistical Approach for Optimal
+Lewis, C. M. & Grossetti, F. (2022). A Statistical Approach for Optimal
 Topic Model Identification. *Journal of Machine Learning Research*,
 23(58), 1–20.
 
 ## BibTeX
 
 ```{.bibtex}
-@article{grossetti2022topic,
+@article{lewis2022topic,
   title   = {A Statistical Approach for Optimal Topic Model Identification},
-  author  = {Grossetti, Francesco and Lewis, Craig M.},
+  author  = {Lewis, Craig M. and Grossetti, Francesco},
   journal = {Journal of Machine Learning Research},
   volume  = {23},
   number  = {58},

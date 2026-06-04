@@ -1,42 +1,41 @@
 ---
-title: "A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data"
-description: "Health Care Management Science, 2018"
+title: "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data"
+description: "*Health Care Management Science* (2018)"
 author:
   - Francesco Grossetti
   - Francesca Ieva
   - Anna Maria Paganoni
-date: 2018-01-01
+date: 2018-06-01
 categories: [published, 2018, biostatistics, healthcare]
 venue: "Health Care Management Science"
-volume: ""
-pages: ""
-doi: ""
-pdf: ""
-code: ""
+volume: "21"
+pages: "281–291"
 status: published
 ---
 
-> *Health Care Management Science* (2018).
-
-[DOI](#) · [PDF](#)
+[DOI](https://doi.org/10.1007/s10729-017-9400-z) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/28488196/)
 
 ## Abstract
 
-*Abstract forthcoming.*
+Healthcare administrative databases are becoming more and more important and reliable sources of clinical and epidemiological information, and are able to track several interactions between a patient and the public healthcare system. This study uses data extracted from the administrative data warehouse of Regione Lombardia, a region in northern Italy, with the aim of providing a description of the epidemiology of Heart Failure patients at the regional level, profiling health service utilization over time, and investigating variations in patient care according to geographic area and socio-demographic characteristics. We apply multi-state models to estimate transition probabilities between admission, discharge, and death states while adjusting for state-dependent covariates. The analysis examines the effects of pharmacological and outpatient care covariates on patients' readmissions and death, representing an early Italian investigation into factors influencing hospitalization and mortality outcomes in heart failure patients.
 
 ## Citation
 
-Grossetti, F., Ieva, F., & Paganoni, A. M. (2018). A Multi-State Approach
-to Hospital Readmissions of Patients Affected by Chronic Heart Failure:
-The Value Added by Administrative Data. *Health Care Management Science*.
+Grossetti, F., Ieva, F. & Paganoni, A. M. (2018). A Multi-State Approach to
+Patients Affected by Chronic Heart Failure: The Value Added by
+Administrative Data. *Health Care Management Science*, 21, 281–291.
 
 ## BibTeX
 
 ```{.bibtex}
 @article{grossetti2018multistate,
-  title   = {A Multi-State Approach to Hospital Readmissions of Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},
+  title   = {A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},
   author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},
   journal = {Health Care Management Science},
-  year    = {2018}
+  volume  = {21},
+  number  = {2},
+  pages   = {281--291},
+  year    = {2018},
+  doi     = {10.1007/s10729-017-9400-z}
 }
 ```

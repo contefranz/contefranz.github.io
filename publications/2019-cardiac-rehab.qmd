@@ -1,46 +1,50 @@
 ---
 title: "Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012"
-description: "European Journal of Preventive Cardiology, 2019"
+description: "*European Journal of Preventive Cardiology* (2019)"
 author:
-  - Francesco Grossetti
   - Simonetta Scalvini
+  - Francesco Grossetti
   - Anna Maria Paganoni
   - Maria Teresa La Rovere
-  - Roberto Pedretti
+  - Roberto F. E. Pedretti
   - Maria Frigerio
-date: 2019-01-01
+date: 2019-05-01
 categories: [published, 2019, biostatistics, healthcare]
 venue: "European Journal of Preventive Cardiology"
-volume: ""
-pages: ""
-doi: ""
-pdf: ""
-code: ""
+volume: "26"
+pages: "808–817"
 status: published
 ---
 
-> *European Journal of Preventive Cardiology* (2019).
-
-[DOI](#) · [PDF](#)
+[DOI](https://doi.org/10.1177/2047487319833512) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/30813817/)
 
 ## Abstract
 
-*Abstract forthcoming.*
+**Aims.** The 2016 European guidelines for the diagnosis and treatment of heart failure classified cardiac rehabilitation as a mandatory class I intervention. The aim of this study was to evaluate, in a large heart failure population, the impact of in-hospital cardiac rehabilitation on mortality and rehospitalisations.
+
+**Methods and results.** Patients with a new diagnosis of heart failure between 2005 and 2012 were identified from the Lombardy region healthcare administrative database. Two groups were compared: patients receiving only acute care hospitalisation (group A) versus patients admitted to an in-hospital cardiac rehabilitation program after the index event (group B). Hospitalisations, mortality, readmissions, drug prescriptions, and outpatient visits were analysed. Total mortality was 30% in group A versus 29% in group B. At Cox and logistic regression analyses, after adjustment for covariates, group B had a significantly lower risk of mortality (hazard ratio 0.5768, 95% confidence interval 0.5650–0.5888, P < 0.0001) and readmissions (0.7997, 0.7758–0.8244, P < 0.0001) than group A.
+
+**Conclusion.** This study showed in a large population of heart failure patients that in-hospital cardiac rehabilitation is associated with a reduction of all-cause mortality and rehospitalisations in heart failure.
 
 ## Citation
 
-Grossetti, F., Scalvini, S., Paganoni, A. M., La Rovere, M. T., Pedretti, R.,
+Scalvini, S., Grossetti, F., Paganoni, A. M., La Rovere, M. T., Pedretti, R. F. E.
 & Frigerio, M. (2019). Impact of In-Hospital Cardiac Rehabilitation on
-Mortality and Readmissions in Heart Failure: A Population Study in Lombardy,
-Italy, from 2005 to 2012. *European Journal of Preventive Cardiology*.
+Mortality and Readmissions in Heart Failure: A Population Study in
+Lombardy, Italy, from 2005 to 2012. *European Journal of Preventive
+Cardiology*, 26, 808–817.
 
 ## BibTeX
 
 ```{.bibtex}
-@article{grossetti2019cardiac,
+@article{scalvini2019cardiac,
   title   = {Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012},
-  author  = {Grossetti, Francesco and Scalvini, Simonetta and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto and Frigerio, Maria},
+  author  = {Scalvini, Simonetta and Grossetti, Francesco and Paganoni, Anna Maria and La Rovere, Maria Teresa and Pedretti, Roberto F. E. and Frigerio, Maria},
   journal = {European Journal of Preventive Cardiology},
-  year    = {2019}
+  volume  = {26},
+  number  = {8},
+  pages   = {808--817},
+  year    = {2019},
+  doi     = {10.1177/2047487319833512}
 }
 ```

@@ -1,48 +1,46 @@
 ---
 title: "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster"
-description: "Astronomy & Astrophysics, 2012"
+description: "*Astronomy & Astrophysics* (2012)"
 author:
-  - Francesco Grossetti
   - Giuseppe Gavazzi
   - Michele Fumagalli
-  - Veronica Galardo
+  - Vincenzo Galardo
+  - Francesco Grossetti
   - Alessandro Boselli
   - Riccardo Giovanelli
   - Martha P. Haynes
-  - Sabrina Fabello
-date: 2012-01-01
+  - Silvia Fabello
+date: 2012-09-01
 categories: [published, 2012, astrophysics]
 venue: "Astronomy & Astrophysics"
-volume: ""
-pages: ""
-doi: ""
-pdf: ""
-code: ""
+volume: "545"
+pages: "A16"
 status: published
 ---
 
-> *Astronomy & Astrophysics* (2012).
-
-[DOI](#) · [PDF](#)
+[PDF](https://www.aanda.org/articles/aa/pdf/2012/09/aa18788-12.pdf) | [DOI](https://doi.org/10.1051/0004-6361/201218788)
 
 ## Abstract
 
-*Abstract forthcoming.*
+We present Hα³ (acronym for Hα − αα), an Hα narrow-band imaging survey of ~400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (~10⁷·⁵ − 10¹¹·⁵ M☉). We image in Hα+[NII] all the galaxies that contain more than 10⁷ M☉ of neutral atomic hydrogen in the sky region 11h < RA < 16h; 4° < Dec < 16°; 350 < cz < 2000 km s⁻¹ using the San Pedro Martir 2 m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with Hα fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the Hα fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs).
 
 ## Citation
 
 Gavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A.,
-Giovanelli, R., Haynes, M. P., & Fabello, S. (2012). Hα³: An Hα Imaging
-Survey of HI-Selected Galaxies from ALFALFA. I. *Astronomy &
-Astrophysics*.
+Giovanelli, R., Haynes, M. P. & Fabello, S. (2012). Hα³: An Hα Imaging
+Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local
+Supercluster. *Astronomy & Astrophysics*, 545, A16.
 
 ## BibTeX
 
 ```{.bibtex}
 @article{gavazzi2012halpha,
   title   = {H$\alpha^3$: An H$\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},
-  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Veronica and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Sabrina},
+  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Silvia},
   journal = {Astronomy \& Astrophysics},
-  year    = {2012}
+  volume  = {545},
+  pages   = {A16},
+  year    = {2012},
+  doi     = {10.1051/0004-6361/201218788}
 }
 ```

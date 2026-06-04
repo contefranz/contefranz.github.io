@@ -1,33 +1,28 @@
 ---
 title: "Using Narrative Disclosures to Predict Tax Outcomes"
-description: "Review of Accounting Studies, 2026"
+description: "*Review of Accounting Studies* (2026)"
 author:
   - Olga Bogachek
-  - Paul Demeré
   - Antonio De Vito
+  - Paul Demeré
   - Francesco Grossetti
-date: 2026-01-15
+date: 2026-03-01
 categories: [published, 2026, accounting, NLP, tax, featured]
 venue: "Review of Accounting Studies"
 volume: "31"
 pages: "374–412"
-doi: ""
-pdf: ""
-code: ""
 status: published
 ---
 
-> *Review of Accounting Studies* (2026), **31**, 374–412.
-
-[DOI](#) · [PDF](#) · [Code](#)
+[PDF](https://link.springer.com/content/pdf/10.1007/s11142-025-09914-3.pdf) | [DOI](https://doi.org/10.1007/s11142-025-09914-3)
 
 ## Abstract
 
-*Abstract forthcoming — add the published abstract here.*
+We examine whether narrative discussion in financial disclosures can help corporate stakeholders better predict tax outcomes. To measure qualitative discussion, we use topic modeling analysis to create measures of the thematic content of 10-K disclosures. We find that qualitative discussion in financial disclosures can substantially improve prediction of tax outcomes in in- and out-of-sample tests. We also find that prediction-relevant discussion is distributed throughout the 10-K, supporting that disclosures should be analyzed holistically rather than examining only limited pieces of larger disclosures. Further, we find that analysts often do not use this information effectively, resulting in predictable and economically meaningful forecast errors. These findings illustrate the wealth of qualitative information in 10-K disclosures for stakeholders concerned about tax outcomes and offer a practical approach to examining qualitative disclosures and using them to predict tax outcomes.
 
 ## Citation
 
-Bogachek, O., Demeré, P., De Vito, A., & Grossetti, F. (2026). Using
+Bogachek, O., De Vito, A., Demeré, P. & Grossetti, F. (2026). Using
 Narrative Disclosures to Predict Tax Outcomes. *Review of Accounting
 Studies*, 31, 374–412.
 
@@ -36,10 +31,11 @@ Studies*, 31, 374–412.
 ```{.bibtex}
 @article{bogachek2026narrative,
   title   = {Using Narrative Disclosures to Predict Tax Outcomes},
-  author  = {Bogachek, Olga and Demer{\'e}, Paul and De Vito, Antonio and Grossetti, Francesco},
+  author  = {Bogachek, Olga and De Vito, Antonio and Demer{\'e}, Paul and Grossetti, Francesco},
   journal = {Review of Accounting Studies},
   volume  = {31},
   pages   = {374--412},
-  year    = {2026}
+  year    = {2026},
+  doi     = {10.1007/s11142-025-09914-3}
 }
 ```

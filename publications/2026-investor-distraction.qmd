@@ -1,41 +1,36 @@
 ---
 title: "Investor Distraction and Multi-Dimensional Financial Narrative"
-description: "Review of Accounting Studies, 2026"
+description: "*Review of Accounting Studies* (2026)"
 author:
-  - Francesco Grossetti
   - Miles Gietzmann
+  - Francesco Grossetti
   - Craig M. Lewis
-date: 2026-01-15
-categories: [published, 2026, accounting, NLP, disclosure, featured]
+date: 2026-03-09
+# categories: [published, 2026, accounting, NLP, disclosure, featured]
 venue: "Review of Accounting Studies"
 volume: "31"
 pages: "334–373"
-doi: ""
-pdf: ""
-code: ""
 status: published
 ---
 
-> *Review of Accounting Studies* (2026), **31**, 334–373.
-
-[DOI](#) · [PDF](#) · [Code](#)
+[PDF](https://link.springer.com/content/pdf/10.1007/s11142-026-09950-7.pdf) | [Code](https://github.com/contefranz/aaiNB)
 
 ## Abstract
 
-*Abstract forthcoming — add the published abstract here.*
+This paper investigates how institutional investor distraction affects the assimilation of narrative content in the MD&A section of the 10-K filing. We introduce the Aggregate Attribute Index ($AAI$) and an alternative formulation ($AltAAI$), which capture linguistic features beyond tone to provide a broader measure of corporate narrative richness. Using machine learning and natural language processing, we analyze U.S. firms that follow a staggered reporting strategy, releasing quantitative results before full narrative disclosures. This design isolates the incremental effects of complex language when other portfolio events distract investors. We find that narrative complexity does not trigger short-term return responses but significantly affects stock prices over longer horizons. Complexity moderates how and when attention-constrained investors adjust prices. These effects are not captured by dictionary-based tone or readability metrics, underscoring the distinct role of multi-dimensional attributes in shaping delayed market reactions and price discovery.
 
 ## Citation
 
-Grossetti, F., Gietzmann, M., & Lewis, C. M. (2026). Investor Distraction
+Gietzmann, M., Grossetti, F. & Lewis, C. M. (2026). Investor Distraction
 and Multi-Dimensional Financial Narrative. *Review of Accounting Studies*,
 31, 334–373.
 
 ## BibTeX
 
 ```{.bibtex}
-@article{grossetti2026investor,
+@article{gietzmann2026investor,
   title   = {Investor Distraction and Multi-Dimensional Financial Narrative},
-  author  = {Grossetti, Francesco and Gietzmann, Miles and Lewis, Craig M.},
+  author  = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},
   journal = {Review of Accounting Studies},
   volume  = {31},
   pages   = {334--373},

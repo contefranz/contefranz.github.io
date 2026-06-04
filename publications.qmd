@@ -7,7 +7,7 @@ listing:
   - id: published
     contents: "publications/*.qmd"
     include:
-      categories: "published"
+      status: "published"
     type: default
     sort: "date desc"
     categories: numbered
@@ -19,7 +19,7 @@ listing:
   - id: working
     contents: "publications/*.qmd"
     include:
-      categories: "working"
+      status: "working"
     type: table
     sort: "date desc"
     fields: [title, author, description]
@@ -28,14 +28,14 @@ listing:
   - id: wip
     contents: "publications/*.qmd"
     include:
-      categories: "wip"
+      status: "wip"
     type: table
     sort: "title"
     fields: [title, author]
   - id: books
     contents: "publications/*.qmd"
     include:
-      categories: "book"
+      status: "book"
     type: default
     sort: "date desc"
     fields: [date, title, author, description]

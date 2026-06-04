@@ -1,44 +1,40 @@
 ---
 title: "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?"
-description: "Journal of Accounting and Public Policy, 2021"
+description: "*Journal of Accounting and Public Policy* (2021)"
 author:
-  - Francesco Grossetti
   - Miles Gietzmann
-date: 2021-01-01
+  - Francesco Grossetti
+date: 2021-09-01
 categories: [published, 2021, accounting, blockchain]
 venue: "Journal of Accounting and Public Policy"
-volume: "40(5)"
+volume: "40"
 pages: "106881"
-doi: ""
-pdf: ""
-code: ""
 status: published
 ---
 
-> *Journal of Accounting and Public Policy* (2021), **40(5)**, 106881.
-
-[DOI](#) · [PDF](#) · [Code](#)
+[DOI](https://doi.org/10.1016/j.jaccpubpol.2021.106881) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507602)
 
 ## Abstract
 
-*Abstract forthcoming.*
+In a recent survey of academic research, Fintech-related topics — broadly classified as crypto-currency studies — were by far the most researched topics in the social sciences. However, we have observed that, perhaps surprisingly, even though crypto-currencies rely on a distributed accounting ledger technology, relatively few of those studies were conducted by accounting academics. While some of the features of a system like Bitcoin do not necessarily rely on a traditional accounting knowledge, this knowledge is key in designing effective real-world distributed systems. The article discusses how an accounting perspective is essential for understanding the implications of blockchain and other distributed ledger technologies, including smart contracting, auditability, and the architectural choices required to build accounting-grade distributed systems.
 
 ## Citation
 
-Grossetti, F., & Gietzmann, M. (2021). Blockchain and Other Distributed
+Gietzmann, M. & Grossetti, F. (2021). Blockchain and Other Distributed
 Ledger Technologies: Where Is the Accounting? *Journal of Accounting and
 Public Policy*, 40(5), 106881.
 
 ## BibTeX
 
 ```{.bibtex}
-@article{grossetti2021blockchain,
+@article{gietzmann2021blockchain,
   title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},
-  author  = {Grossetti, Francesco and Gietzmann, Miles},
+  author  = {Gietzmann, Miles and Grossetti, Francesco},
   journal = {Journal of Accounting and Public Policy},
   volume  = {40},
   number  = {5},
   pages   = {106881},
-  year    = {2021}
+  year    = {2021},
+  doi     = {10.1016/j.jaccpubpol.2021.106881}
 }
 ```
