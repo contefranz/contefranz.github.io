@@ -1,6 +1,0 @@
----
-title: "edgartools"
-description: "An open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020)."
-path: https://github.com/contefranz/edgartools
-categories: [R, SEC, EDGAR, featured]
----

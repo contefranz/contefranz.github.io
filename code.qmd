@@ -4,13 +4,13 @@ page-layout: article
 toc: false
 listing:
   id: code
-  contents: "code/*.qmd"
+  contents: "code/projects.yml"
   type: grid
   grid-columns: 2
-  fields: [image, title, description, categories]
-  sort: "title"
+  fields: [title, description, categories]
+  sort: "order"
   categories: false
-  filter-ui: true
+  filter-ui: false
 ---
 
 I develop open-source tools for empirical accounting and finance

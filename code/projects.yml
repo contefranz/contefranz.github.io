@@ -1,0 +1,23 @@
+- title: "NLPstudio"
+  path: "https://contefranz.github.io/NLPstudio/"
+  description: "Scalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on **quanteda** and **data.table** with portable parallel backends. Stable since `v1.0.0`."
+  order: 1
+  categories: [R, NLP, topic-modeling, featured]
+
+- title: "OpTop"
+  path: "https://github.com/contefranz/OpTop"
+  description: "Parametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti (2022), *Journal of Machine Learning Research*."
+  order: 2
+  categories: [R, NLP, topic-modeling, methods]
+
+- title: "aaiNB"
+  path: "https://github.com/contefranz/aaiNB"
+  description: "Naive Bayes training sets and classifiers for multi-dimensional financial narrative attributes. Companion code and data to Gietzmann, Grossetti & Lewis (2026), *Review of Accounting Studies*."
+  order: 3
+  categories: [R, NLP, naive-bayes, replication]
+
+- title: "msmtools"
+  path: "https://github.com/contefranz/msmtools"
+  description: "Augmented longitudinal data and diagnostics for multi-state models fitted with **msm** — `augment()`, `polish()`, `survplot()`, `prevplot()`. Stable lifecycle; also available on [CRAN](https://cran.r-project.org/package=msmtools)."
+  order: 4
+  categories: [R, biostatistics, multi-state, survival]

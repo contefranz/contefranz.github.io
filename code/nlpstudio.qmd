@@ -1,6 +1,0 @@
----
-title: "NLPstudio"
-description: "Composable NLP pipelines for empirical accounting and finance research."
-path: https://contefranz.github.io/NLPstudio
-categories: [R, NLP, featured]
----

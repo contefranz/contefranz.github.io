@@ -17,11 +17,11 @@ website:
       - href: index.qmd
         text: About
       - href: publications.qmd
-        text: Publications
-      - href: code.qmd
-        text: Code
+        text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: code.qmd
+        text: Code
     right:
       - icon: github
         href: https://github.com/contefranz

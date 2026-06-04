@@ -33,13 +33,13 @@ listing:
     sort: "date desc"
     fields: [date, title, description]
   - id: featured-code
-    contents: "code/*.qmd"
+    contents: "code/projects.yml"
     include:
       categories: "featured"
     type: grid
     grid-columns: 3
     max-items: 3
-    fields: [image, title, description]
+    fields: [title, description]
 ---
 
 ```{=html}
