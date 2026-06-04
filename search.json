@@ -4,7 +4,7 @@
     "href": "code.html",
     "title": "Code",
     "section": "",
-    "text": "I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nNLPstudio\n\n\n\nR\n\nNLP\n\nfeatured\n\n\n\nComposable NLP pipelines for empirical accounting and finance research.\n\n\n\n\n\n\n\n\n\n\nedgartools\n\n\n\nR\n\nSEC\n\nEDGAR\n\nfeatured\n\n\n\nAn open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).\n\n\n\n\n\nNo matching items\n\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
+    "text": "I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.\n\n\n\n\n\n\n\nNLPstudio\n\n\n\nR\n\nNLP\n\ntopic-modeling\n\nfeatured\n\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\n\n\n\n\nOpTop\n\n\n\nR\n\nNLP\n\ntopic-modeling\n\nmethods\n\n\n\nParametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti…\n\n\n\n\n\n\n\n\n\naaiNB\n\n\n\nR\n\nNLP\n\nnaive-bayes\n\nreplication\n\n\n\nNaive Bayes training sets and classifiers for multi-dimensional financial narrative attributes. Companion code and data to Gietzmann, Grossetti & Lewis (2026), *Review of…\n\n\n\n\n\n\n\n\n\nmsmtools\n\n\n\nR\n\nbiostatistics\n\nmulti-state\n\nsurvival\n\n\n\nAugmented longitudinal data and diagnostics for multi-state models fitted with msm — augment(), polish(), survplot(), prevplot(). Stable lifecycle; also…\n\n\n\n\n\nNo matching items\n\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
   },
   {
     "objectID": "teaching.html",
@@ -520,42 +520,42 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Research",
     "section": "",
     "text": "My research uses NLP, machine learning, and computational statistics on large-scale textual and multimodal financial data to study corporate disclosure and its consequences — investor reactions to layered narratives, firm tax outcomes, disclosure cascades, and the diagnostics of topic models. Below: published work, working papers, work in progress, books, and recent talks."
   },
   {
     "objectID": "publications.html#published",
     "href": "publications.html#published",
-    "title": "Publications",
+    "title": "Research",
     "section": "Published",
     "text": "Published\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ndisclosure\n\nfeatured\n\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 9, 2026\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\n\npublished\n\n2026\n\naccounting\n\nNLP\n\ntax\n\nfeatured\n\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 1, 2026\n\n\nOlga Bogachek, Antonio De Vito, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nRisk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct\n\n\n\npublished\n\n2024\n\naccounting\n\nNLP\n\ngovernance\n\n\n\nJournal of Risk Research (2024)\n\n\n\n\n\nJul 1, 2024\n\n\nOlga Bogachek, Miles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\n\npublished\n\n2022\n\nmachine-learning\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nJournal of Machine Learning Research (2022)\n\n\n\n\n\nFeb 1, 2022\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\n\n\nBlockchain and Other Distributed Ledger Technologies: Where Is the Accounting?\n\n\n\npublished\n\n2021\n\naccounting\n\nblockchain\n\n\n\nJournal of Accounting and Public Policy (2021)\n\n\n\n\n\nSep 1, 2021\n\n\nMiles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\n\nImpact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012\n\n\n\npublished\n\n2019\n\nbiostatistics\n\nhealthcare\n\n\n\nEuropean Journal of Preventive Cardiology (2019)\n\n\n\n\n\nMay 1, 2019\n\n\nSimonetta Scalvini, Francesco Grossetti, Anna Maria Paganoni, Maria Teresa La Rovere, Roberto F. E. Pedretti, Maria Frigerio\n\n\n\n\n\n\n\nA Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data\n\n\n\npublished\n\n2018\n\nbiostatistics\n\nhealthcare\n\n\n\nHealth Care Management Science (2018)\n\n\n\n\n\nJun 1, 2018\n\n\nFrancesco Grossetti, Francesca Ieva, Anna Maria Paganoni\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings\n\n\n\npublished\n\n2013\n\nastrophysics\n\n\n\nAstronomy & Astrophysics (2013)\n\n\n\n\n\nMay 1, 2013\n\n\nGiuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Vincenzo Galardo, Francesco Grossetti, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes\n\n\n\n\n\n\n\nHα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster\n\n\n\npublished\n\n2012\n\nastrophysics\n\n\n\nAstronomy & Astrophysics (2012)\n\n\n\n\n\nSep 1, 2012\n\n\nGiuseppe Gavazzi, Michele Fumagalli, Vincenzo Galardo, Francesco Grossetti, Alessandro Boselli, Riccardo Giovanelli, Martha P. Haynes, Silvia Fabello\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#working-papers",
     "href": "publications.html#working-papers",
-    "title": "Publications",
+    "title": "Research",
     "section": "Working papers",
     "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nStatus\n\n\n\n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\nChristopher Burd, Eddy Casi, Francesco Grossetti, Petro Lisowsky\n\n\nWorking paper — under 3rd-round review\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\nWorking paper — under review\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\nIlaria Brancaccio, Paul Demeré, Francesco Grossetti\n\n\nWorking paper — under review\n\n\n\n\n\n\nTax-Motivated Share Repurchases and Corporate Investment During Crisis\n\n\nCarlo D’Augusta, Antonio De Vito, Francesco Grossetti\n\n\nWorking paper — under review\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\nFrancesco Grossetti, Craig M. Lewis\n\n\nWorking paper\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#work-in-progress",
     "href": "publications.html#work-in-progress",
-    "title": "Publications",
+    "title": "Research",
     "section": "Work in progress",
     "text": "Work in progress\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nDisclosure Cascade: A Hawkes Process Approach\n\n\nMiles Gietzmann, Francesco Grossetti\n\n\n\n\n\n\nM&A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking\n\n\nAtif Ellahie, Francesco Grossetti, Riccardo Vincenzi\n\n\n\n\n\n\nTies That Blind: Social Networks, Pressure, and CEO Wrongdoing\n\n\nLudovica Bullini Orlandi, Antonio De Vito, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#books-and-monographs",
     "href": "publications.html#books-and-monographs",
-    "title": "Publications",
+    "title": "Research",
     "section": "Books and monographs",
     "text": "Books and monographs\n\n\n\n\n\nValue Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms\n\n\nSpringer — SIDREA Series in Accounting and Business Administration, 2025\n\n\n\n\n\nJan 1, 2025\n\n\nOlga Bogachek, Francesco Grossetti\n\n\n\n\n\n\n\nTax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration\n\n\nSpringer — SIDREA Series in Accounting and Business Administration, 2024\n\n\n\n\n\nJan 1, 2024\n\n\nAntonio De Vito, Francesco Grossetti\n\n\n\n\n\n\n\nPython for Non-Pythonians: How to Win Over Programming Languages\n\n\nBocconi University Press / Egea, 2019\n\n\n\n\n\nJan 1, 2019\n\n\nFrancesco Grossetti, Gaia Rubera\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#selected-talks",
     "href": "publications.html#selected-talks",
-    "title": "Publications",
+    "title": "Research",
     "section": "Selected talks",
     "text": "Selected talks\n\n2026 — 48th EAA Annual Congress (Prague); NHH Invited Seminar (Bergen); BI Invited Seminar (Oslo).\n2025 — 47th EAA Annual Congress (Rome, discussant).\n2024 — CIVICA Faculty Short Visit Seminar, IE University.\n2023 — EAA Congress (Aalto, Helsinki); University of Padua.\n2022 — EAA Congress (NHH, Bergen); NHH Seminar Series.\n2021 — University of Bologna.\n2020 — Portsmouth Business School.\n2019 — AAA Annual Meeting (San Francisco); IIRAF (Beijing).\n2018 — EAA Congress (Bocconi)."
   },
@@ -585,6 +585,6 @@
     "href": "index.html#featured-code",
     "title": "Francesco Grossetti",
     "section": "Featured Code",
-    "text": "Featured Code\n\n\n\n\n\n\n\n\nNLPstudio\n\n\nComposable NLP pipelines for empirical accounting and finance research.\n\n\n\n\n\n\n\n\n\n\nedgartools\n\n\nAn open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).\n\n\n\n\n\nNo matching items\n\nSee all projects →"
+    "text": "Featured Code\n\n\n\n\n\n\n\nNLPstudio\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\nNo matching items\n\nSee all projects →"
   }
 ]

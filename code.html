@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-description","listing-order","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -158,15 +158,15 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./code.html" aria-current="page"> 
-<span class="menu-text">Code</span></a>
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./code.html" aria-current="page"> 
+<span class="menu-text">Code</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -221,17 +221,10 @@ window.Quarto = {
 
 <p>I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.</p>
 <div id="listing-code" class="quarto-listing quarto-listing-container-grid">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="UiUyQ05MUCUyQ2ZlYXR1cmVk" data-listing-file-modified-sort="1780603085512" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./code/nlpstudio.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="UiUyQ05MUCUyQ3RvcGljLW1vZGVsaW5nJTJDZmVhdHVyZWQ=">
+<a href="https://contefranz.github.io/NLPstudio/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 NLPstudio
@@ -242,36 +235,85 @@ NLPstudio
 
 <div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('dG9waWMtbW9kZWxpbmc='); return false;">topic-modeling</div>
+
 <div class="listing-category" onclick="window.quartoListingCategory('ZmVhdHVyZWQ='); return false;">featured</div>
 
 </div>
 <div class="card-text listing-description delink">
-<p>Composable NLP pipelines for empirical accounting and finance research.</p>
+<p>Scalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…</p>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UiUyQ1NFQyUyQ0VER0FSJTJDZmVhdHVyZWQ=" data-listing-file-modified-sort="1780603085512" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./code/edgartools.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="UiUyQ05MUCUyQ3RvcGljLW1vZGVsaW5nJTJDbWV0aG9kcw==">
+<a href="https://github.com/contefranz/OpTop" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-edgartools
+OpTop
 </h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('U0VD'); return false;">SEC</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('RURHQVI='); return false;">EDGAR</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dG9waWMtbW9kZWxpbmc='); return false;">topic-modeling</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('ZmVhdHVyZWQ='); return false;">featured</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bWV0aG9kcw=='); return false;">methods</div>
 
 </div>
 <div class="card-text listing-description delink">
-<p>An open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).</p>
+<p>Parametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis &amp; Grossetti…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="UiUyQ05MUCUyQ25haXZlLWJheWVzJTJDcmVwbGljYXRpb24=">
+<a href="https://github.com/contefranz/aaiNB" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+aaiNB
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('bmFpdmUtYmF5ZXM='); return false;">naive-bayes</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('cmVwbGljYXRpb24='); return false;">replication</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Naive Bayes training sets and classifiers for multi-dimensional financial narrative attributes. Companion code and data to Gietzmann, Grossetti &amp; Lewis (2026), *Review of…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="UiUyQ2Jpb3N0YXRpc3RpY3MlMkNtdWx0aS1zdGF0ZSUyQ3N1cnZpdmFs">
+<a href="https://github.com/contefranz/msmtools" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+msmtools
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ymlvc3RhdGlzdGljcw=='); return false;">biostatistics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('bXVsdGktc3RhdGU='); return false;">multi-state</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('c3Vydml2YWw='); return false;">survival</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Augmented longitudinal data and diagnostics for multi-state models fitted with <strong>msm</strong> — <code>augment()</code>, <code>polish()</code>, <code>survplot()</code>, <code>prevplot()</code>. Stable lifecycle; also…</p>
 </div>
 </div>
 </div></a>

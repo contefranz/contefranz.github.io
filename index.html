@@ -110,9 +110,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-description","listing-order","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -187,15 +187,15 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./code.html"> 
-<span class="menu-text">Code</span></a>
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./code.html"> 
+<span class="menu-text">Code</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <h2 data-anchor-id="featured-publications">Featured Publications</h2>
 <div id="listing-featured-pubs" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkNkaXNjbG9zdXJlJTJDZmVhdHVyZWQ=" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
+<div class="quarto-post image-right" data-index="0" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkNkaXNjbG9zdXJlJTJDZmVhdHVyZWQ=" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1780604795337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="212">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-investor-distraction.html" class="no-external">Investor Distraction and Multi-Dimensional Financial Narrative</a>
@@ -323,7 +323,7 @@ Mar 9, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1780604795337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-narrative-tax-outcomes.html" class="no-external">Using Narrative Disclosures to Predict Tax Outcomes</a>
@@ -340,7 +340,7 @@ Mar 1, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1780603085518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
+<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1780604795337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2022-topic-model-identification.html" class="no-external">A Statistical Approach for Optimal Topic Model Identification</a>
@@ -366,30 +366,15 @@ Feb 1, 2022
 <h2 data-anchor-id="featured-code">Featured Code</h2>
 <div id="listing-featured-code" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UiUyQ05MUCUyQ2ZlYXR1cmVk" data-listing-file-modified-sort="1780603085512" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./code/nlpstudio.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="UiUyQ05MUCUyQ3RvcGljLW1vZGVsaW5nJTJDZmVhdHVyZWQ=">
+<a href="https://contefranz.github.io/NLPstudio/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 NLPstudio
 </h5>
 <div class="card-text listing-description delink">
-<p>Composable NLP pipelines for empirical accounting and finance research.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="UiUyQ1NFQyUyQ0VER0FSJTJDZmVhdHVyZWQ=" data-listing-file-modified-sort="1780603085512" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./code/edgartools.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-edgartools
-</h5>
-<div class="card-text listing-description delink">
-<p>An open-source library to efficiently collect financial filings from the SEC EDGAR database. Funded by a Bocconi Junior Research Grant (PI, 2019–2020).</p>
+<p>Scalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…</p>
 </div>
 </div>
 </div></a>

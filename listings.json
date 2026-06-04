@@ -1,10 +1,7 @@
 [
   {
     "listing": "/code.html",
-    "items": [
-      "/code/nlpstudio.html",
-      "/code/edgartools.html"
-    ]
+    "items": []
   },
   {
     "listing": "/publications.html",
@@ -36,9 +33,7 @@
     "items": [
       "/publications/2026-investor-distraction.html",
       "/publications/2026-narrative-tax-outcomes.html",
-      "/publications/2022-topic-model-identification.html",
-      "/code/nlpstudio.html",
-      "/code/edgartools.html"
+      "/publications/2022-topic-model-identification.html"
     ]
   }
 ]
