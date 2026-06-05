@@ -7,9 +7,12 @@ execute:
 
 website:
   title: "Dr. Francesco Grossetti"
-  description: "Personal website of Francesco Grossetti, Bocconi University"
+  description: "Francesco Grossetti — Assistant Professor of Accounting Analytics and Data Science at Bocconi University. Research on corporate disclosure, tax outcomes, and investor reactions using NLP, machine learning, and computational statistics."
   site-url: https://contefranz.github.io
   repo-url: https://github.com/contefranz/contefranz.github.io
+  image: https://contefranz.github.io/profile.jpeg
+  open-graph: true
+  twitter-card: true
   navbar:
     pinned: true
     background: light
@@ -40,6 +43,9 @@ website:
         href: https://github.com/contefranz
       - icon: envelope
         href: mailto:francesco.grossetti@unibocconi.it
+
+filters:
+  - citation-meta
 
 format:
   html:

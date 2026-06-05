@@ -23,6 +23,50 @@ about:
       href: https://accounting.unibocconi.eu/faculty/francesco-grossetti
 page-layout: full
 toc: false
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Francesco Grossetti",
+        "givenName": "Francesco",
+        "familyName": "Grossetti",
+        "jobTitle": "Assistant Professor of Accounting Analytics and Data Science",
+        "affiliation": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "Bocconi University",
+            "department": "Department of Accounting",
+            "url": "https://accounting.unibocconi.eu"
+          },
+          {
+            "@type": "Organization",
+            "name": "Bocconi Institute for Data Science and Analytics",
+            "url": "https://bidsa.unibocconi.eu"
+          }
+        ],
+        "url": "https://contefranz.github.io",
+        "image": "https://contefranz.github.io/profile.jpeg",
+        "sameAs": [
+          "https://scholar.google.com/citations?user=3_RK7O8AAAAJ&hl=en",
+          "https://orcid.org/0000-0002-5130-7745",
+          "https://www.researchgate.net/profile/Francesco-Grossetti",
+          "https://github.com/contefranz",
+          "https://www.linkedin.com/in/francesco-grossetti/",
+          "https://accounting.unibocconi.eu/faculty/francesco-grossetti"
+        ],
+        "knowsAbout": [
+          "Corporate disclosure",
+          "Tax outcomes",
+          "Natural Language Processing",
+          "Machine learning",
+          "Computational statistics",
+          "Topic modeling",
+          "Accounting analytics"
+        ]
+      }
+      </script>
 listing:
   - id: featured-pubs
     contents: "publications/*.qmd"
