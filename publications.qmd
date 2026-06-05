@@ -91,3 +91,20 @@ books, and recent talks.
 - **2020** — Portsmouth Business School.
 - **2019** — AAA Annual Meeting (San Francisco); IIRAF (Beijing).
 - **2018** — EAA Congress (Bocconi).
+
+## Research grants
+
+- **2024–2026** — *CIVICA Research Grant.* **EXECML — Using Machine
+  Learning to Uncover Subjective Incentives in Executive Compensation**,
+  with IE University and Stockholm School of Economics. €35,000 (June
+  2024 – May 2026).
+- **2024** — *CIVICA Faculty Short Visits Program.* **Optimal Benchmarking
+  for Mutual Fund Performance Evaluation with Natural Language
+  Processing**, IE University, Madrid, Spain (March 2024).
+- **2020–2021** — *Bocconi Senior Researchers' Grant — Co-P.I.*
+  **Multi-modal Communication in Corporate Reporting: Combining Words and
+  Images in Corporate Disclosure.** €9,000 (November 2020 – November
+  2021).
+- **2019–2020** — *Bocconi Junior Researchers' Grant — P.I.*
+  **edgartools: an Open Source Library to Efficiently Collect Financial
+  Filings from SEC EDGAR Database.** €8,000 (May 2019 – May 2020).
