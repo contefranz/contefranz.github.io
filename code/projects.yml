@@ -17,7 +17,7 @@
   categories: [R, NLP, naive-bayes, replication]
 
 - title: "msmtools"
-  path: "https://github.com/contefranz/msmtools"
+  path: "https://contefranz.github.io/msmtools/"
   description: "Augmented longitudinal data and diagnostics for multi-state models fitted with **msm** — `augment()`, `polish()`, `survplot()`, `prevplot()`. Stable lifecycle; also available on [CRAN](https://cran.r-project.org/package=msmtools)."
   order: 4
   categories: [R, biostatistics, multi-state, survival]
