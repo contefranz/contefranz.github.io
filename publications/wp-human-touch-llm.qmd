@@ -5,20 +5,42 @@ author:
   - Miles Gietzmann
   - Francesco Grossetti
   - Craig M. Lewis
-date: 2025-01-01
+# date: 2025-01-01
 categories: [working, machine-learning, LLM, NLP]
 venue: "Under review"
 status: working
 ---
 
-> Working paper — *under review.*
-
 ## Abstract
 
-*Abstract forthcoming.*
+We study whether general-purpose large language models (LLMs) match domain-calibrated
+machine learning methods in extracting economically relevant information from financial narra-
+tives. Using more than 175,000 earnings conference call transcripts, we compare Naïve Bayes
+classifiers trained on human-annotated sentences with otherwise identical classifiers trained on
+ChatGPT-generated pseudo-labels. Although GPT-trained models exhibit high internal accu-
+racy relative to their own labels, they show low concordance with human annotations and ex-
+plain substantially less cross-sectional variation in investor reactions. Human-trained measures
+are consistently more informative: a one-standard-deviation increase in human-calibrated tone
+is associated with approximately a 30 basis-point increase in abnormal returns, compared with
+single-digit effects for GPT-based measures. Encompassing tests indicate that human-calibrated
+attributes often contain information not captured by GPT-based counterparts, while the reverse
+is rare. These findings highlight the role of domain calibration and interpretive alignment in
+mapping financial language into market outcomes, and suggest that model scale alone does not
+guarantee economically meaningful text-based signals.
 
 ## Citation
 
-Gietzmann, M., Grossetti, F., & Lewis, C. M. (work in progress). It's the
-Human Touch! Performance of Large Language Models in Highly-Specific
-Domains.
+Gietzmann, M., Grossetti, F. & Lewis, C. M. (2025). It's the Human Touch!
+Performance of Large Language Models in Highly-Specific Domains. *Working
+paper*.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{gietzmann2025human,
+  title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},
+  author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},
+  note   = {Working paper, under review},
+  year   = {2025}
+}
+```

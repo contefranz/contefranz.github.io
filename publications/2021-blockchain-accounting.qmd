@@ -4,7 +4,7 @@ description: "*Journal of Accounting and Public Policy* (2021)"
 author:
   - Miles Gietzmann
   - Francesco Grossetti
-date: 2021-09-01
+date: 2021-08-08
 categories: [published, 2021, accounting, blockchain]
 venue: "Journal of Accounting and Public Policy"
 volume: "40"
@@ -12,7 +12,7 @@ pages: "106881"
 status: published
 ---
 
-[DOI](https://doi.org/10.1016/j.jaccpubpol.2021.106881) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3507602)
+[DOI](https://doi.org/10.1016/j.jaccpubpol.2021.106881)
 
 ## Abstract
 

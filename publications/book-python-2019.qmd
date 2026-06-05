@@ -1,18 +1,15 @@
 ---
 title: "Python for Non-Pythonians: How to Win Over Programming Languages"
-description: "Bocconi University Press / Egea, 2019"
+description: "*Bocconi University Press – Egea* (2019)"
 author:
   - Francesco Grossetti
   - Gaia Rubera
 date: 2019-01-01
 categories: [book, 2019, programming, education]
 venue: "Bocconi University Press – Egea"
+year: "2019"
 status: book
 ---
-
-> Bocconi University Press – Egea (2019).
-
-[Publisher](#)
 
 ## Abstract
 
@@ -22,5 +19,16 @@ who need to become productive with code.
 
 ## Citation
 
-Grossetti, F., & Rubera, G. (2019). *Python for Non-Pythonians: How to
-Win Over Programming Languages*. Bocconi University Press – Egea.
+Grossetti, F. & Rubera, G. (2019). *Python for Non-Pythonians: How to Win
+Over Programming Languages*. Bocconi University Press – Egea.
+
+## BibTeX
+
+```{.bibtex}
+@book{grossetti2019python,
+  title     = {Python for Non-Pythonians: How to Win Over Programming Languages},
+  author    = {Grossetti, Francesco and Rubera, Gaia},
+  publisher = {Bocconi University Press -- Egea},
+  year      = {2019}
+}
+```

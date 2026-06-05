@@ -4,14 +4,28 @@ description: "Work in progress"
 author:
   - Miles Gietzmann
   - Francesco Grossetti
-date: 2025-06-01
+# date: 2025-06-01
 categories: [wip, accounting, NLP, stochastic-processes]
-venue: ""
+venue: "Work in progress"
 status: wip
 ---
-
-> Work in progress.
 
 ## Abstract
 
 *Abstract forthcoming.*
+
+## Citation
+
+Gietzmann, M. & Grossetti, F. (work in progress). Disclosure Cascade: A
+Hawkes Process Approach.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{gietzmann_disclosure_cascade,
+  title  = {Disclosure Cascade: A {Hawkes} Process Approach},
+  author = {Gietzmann, Miles and Grossetti, Francesco},
+  note   = {Work in progress},
+  year   = {2025}
+}
+```

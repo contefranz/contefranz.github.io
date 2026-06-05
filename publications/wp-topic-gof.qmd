@@ -2,21 +2,31 @@
 title: "Goodness-of-Fit Indices and Diagnostics for Topic Models"
 description: "Working paper"
 author:
-  - Francesco Grossetti
   - Craig M. Lewis
-date: 2025-01-01
+  - Francesco Grossetti
+# date: 2025-01-01
 categories: [working, machine-learning, NLP, methods]
-venue: ""
+venue: "Working paper"
 status: working
 ---
 
-> Working paper.
-
 ## Abstract
 
-*Abstract forthcoming.*
-
+Unsupervised topic models are widely used for discovering thematic structure in text corpora, yet
+their evaluation still lacks continuous effect-size measures and residual diagnostics comparable to those routinely used in regression analysis. We develop a family of goodness-of-fit indices, $R^2_D(K)$, that quantify the proportional reduction in discrepancy achieved by a $K$-topic model relative to a no-topics baseline in which all documents share a single global word distribution. We consider deviance, Pearson $\chi^2$, and squared-error discrepancies, each evaluated on a harmonized support and anchored by a global-baseline null and a saturated benchmark. We distinguish full-corpus indices, which summarize in-sample fit descriptively, from held-out indices, which support inference and topic-number comparison. We formalize the difference between Micro (pooled, discrepancy-weighted) and Macro (document-level, unweighted) aggregation and show that their gap diagnoses fit heterogeneity aligned with the baseline discrepancy, often but not only with document length. A dual word-level perspective highlights vocabulary regions that are systematically mispredicted. Finally, we develop held-out moment-based specification tests that project residuals onto vocabulary-level instruments and detect structured residual bias beyond overall fit summaries. Together, these tools provide an interpretable framework for assessing, comparing, and diagnosing topic models through regression-style effect sizes and residual checks.
+  
 ## Citation
 
-Grossetti, F., & Lewis, C. M. (work in progress). Goodness-of-Fit Indices
-and Diagnostics for Topic Models.
+Lewis, C. M. & Grossetti, F (2026). Goodness-of-Fit Indices and
+Diagnostics for Topic Models. *Working paper*.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{grossetti2025gof,
+  title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},
+  author = {Grossetti, Francesco and Lewis, Craig M.},
+  note   = {Working paper},
+  year   = {2025}
+}
+```

@@ -3,6 +3,7 @@ title: "Research"
 page-layout: article
 toc: true
 toc-location: right
+body-classes: page-wide
 listing:
   - id: published
     contents: "publications/*.qmd"
@@ -20,18 +21,26 @@ listing:
     contents: "publications/*.qmd"
     include:
       status: "working"
-    type: table
+    type: default
     sort: "date desc"
-    fields: [title, author, description]
+    categories: false
+    sort-ui: [date, title]
+    filter-ui: true
+    fields: [date, title, author, description, categories]
     field-display-names:
       description: "Status"
   - id: wip
     contents: "publications/*.qmd"
     include:
       status: "wip"
-    type: table
-    sort: "title"
-    fields: [title, author]
+    type: default
+    sort: "date desc"
+    categories: false
+    sort-ui: [date, title]
+    filter-ui: true
+    fields: [date, title, author, description, categories]
+    field-display-names:
+      description: "Status"
   - id: books
     contents: "publications/*.qmd"
     include:

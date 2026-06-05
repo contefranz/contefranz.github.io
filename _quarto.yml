@@ -6,7 +6,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Francesco Grossetti"
+  title: "Dr. Francesco Grossetti"
   description: "Personal website of Francesco Grossetti, Bocconi University"
   site-url: https://contefranz.github.io
   repo-url: https://github.com/contefranz/contefranz.github.io

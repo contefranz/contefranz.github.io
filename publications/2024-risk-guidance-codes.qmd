@@ -5,7 +5,7 @@ author:
   - Olga Bogachek
   - Miles Gietzmann
   - Francesco Grossetti
-date: 2024-07-01
+date: 2023-03-17
 categories: [published, 2024, accounting, NLP, governance]
 venue: "Journal of Risk Research"
 volume: "27"

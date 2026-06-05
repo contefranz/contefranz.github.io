@@ -6,14 +6,28 @@ author:
   - Antonio De Vito
   - Paul Demeré
   - Francesco Grossetti
-date: 2025-06-01
+# date: 2025-06-01
 categories: [wip, accounting, governance]
-venue: ""
+venue: "Work in progress"
 status: wip
 ---
-
-> Work in progress.
 
 ## Abstract
 
 *Abstract forthcoming.*
+
+## Citation
+
+Bullini Orlandi, L., De Vito, A., Demeré, P. & Grossetti, F. (work in
+progress). Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{bulliniorlandi_ties,
+  title  = {Ties That Blind: Social Networks, Pressure, and {CEO} Wrongdoing},
+  author = {Bullini Orlandi, Ludovica and De Vito, Antonio and Demer{\'e}, Paul and Grossetti, Francesco},
+  note   = {Work in progress},
+  year   = {2025}
+}
+```

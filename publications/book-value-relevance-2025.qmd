@@ -1,25 +1,37 @@
 ---
 title: "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms"
-description: "Springer — SIDREA Series in Accounting and Business Administration, 2025"
+description: "*Springer – SIDREA Series in Accounting and Business Administration* (2025)"
 author:
   - Olga Bogachek
   - Francesco Grossetti
 date: 2025-01-01
 categories: [book, 2025, accounting, NLP]
 venue: "Springer – SIDREA Series in Accounting and Business Administration"
+year: "2025"
 status: book
 ---
 
-> Springer – SIDREA Series in Accounting and Business Administration (2025).
+## About this book
 
-[Publisher](#) · [Read sample](#)
+This book explores the evolution of value relevance in finance and accounting. While synthesizing existing literature to provide a robust theoretical framework, it also extends the discourse by incorporating textual characteristics into the traditional model of value relevance. The authors integrate two pivotal but often disparate research domains: value relevance and linguistic analysis in accounting disclosures. This inclusion enriches our understanding of how qualitative factors, such as tone and readability in corporate disclosures, interact with quantitative measures to influence market behavior and investor decision-making. The result is a nuanced, multi-dimensional analysis that not only bridges gaps in current academic research but also offers new avenues for practical application. 
 
-## Abstract
+The book starts by laying the groundwork for the concept of value relevance, discussing its evolution in the academic literature, theoretical models, their assumptions, and limitations. It then turns the spotlight onto corporate disclosure theories, thereby illuminating the strategies and psychological factors that influence how companies report their financials and accompanying narrative discussions. The authors demonstrate how the information is strategically disclosed and received, adding another layer of complexity to the concept of value relevance. The novel contribution of this manuscript comes from the methodological approach, incorporating textual analysis techniques into a widely-accepted Ohlson value relevance model. The authors empirically integrate textual elements like tone and readability and demonstrate how they can play a significant role in how investors perceive a company. The empirical section of the book provides robust evidence to support the central thesis—that qualitative elements in financial disclosures are not merely supplementary but are indeed value-relevant. This enhances the book's applicability across both academic and practical settings. In conclusion, this book serves as a comprehensive guide for those interested in the complexities of value relevance as well as the dynamics of financial disclosures. It offers valuable insights that are both theoretically robust and empirically validated, making it a useful resource for academics, practitioners, and regulators. It enriches the academic discourse by offering new pathways for research and practical application in a world where financial information is increasingly digitized. 
 
-*Abstract / overview forthcoming.*
+The target audience for this book includes academics in the fields of accounting and finance, as well as practitioners and regulators who are keen on understanding the evolving dynamics of how financial information impacts the capital markets. 
 
 ## Citation
 
-Bogachek, O., & Grossetti, F. (2025). *Value Relevance of Textual
+Bogachek, O. & Grossetti, F. (2025). *Value Relevance of Textual
 Characteristics — Evidence from Annual Reports of U.S. Listed Firms*.
-Springer – SIDREA Series.
+Springer – SIDREA Series in Accounting and Business Administration.
+
+## BibTeX
+
+```{.bibtex}
+@book{bogachek2025value,
+  title     = {Value Relevance of Textual Characteristics -- Evidence from Annual Reports of U.S. Listed Firms},
+  author    = {Bogachek, Olga and Grossetti, Francesco},
+  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},
+  year      = {2025}
+}
+```

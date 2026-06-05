@@ -10,7 +10,7 @@ author:
   - Riccardo Giovanelli
   - Martha P. Haynes
   - Silvia Fabello
-date: 2012-09-01
+date: 2012-05-21
 categories: [published, 2012, astrophysics]
 venue: "Astronomy & Astrophysics"
 volume: "545"
@@ -22,7 +22,7 @@ status: published
 
 ## Abstract
 
-We present Hα³ (acronym for Hα − αα), an Hα narrow-band imaging survey of ~400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (~10⁷·⁵ − 10¹¹·⁵ M☉). We image in Hα+[NII] all the galaxies that contain more than 10⁷ M☉ of neutral atomic hydrogen in the sky region 11h < RA < 16h; 4° < Dec < 16°; 350 < cz < 2000 km s⁻¹ using the San Pedro Martir 2 m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with Hα fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the Hα fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs).
+We present H$\alpha^3$ (acronym for H$\alpha$ − $\alpha$$\alpha$), an H$\alpha$ narrow-band imaging survey of $\sim$ 400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses ($\sim 10^{7.5} − 10^{11.5} M_\odot$). We image in H$\alpha$+[NII] all the galaxies that contain more than $10^7 M_\odot$ of neutral atomic hydrogen in the sky region 11h < RA < 16h; 4$^\circ$ < Dec < 16$^\circ$; 350 < cz < 2000 km s$^{-1}$ using the San Pedro Martir 2m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with H$\alpha$ fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the H$\alpha$ fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs).
 
 ## Citation
 

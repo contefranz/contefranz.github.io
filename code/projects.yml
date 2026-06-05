@@ -8,7 +8,7 @@
   path: "https://github.com/contefranz/OpTop"
   description: "Parametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti (2022), *Journal of Machine Learning Research*."
   order: 2
-  categories: [R, NLP, topic-modeling, methods]
+  categories: [R, NLP, methods, featured]
 
 - title: "aaiNB"
   path: "https://github.com/contefranz/aaiNB"

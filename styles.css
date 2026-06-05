@@ -31,6 +31,30 @@ body {
   max-width: none;
 }
 
+/* Research and Teaching pages: widen the body content column while keeping
+   the right-side TOC. Targets `body-classes: page-wide` set in the
+   respective .qmd frontmatter. Overrides Quarto's default
+   `minmax(500px, calc(850px - 3em))` body column with a higher cap. */
+body.page-wide #quarto-content {
+  max-width: 1500px;
+}
+body.page-wide #quarto-content.page-columns {
+  grid-template-columns:
+    [screen-start] 1.5em
+    [screen-start-inset] 5fr
+    [page-start page-start-inset] 35px
+    [body-start-outset] 35px
+    [body-start] 1.5em
+    [body-content-start] minmax(500px, 1100px)
+    [body-content-end] 1.5em
+    [body-end] 35px
+    [body-end-outset] minmax(75px, 145px)
+    [page-end-inset] 35px
+    [page-end] 5fr
+    [screen-end-inset] 1.5em
+    [screen-end] !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   letter-spacing: -0.01em;

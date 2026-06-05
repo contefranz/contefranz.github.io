@@ -1,25 +1,33 @@
 ---
 title: "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration"
-description: "Springer — SIDREA Series in Accounting and Business Administration, 2024"
+description: "*Springer – SIDREA Series in Accounting and Business Administration* (2024)"
 author:
   - Antonio De Vito
   - Francesco Grossetti
 date: 2024-01-01
 categories: [book, 2024, accounting, tax, bibliometrics]
 venue: "Springer – SIDREA Series in Accounting and Business Administration"
+year: "2024"
 status: book
 ---
 
-> Springer – SIDREA Series in Accounting and Business Administration (2024).
+## About this book
 
-[Publisher](#) · [Read sample](#)
-
-## Abstract
-
-*Abstract / overview forthcoming.*
+This book explores the intricate realm of tax avoidance, synthesizing existing empirical literature in the field. The work starts by exploring the theoretical underpinnings of tax avoidance, dissecting its unique features compared to tax evasion. It delves into measurement methodologies and dissects the determinants contributing to its prevalence. Moreover, it analyzes the economic consequences of tax avoidance, emphasizing its impact on critical accounting issues, including financial reporting transparency, cost of capital, and firm value. Next, the book offers a foundational understanding of graph theory, unveiling the core elements of networks, such as nodes and edges. The book covers the theoretical fundamentals and addresses the practical side of constructing networks based on real-world relational systems. It emphasizes the importance of effective data collection and representation methods and underscores the importance of optimizing network layouts for enhanced visual representation. Using network analysis, the book further offers a deep dive into empirical studies on tax avoidance over the past two decades, revealing insights into the collaborative nature of this stream of research. Finally, the book summarizes the key insights of the network analysis on tax avoidance. It underscores the dynamic nature of individual authors' roles and affiliations, shedding light on the collaborative dynamics within institutions.
 
 ## Citation
 
-De Vito, A., & Grossetti, F. (2024). *Tax Avoidance Research: Exploring
+De Vito, A. & Grossetti, F. (2024). *Tax Avoidance Research: Exploring
 Networks and Dynamics of Global Academic Collaboration*. Springer – SIDREA
-Series.
+Series in Accounting and Business Administration.
+
+## BibTeX
+
+```{.bibtex}
+@book{devito2024tax,
+  title     = {Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration},
+  author    = {De Vito, Antonio and Grossetti, Francesco},
+  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},
+  year      = {2024}
+}
+```

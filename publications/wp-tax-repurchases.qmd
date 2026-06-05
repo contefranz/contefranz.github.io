@@ -1,23 +1,35 @@
 ---
-title: "Tax-Motivated Share Repurchases and Corporate Investment During Crisis"
+title: "Tax-motivated Share Repurchases and Corporate Investment During Crisis"
 description: "Working paper — under review"
 author:
   - Carlo D'Augusta
   - Antonio De Vito
   - Francesco Grossetti
-date: 2025-01-01
+# date: 2025-01-01
 categories: [working, accounting, tax, corporate-finance]
 venue: "Under review"
 status: working
 ---
 
-> Working paper — *under review.*
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5248586)
 
 ## Abstract
 
-*Abstract forthcoming.*
+This paper investigates whether post-TCJA share repurchases affected corporate investment during the COVID-19 crisis. Using a difference-in-differences design on U.S. firms from 2018 to 2021, we show that investment fell sharply during the pandemic but substantially less for firms that increased repurchases after the TCJA. Repurchasing firms reduced investment by about 6%, compared with about 21% among non-repurchasing firms. The effect is stronger when board–shareholder alignment and board equity incentives are higher and financial constraints are lower, indicating that repurchases may operate as part of a liquidity-management strategy that preserves investment capacity under systemic stress.
 
 ## Citation
 
-D'Augusta, C., De Vito, A., & Grossetti, F. (work in progress).
-Tax-Motivated Share Repurchases and Corporate Investment During Crisis.
+D'Augusta, C., De Vito, A. & Grossetti, F. (2025). Tax-motivated Share
+Repurchases and Corporate Investment During Crisis. *Working paper*, SSRN
+5248586.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{daugusta2025tax,
+  title  = {Tax-motivated Share Repurchases and Corporate Investment During Crisis},
+  author = {D'Augusta, Carlo and De Vito, Antonio and Grossetti, Francesco},
+  note   = {Working paper, under review. SSRN 5248586},
+  year   = {2025}
+}
+```

@@ -2,23 +2,35 @@
 title: "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data"
 description: "Working paper — under 3rd-round review"
 author:
-  - Christopher Burd
-  - Eddy Casi
+  - Carlyle Burd
+  - Elisa Casi
   - Francesco Grossetti
   - Petro Lisowsky
-date: 2025-01-01
-categories: [working, accounting, NLP, XBRL]
+# date: 2025-03-01
+categories: [working, accounting, NLP, XBRL, tax]
 venue: "Under 3rd-round review"
 status: working
 ---
 
-> Working paper — *under 3rd-round review.*
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070703)
 
 ## Abstract
 
-*Abstract forthcoming.*
+We introduce a novel firm-level measure, "Discussed Numbers," to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative.
 
 ## Citation
 
-Burd, C., Casi, E., Grossetti, F., & Lisowsky, P. (work in progress).
-FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data.
+Burd, C., Casi, E., Grossetti, F. & Lisowsky, P. (2025). FinTag2Text:
+Mapping Financial Statement Disclosures with XBRL Data. *Working paper*,
+SSRN 4070703.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{burd2025fintag2text,
+  title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},
+  author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},
+  note   = {Working paper, under 3rd-round review. SSRN 4070703},
+  year   = {2025}
+}
+```

@@ -2,22 +2,43 @@
 title: "The Information Content of Loan Contract Disclosures"
 description: "Working paper — under review"
 author:
-  - Ilaria Brancaccio
+  - Isabella Brancaccio
   - Paul Demeré
   - Francesco Grossetti
-date: 2025-01-01
+# date: 2025-01-01
 categories: [working, accounting, NLP]
 venue: "Under review"
 status: working
 ---
 
-> Working paper — *under review.*
-
 ## Abstract
 
-*Abstract forthcoming.*
+We examine whether publicly disclosed loan contracts contain information that can be used
+by corporate stakeholders to predict borrower outcomes. Loan contracts are the result of
+negotiations between informed parties after extensive due diligence, but strategic disclosure
+incentives and reliance on boilerplate language may limit their usefulness to stakeholders.
+Using natural language processing techniques applied to a large sample of SEC-filed loan
+contracts, we find that contract terms and language, particularly contract discussion topics,
+contain incremental predictive information about future borrower performance, investment,
+bankruptcy risk, and stock return volatility. However, we also find evidence that loan con-
+tract topics are associated with future stock returns and analyst forecast errors, suggesting
+that many corporate stakeholders struggle to effectively process and use this information in
+a timely manner. Our results indicate that loan contracts contain substantial information
+content of value to many corporate stakeholders and highlight the richness of the text in
+loan contracts.
 
 ## Citation
 
 Brancaccio, I., Demeré, P., & Grossetti, F. (work in progress). The
 Information Content of Loan Contract Disclosures.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{brancaccio_loan_contract,
+  title  = {The Information Content of Loan Contract Disclosures},
+  author = {Brancaccio, Isabella and Demer{\'e}, Paul and Grossetti, Francesco},
+  note   = {Working paper, under review},
+  year   = {2025}
+}
+```

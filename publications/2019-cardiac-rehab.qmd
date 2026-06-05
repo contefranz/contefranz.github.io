@@ -8,7 +8,7 @@ author:
   - Maria Teresa La Rovere
   - Roberto F. E. Pedretti
   - Maria Frigerio
-date: 2019-05-01
+date: 2020-08-29
 categories: [published, 2019, biostatistics, healthcare]
 venue: "European Journal of Preventive Cardiology"
 volume: "26"

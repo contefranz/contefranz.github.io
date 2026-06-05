@@ -3,34 +3,32 @@ title: "Teaching"
 page-layout: article
 toc: true
 toc-location: right
+body-classes: page-wide
 ---
 
-At Bocconi I have designed and direct courses that bring **data science**,
-**NLP**, and **blockchain** into the MSc. and BSc. curricula in Accounting
-and AI. In 2023–2024 I received the **Bocconi Teaching Award for
-Innovation** for *Introduction to Blockchain*.
+At Bocconi I have designed and direct courses that bring **AI**, **data science**,
+**NLP**, **coding**, and **blockchain** into the MSc. and BSc. curricula in Accounting, Finance, and Management. 
 
-## Current courses — Bocconi University
+In 2023–2024 I received the **Bocconi Teaching Award for
+Innovation** for the course *Introduction to Blockchain*.
 
-- **Big Data for Business Decisions** — *MSc. Elective*
-- **Statistical and Computational Methods in Accounting** — *BSc. in AI,
+## Current courses | Bocconi University
+
+- Big Data for Business Decisions | *MSc. Elective*
+- Statistical and Computational Methods in Accounting | *BSc. in AI,
   Elective*
-- **Introduction to Blockchain** — *BSc. Elective* · *Bocconi Teaching
-  Award for Innovation, 2023–2024*
+- Introduction to Blockchain | *BSc. Elective* | *Bocconi Teaching Award
+  for Innovation, 2023–2024*
 
-## Past courses — Bocconi University
 
-- **Accounting and Financial Statement Analysis** — Module I
-- **Deep Learning for Computer Vision**
-- **Computer Programming and Database Systems**
+### SDA Bocconi School of Management
 
-## SDA Bocconi School of Management
-
-- **Mastering Data for Insurance** — NLP Module, Executive Custom Program.
+- Mastering Data for Insurance | NLP Module, Executive Custom Program.
+<!-- - Il CFO nell'era dell'Intelligenza Artificiale: valore e responsabilità | SDA Bocconi Open Program -->
 
 ## NHH and Free University of Bozen (2024–2025)
 
-- **Introduction to Blockchain** — offered at both BSc. and MSc. level.
+- Introduction to Blockchain — offered at both BSc. and MSc. level.
 
 ## Service
 
@@ -49,3 +47,9 @@ in accounting.
 Prospective advisees: please [email me](mailto:francesco.grossetti@unibocconi.it)
 with a short note on your background and the questions you would like to
 work on.
+
+## Past courses | Bocconi University
+
+- Accounting and Financial Statement Analysis — Module I
+- Deep Learning for Computer Vision
+- Computer Programming and Database Systems

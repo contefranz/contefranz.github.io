@@ -6,7 +6,7 @@ author:
   - Antonio De Vito
   - Paul Demeré
   - Francesco Grossetti
-date: 2026-03-01
+date: 2025-10-27
 categories: [published, 2026, accounting, NLP, tax, featured]
 venue: "Review of Accounting Studies"
 volume: "31"
