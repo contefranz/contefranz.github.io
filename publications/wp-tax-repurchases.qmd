@@ -9,6 +9,7 @@ author:
 categories: [working, accounting, tax, corporate-finance]
 venue: "Under review"
 status: working
+draft: true
 ---
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5248586)
