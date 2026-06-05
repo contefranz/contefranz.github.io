@@ -6,14 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Christopher Burd">
-<meta name="author" content="Eddy Casi">
+<meta name="author" content="Carlyle Burd">
+<meta name="author" content="Elisa Casi">
 <meta name="author" content="Francesco Grossetti">
 <meta name="author" content="Petro Lisowsky">
-<meta name="dcterms.date" content="2025-01-01">
 <meta name="description" content="Working paper — under 3rd-round review">
 
-<title>FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data – Francesco Grossetti</title>
+<title>FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data – Dr.&nbsp;Francesco Grossetti</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -28,6 +27,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -89,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Francesco Grossetti</span>
+    <span class="navbar-title">Dr.&nbsp;Francesco Grossetti</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -149,6 +183,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
   <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
+  <li><a href="#bibtex" id="toc-bibtex" class="nav-link" data-scroll-target="#bibtex">BibTeX</a></li>
   </ul>
 </nav>
     </div>
@@ -163,6 +198,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-category">accounting</div>
     <div class="quarto-category">NLP</div>
     <div class="quarto-category">XBRL</div>
+    <div class="quarto-category">tax</div>
   </div>
   </div>
 
@@ -178,19 +214,13 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
-             <p>Christopher Burd </p>
-             <p>Eddy Casi </p>
+             <p>Carlyle Burd </p>
+             <p>Elisa Casi </p>
              <p>Francesco Grossetti </p>
              <p>Petro Lisowsky </p>
           </div>
   </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 2025</p>
-    </div>
-  </div>
   
     
   </div>
@@ -200,16 +230,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<blockquote class="blockquote">
-<p>Working paper — <em>under 3rd-round review.</em></p>
-</blockquote>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070703">SSRN</a></p>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p><em>Abstract forthcoming.</em></p>
+<p>We introduce a novel firm-level measure, “Discussed Numbers,” to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative.</p>
 </section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<p>Burd, C., Casi, E., Grossetti, F., &amp; Lisowsky, P. (work in progress). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data.</p>
+<p>Burd, C., Casi, E., Grossetti, F. &amp; Lisowsky, P. (2025). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data. <em>Working paper</em>, SSRN 4070703.</p>
+</section>
+<section id="bibtex" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex">BibTeX</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@unpublished</span>{<span class="ot">burd2025fintag2text</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span> = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">note</span>   = {Working paper, under 3rd-round review. SSRN 4070703},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>   = {2025}</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>

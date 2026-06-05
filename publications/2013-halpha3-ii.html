@@ -14,10 +14,10 @@
 <meta name="author" content="Alessandro Boselli">
 <meta name="author" content="Riccardo Giovanelli">
 <meta name="author" content="Martha P. Haynes">
-<meta name="dcterms.date" content="2013-05-01">
+<meta name="dcterms.date" content="2013-03-13">
 <meta name="description" content="Astronomy &amp; Astrophysics (2013)">
 
-<title>Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings – Francesco Grossetti</title>
+<title>Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings – Dr.&nbsp;Francesco Grossetti</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -116,6 +116,35 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -128,7 +157,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Francesco Grossetti</span>
+    <span class="navbar-title">Dr.&nbsp;Francesco Grossetti</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -231,7 +260,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 1, 2013</p>
+      <p class="date">March 13, 2013</p>
     </div>
   </div>
   
@@ -246,7 +275,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><a href="https://arxiv.org/pdf/1303.2846">PDF</a> | <a href="https://arxiv.org/abs/1303.2846">arXiv</a></p>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>We present the analysis of Hα³, an Hα imaging survey of 409 galaxies selected from the HI Arecibo ALFALFA Survey in the Local Supercluster, including the Virgo cluster. We explore the relations between the stellar mass, the HI mass, and the current massive SFR of nearby galaxies in the Virgo cluster and we compare them with those of isolated galaxies in the Local Supercluster, disentangling the role of the environment in shaping the star formation properties of galaxies at the present cosmological epoch. We investigate the relationships between atomic neutral gas and newly formed stars in different environments, across many morphological types, and over a wide range of stellar masses adopting an updated calibration of the HI deficiency parameter. Studying the mean properties of late-type galaxies in the Local Supercluster, we find that galaxies in increasing local galaxy density conditions (or decreasing projected angular separation from M87) show a significant decrease in the HI content and in the mean specific star formation rate, along with a progressive reddening of their stellar populations. The gradual quenching of the star formation occurs outside-in, consistently with the predictions of the ram pressure model. Once considered as a whole, the Virgo cluster is effective in removing neutral hydrogen from galaxies, and this perturbation is strong enough to appreciably reduce the SFR of its entire galaxy population. An estimate of the present infall rate of 300–400 galaxies per Gyr in the Virgo cluster is obtained from the number of existing HI-rich late-type systems, assuming 200–300 Myr as the time scale for HI ablation. If the infall process has been acting at constant rate this would imply that the Virgo cluster has formed approximately 2 Gyr ago, consistently with the idea that Virgo is in a young state of dynamical evolution.</p>
+<p>We present the analysis of H<span class="math inline">\(\alpha^3\)</span>, an H<span class="math inline">\(\alpha\)</span> imaging survey of 409 galaxies selected from the HI Arecibo ALFALFA Survey in the Local Supercluster, including the Virgo cluster. We explore the relations between the stellar mass, the HI mass, and the current massive SFR of nearby galaxies in the Virgo cluster and we compare them with those of isolated galaxies in the Local Supercluster, disentangling the role of the environment in shaping the star formation properties of galaxies at the present cosmological epoch. We investigate the relationships between atomic neutral gas and newly formed stars in different environments, across many morphological types, and over a wide range of stellar masses adopting an updated calibration of the HI deficiency parameter. Studying the mean properties of late-type galaxies in the Local Supercluster, we find that galaxies in increasing local galaxy density conditions (or decreasing projected angular separation from M87) show a significant decrease in the HI content and in the mean specific star formation rate, along with a progressive reddening of their stellar populations. The gradual quenching of the star formation occurs outside-in, consistently with the predictions of the ram pressure model. Once considered as a whole, the Virgo cluster is effective in removing neutral hydrogen from galaxies, and this perturbation is strong enough to appreciably reduce the SFR of its entire galaxy population. An estimate of the present infall rate of 300–400 galaxies per Gyr in the Virgo cluster is obtained from the number of existing HI-rich late-type systems, assuming 200–300 Myr as the time scale for HI ablation. If the infall process has been acting at constant rate this would imply that the Virgo cluster has formed approximately 2 Gyr ago, consistently with the idea that Virgo is in a young state of dynamical evolution.</p>
 </section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>

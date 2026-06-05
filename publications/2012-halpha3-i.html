@@ -14,10 +14,10 @@
 <meta name="author" content="Riccardo Giovanelli">
 <meta name="author" content="Martha P. Haynes">
 <meta name="author" content="Silvia Fabello">
-<meta name="dcterms.date" content="2012-09-01">
+<meta name="dcterms.date" content="2012-05-21">
 <meta name="description" content="Astronomy &amp; Astrophysics (2012)">
 
-<title>Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster – Francesco Grossetti</title>
+<title>Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster – Dr.&nbsp;Francesco Grossetti</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -116,6 +116,35 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -128,7 +157,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Francesco Grossetti</span>
+    <span class="navbar-title">Dr.&nbsp;Francesco Grossetti</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -231,7 +260,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 1, 2012</p>
+      <p class="date">May 21, 2012</p>
     </div>
   </div>
   
@@ -246,7 +275,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><a href="https://www.aanda.org/articles/aa/pdf/2012/09/aa18788-12.pdf">PDF</a> | <a href="https://doi.org/10.1051/0004-6361/201218788">DOI</a></p>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>We present Hα³ (acronym for Hα − αα), an Hα narrow-band imaging survey of ~400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (~10⁷·⁵ − 10¹¹·⁵ M☉). We image in Hα+[NII] all the galaxies that contain more than 10⁷ M☉ of neutral atomic hydrogen in the sky region 11h &lt; RA &lt; 16h; 4° &lt; Dec &lt; 16°; 350 &lt; cz &lt; 2000 km s⁻¹ using the San Pedro Martir 2 m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with Hα fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the Hα fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs).</p>
+<p>We present H<span class="math inline">\(\alpha^3\)</span> (acronym for H<span class="math inline">\(\alpha\)</span> − <span class="math inline">\(\alpha\)</span><span class="math inline">\(\alpha\)</span>), an H<span class="math inline">\(\alpha\)</span> narrow-band imaging survey of <span class="math inline">\(\sim\)</span> 400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (<span class="math inline">\(\sim 10^{7.5} − 10^{11.5} M_\odot\)</span>). We image in H<span class="math inline">\(\alpha\)</span>+[NII] all the galaxies that contain more than <span class="math inline">\(10^7 M_\odot\)</span> of neutral atomic hydrogen in the sky region 11h &lt; RA &lt; 16h; 4<span class="math inline">\(^\circ\)</span> &lt; Dec &lt; 16<span class="math inline">\(^\circ\)</span>; 350 &lt; cz &lt; 2000 km s<span class="math inline">\(^{-1}\)</span> using the San Pedro Martir 2m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with H<span class="math inline">\(\alpha\)</span> fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the H<span class="math inline">\(\alpha\)</span> fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs).</p>
 </section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
