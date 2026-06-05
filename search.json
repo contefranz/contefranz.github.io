@@ -385,34 +385,6 @@
     "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  volume  = {21},\n  number  = {2},\n  pages   = {281--291},\n  year    = {2018},\n  doi     = {10.1007/s10729-017-9400-z}\n}"
   },
   {
-    "objectID": "publications/wp-tax-repurchases.html",
-    "href": "publications/wp-tax-repurchases.html",
-    "title": "Tax-motivated Share Repurchases and Corporate Investment During Crisis",
-    "section": "",
-    "text": "SSRN"
-  },
-  {
-    "objectID": "publications/wp-tax-repurchases.html#abstract",
-    "href": "publications/wp-tax-repurchases.html#abstract",
-    "title": "Tax-motivated Share Repurchases and Corporate Investment During Crisis",
-    "section": "Abstract",
-    "text": "Abstract\nThis paper investigates whether post-TCJA share repurchases affected corporate investment during the COVID-19 crisis. Using a difference-in-differences design on U.S. firms from 2018 to 2021, we show that investment fell sharply during the pandemic but substantially less for firms that increased repurchases after the TCJA. Repurchasing firms reduced investment by about 6%, compared with about 21% among non-repurchasing firms. The effect is stronger when board–shareholder alignment and board equity incentives are higher and financial constraints are lower, indicating that repurchases may operate as part of a liquidity-management strategy that preserves investment capacity under systemic stress."
-  },
-  {
-    "objectID": "publications/wp-tax-repurchases.html#citation",
-    "href": "publications/wp-tax-repurchases.html#citation",
-    "title": "Tax-motivated Share Repurchases and Corporate Investment During Crisis",
-    "section": "Citation",
-    "text": "Citation\nD’Augusta, C., De Vito, A. & Grossetti, F. (2025). Tax-motivated Share Repurchases and Corporate Investment During Crisis. Working paper, SSRN 5248586."
-  },
-  {
-    "objectID": "publications/wp-tax-repurchases.html#bibtex",
-    "href": "publications/wp-tax-repurchases.html#bibtex",
-    "title": "Tax-motivated Share Repurchases and Corporate Investment During Crisis",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{daugusta2025tax,\n  title  = {Tax-motivated Share Repurchases and Corporate Investment During Crisis},\n  author = {D'Augusta, Carlo and De Vito, Antonio and Grossetti, Francesco},\n  note   = {Working paper, under review. SSRN 5248586},\n  year   = {2025}\n}"
-  },
-  {
     "objectID": "publications/2024-risk-guidance-codes.html",
     "href": "publications/2024-risk-guidance-codes.html",
     "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
@@ -627,7 +599,7 @@
     "href": "publications.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\n\nworking\n\naccounting\n\nNLP\n\nXBRL\n\ntax\n\n\n\nWorking paper — under 3rd-round review\n\n\n\n\n\nCarlyle Burd, Elisa Casi, Francesco Grossetti, Petro Lisowsky\n\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\n\nworking\n\nmachine-learning\n\nLLM\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\n\nworking\n\naccounting\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nIsabella Brancaccio, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nTax-motivated Share Repurchases and Corporate Investment During Crisis\n\n\n\nworking\n\naccounting\n\ntax\n\ncorporate-finance\n\n\n\nWorking paper — under review\n\n\n\n\n\nCarlo D’Augusta, Antonio De Vito, Francesco Grossetti\n\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\n\nworking\n\nmachine-learning\n\nNLP\n\nmethods\n\n\n\nWorking paper\n\n\n\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\n\nworking\n\naccounting\n\nNLP\n\nXBRL\n\ntax\n\n\n\nWorking paper — under 3rd-round review\n\n\n\n\n\nCarlyle Burd, Elisa Casi, Francesco Grossetti, Petro Lisowsky\n\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\n\nworking\n\nmachine-learning\n\nLLM\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\n\nworking\n\naccounting\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nIsabella Brancaccio, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\n\nworking\n\nmachine-learning\n\nNLP\n\nmethods\n\n\n\nWorking paper\n\n\n\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#work-in-progress",
