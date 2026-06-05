@@ -68,15 +68,15 @@ University, a Fellow at the
 [Bocconi Institute for Data Science and Analytics](https://bidsa.unibocconi.eu),
 and a member of the Bocconi Digital Transformation and AI Committee.
 
-My work sits at the intersection of **Natural Language Processing**,
-**Machine Learning**, and **empirical finance**. I use large-scale textual
-and multimodal financial data to study corporate disclosure and its
-consequences — including firm tax outcomes and investor reactions to
-multi-dimensional financial narratives. Methodologically, I draw on
-statistical learning and computational statistics, with a focus on
-stochastic processes for sequential data, which lets me model how
-corporate information evolves over time (disclosure cascades, topic
-model identification, and more).
+I study core questions in **accounting and finance** — corporate
+disclosure and its consequences for firm tax outcomes, investor reactions
+to multi-dimensional financial narratives, and the dynamics through which
+corporate information reaches the market — using **Natural Language
+Processing**, **machine learning**, and **computational statistics** on
+large-scale textual and multimodal financial data. Methodologically, I
+draw on statistical learning and stochastic processes for sequential
+data, which let me model how corporate information evolves over time
+(disclosure cascades, topic model identification, and more).
 
 My work has appeared in the *Review of Accounting Studies*, the
 *Journal of Machine Learning Research*, the *Journal of Accounting and
