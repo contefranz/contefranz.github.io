@@ -1,136 +1,31 @@
 [
   {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Francesco Grossetti",
     "section": "",
-    "text": "I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.\n\n\n\n\n\n\n\nNLPstudio\n\n\n\nR\n\nNLP\n\ntopic-modeling\n\nfeatured\n\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\n\n\n\n\nOpTop\n\n\n\nR\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nParametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti…\n\n\n\n\n\n\n\n\n\naaiNB\n\n\n\nR\n\nNLP\n\nnaive-bayes\n\nreplication\n\n\n\nNaive Bayes training sets and classifiers for multi-dimensional financial narrative attributes. Companion code and data to Gietzmann, Grossetti & Lewis (2026), *Review of…\n\n\n\n\n\n\n\n\n\nmsmtools\n\n\n\nR\n\nbiostatistics\n\nmulti-state\n\nsurvival\n\n\n\nAugmented longitudinal data and diagnostics for multi-state models fitted with msm — augment(), polish(), survplot(), prevplot(). Stable lifecycle; also…\n\n\n\n\n\nNo matching items\n\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
+    "text": "Department of Accounting, Bocconi UniversityVia Roentgen 1, 20136 Milano, Italy\n  Bocconi Institute for Data Science and Analytics, Bocconi UniversityVia Roentgen 1, 20136 Milano, Italy\n  francesco.grossetti@unibocconi.it"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "At Bocconi I have designed and direct courses that bring AI, data science, NLP, coding, and blockchain into the MSc. and BSc. curricula in Accounting, Finance, and Management.\nIn 2023–2024 I received the Bocconi Teaching Award for Innovation for the course Introduction to Blockchain."
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": "Dr. Francesco Grossetti",
+    "section": "Short Bio",
+    "text": "Short Bio\nI am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nI study core questions in accounting and finance — corporate disclosure and its consequences for firm tax outcomes, investor reactions to multi-dimensional financial narratives, and the dynamics through which corporate information reaches the market — using Natural Language Processing, machine learning, and computational statistics on large-scale textual and multimodal financial data. Methodologically, I draw on statistical learning and stochastic processes for sequential data, which let me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets.\n\nPositions\n\nAssistant Professor, Department of Accounting, Bocconi University · 2018 – present\nFellow, Bocconi Institute for Data Science and Analytics · 2018 – present\nVisiting Associate Professor (recurrent), NHH, Bergen · 2024 – 2025\nVisiting Assistant Professor, IE University, Madrid · October 2022\nPostdoctoral Fellow, Bocconi University · 2017 – 2018\nResearch Fellow, Politecnico di Milano · 2011 – 2013\n\n\n\nEducation\n\nPh.D. in Applied and Computational Statistics | Politecnico di Milano (MOX) · 2017\nM.Sc. in Astrophysics and Space Physics | Università di Milano-Bicocca\nB.Sc. in Physics | Università di Milano-Bicocca"
   },
   {
-    "objectID": "teaching.html#current-courses-bocconi-university",
-    "href": "teaching.html#current-courses-bocconi-university",
-    "title": "Teaching",
-    "section": "Current courses | Bocconi University",
-    "text": "Current courses | Bocconi University\n\nBig Data for Business Decisions | MSc. Elective\nStatistical and Computational Methods in Accounting | BSc. in AI, Elective\nIntroduction to Blockchain | BSc. Elective | Bocconi Teaching Award for Innovation, 2023–2024\n\n\nSDA Bocconi School of Management\n\nMastering Data for Insurance | NLP Module, Executive Custom Program."
+    "objectID": "index.html#featured-publications",
+    "href": "index.html#featured-publications",
+    "title": "Dr. Francesco Grossetti",
+    "section": "Featured Publications",
+    "text": "Featured Publications\n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 9, 2026\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\nJournal of Machine Learning Research (2022)\n\n\n\n\n\nFeb 1, 2022\n\n\n\n\n\nNo matching items\n\nSee all publications →"
   },
   {
-    "objectID": "teaching.html#nhh-and-free-university-of-bozen-20242025",
-    "href": "teaching.html#nhh-and-free-university-of-bozen-20242025",
-    "title": "Teaching",
-    "section": "NHH and Free University of Bozen (2024–2025)",
-    "text": "NHH and Free University of Bozen (2024–2025)\n\nIntroduction to Blockchain — offered at both BSc. and MSc. level."
-  },
-  {
-    "objectID": "teaching.html#service",
-    "href": "teaching.html#service",
-    "title": "Teaching",
-    "section": "Service",
-    "text": "Service\nI serve on the Editorial Board of Accounting in Europe (2026–2029) and as Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 22–23, 2026). I review for the Journal of Accounting and Public Policy, the Journal of Business, Finance, and Accounting, and the FARS section of AAA."
-  },
-  {
-    "objectID": "teaching.html#advising",
-    "href": "teaching.html#advising",
-    "title": "Teaching",
-    "section": "Advising",
-    "text": "Advising\nSince 2018 I have advised more than 40 MSc. and 30 BSc. theses on corporate disclosure, NLP, machine learning, and blockchain applications in accounting.\nProspective advisees: please email me with a short note on your background and the questions you would like to work on."
-  },
-  {
-    "objectID": "teaching.html#past-courses-bocconi-university",
-    "href": "teaching.html#past-courses-bocconi-university",
-    "title": "Teaching",
-    "section": "Past courses | Bocconi University",
-    "text": "Past courses | Bocconi University\n\nAccounting and Financial Statement Analysis — Module I\nDeep Learning for Computer Vision\nComputer Programming and Database Systems"
-  },
-  {
-    "objectID": "publications/wp-fintag2text.html",
-    "href": "publications/wp-fintag2text.html",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "",
-    "text": "SSRN"
-  },
-  {
-    "objectID": "publications/wp-fintag2text.html#abstract",
-    "href": "publications/wp-fintag2text.html#abstract",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "Abstract",
-    "text": "Abstract\nWe introduce a novel firm-level measure, “Discussed Numbers,” to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative."
-  },
-  {
-    "objectID": "publications/wp-fintag2text.html#citation",
-    "href": "publications/wp-fintag2text.html#citation",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "Citation",
-    "text": "Citation\nBurd, C., Casi, E., Grossetti, F. & Lisowsky, P. (2025). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data. Working paper, SSRN 4070703."
-  },
-  {
-    "objectID": "publications/wp-fintag2text.html#bibtex",
-    "href": "publications/wp-fintag2text.html#bibtex",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{burd2025fintag2text,\n  title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},\n  author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},\n  note   = {Working paper, under 3rd-round review. SSRN 4070703},\n  year   = {2025}\n}"
-  },
-  {
-    "objectID": "publications/2012-halpha3-i.html",
-    "href": "publications/2012-halpha3-i.html",
-    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
-    "section": "",
-    "text": "PDF | DOI"
-  },
-  {
-    "objectID": "publications/2012-halpha3-i.html#abstract",
-    "href": "publications/2012-halpha3-i.html#abstract",
-    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
-    "section": "Abstract",
-    "text": "Abstract\nWe present H\\(\\alpha^3\\) (acronym for H\\(\\alpha\\) − \\(\\alpha\\)\\(\\alpha\\)), an H\\(\\alpha\\) narrow-band imaging survey of \\(\\sim\\) 400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (\\(\\sim 10^{7.5} − 10^{11.5} M_\\odot\\)). We image in H\\(\\alpha\\)+[NII] all the galaxies that contain more than \\(10^7 M_\\odot\\) of neutral atomic hydrogen in the sky region 11h &lt; RA &lt; 16h; 4\\(^\\circ\\) &lt; Dec &lt; 16\\(^\\circ\\); 350 &lt; cz &lt; 2000 km s\\(^{-1}\\) using the San Pedro Martir 2m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with H\\(\\alpha\\) fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the H\\(\\alpha\\) fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs)."
-  },
-  {
-    "objectID": "publications/2012-halpha3-i.html#citation",
-    "href": "publications/2012-halpha3-i.html#citation",
-    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
-    "section": "Citation",
-    "text": "Citation\nGavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., Haynes, M. P. & Fabello, S. (2012). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster. Astronomy & Astrophysics, 545, A16."
-  },
-  {
-    "objectID": "publications/2012-halpha3-i.html#bibtex",
-    "href": "publications/2012-halpha3-i.html#bibtex",
-    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{gavazzi2012halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Silvia},\n  journal = {Astronomy \\& Astrophysics},\n  volume  = {545},\n  pages   = {A16},\n  year    = {2012},\n  doi     = {10.1051/0004-6361/201218788}\n}"
-  },
-  {
-    "objectID": "publications/wp-topic-gof.html",
-    "href": "publications/wp-topic-gof.html",
-    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
-    "section": "",
-    "text": "Unsupervised topic models are widely used for discovering thematic structure in text corpora, yet their evaluation still lacks continuous effect-size measures and residual diagnostics comparable to those routinely used in regression analysis. We develop a family of goodness-of-fit indices, \\(R^2_D(K)\\), that quantify the proportional reduction in discrepancy achieved by a \\(K\\)-topic model relative to a no-topics baseline in which all documents share a single global word distribution. We consider deviance, Pearson \\(\\chi^2\\), and squared-error discrepancies, each evaluated on a harmonized support and anchored by a global-baseline null and a saturated benchmark. We distinguish full-corpus indices, which summarize in-sample fit descriptively, from held-out indices, which support inference and topic-number comparison. We formalize the difference between Micro (pooled, discrepancy-weighted) and Macro (document-level, unweighted) aggregation and show that their gap diagnoses fit heterogeneity aligned with the baseline discrepancy, often but not only with document length. A dual word-level perspective highlights vocabulary regions that are systematically mispredicted. Finally, we develop held-out moment-based specification tests that project residuals onto vocabulary-level instruments and detect structured residual bias beyond overall fit summaries. Together, these tools provide an interpretable framework for assessing, comparing, and diagnosing topic models through regression-style effect sizes and residual checks."
-  },
-  {
-    "objectID": "publications/wp-topic-gof.html#abstract",
-    "href": "publications/wp-topic-gof.html#abstract",
-    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
-    "section": "",
-    "text": "Unsupervised topic models are widely used for discovering thematic structure in text corpora, yet their evaluation still lacks continuous effect-size measures and residual diagnostics comparable to those routinely used in regression analysis. We develop a family of goodness-of-fit indices, \\(R^2_D(K)\\), that quantify the proportional reduction in discrepancy achieved by a \\(K\\)-topic model relative to a no-topics baseline in which all documents share a single global word distribution. We consider deviance, Pearson \\(\\chi^2\\), and squared-error discrepancies, each evaluated on a harmonized support and anchored by a global-baseline null and a saturated benchmark. We distinguish full-corpus indices, which summarize in-sample fit descriptively, from held-out indices, which support inference and topic-number comparison. We formalize the difference between Micro (pooled, discrepancy-weighted) and Macro (document-level, unweighted) aggregation and show that their gap diagnoses fit heterogeneity aligned with the baseline discrepancy, often but not only with document length. A dual word-level perspective highlights vocabulary regions that are systematically mispredicted. Finally, we develop held-out moment-based specification tests that project residuals onto vocabulary-level instruments and detect structured residual bias beyond overall fit summaries. Together, these tools provide an interpretable framework for assessing, comparing, and diagnosing topic models through regression-style effect sizes and residual checks."
-  },
-  {
-    "objectID": "publications/wp-topic-gof.html#citation",
-    "href": "publications/wp-topic-gof.html#citation",
-    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
-    "section": "Citation",
-    "text": "Citation\nLewis, C. M. & Grossetti, F (2026). Goodness-of-Fit Indices and Diagnostics for Topic Models. Working paper."
-  },
-  {
-    "objectID": "publications/wp-topic-gof.html#bibtex",
-    "href": "publications/wp-topic-gof.html#bibtex",
-    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{grossetti2025gof,\n  title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},\n  author = {Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper},\n  year   = {2025}\n}"
+    "objectID": "index.html#featured-code",
+    "href": "index.html#featured-code",
+    "title": "Dr. Francesco Grossetti",
+    "section": "Featured Code",
+    "text": "Featured Code\n\n\n\n\n\n\n\nNLPstudio\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\n\n\n\n\nOpTop\n\n\nParametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti…\n\n\n\n\n\nNo matching items\n\nSee all projects →"
   },
   {
     "objectID": "publications/wip-ma-bankers.html",
@@ -161,118 +56,6 @@
     "text": "BibTeX\n@unpublished{ellahie_ma_bankers,\n  title  = {M\\&A Bankers' Human Capital: The Role of Expertise, Connections, and Background in Dealmaking},\n  author = {Ellahie, Atif and Grossetti, Francesco and Vincenzi, Riccardo},\n  note   = {Work in progress},\n  year   = {2025}\n}"
   },
   {
-    "objectID": "publications/wp-human-touch-llm.html",
-    "href": "publications/wp-human-touch-llm.html",
-    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
-    "section": "",
-    "text": "We study whether general-purpose large language models (LLMs) match domain-calibrated machine learning methods in extracting economically relevant information from financial narra- tives. Using more than 175,000 earnings conference call transcripts, we compare Naïve Bayes classifiers trained on human-annotated sentences with otherwise identical classifiers trained on ChatGPT-generated pseudo-labels. Although GPT-trained models exhibit high internal accu- racy relative to their own labels, they show low concordance with human annotations and ex- plain substantially less cross-sectional variation in investor reactions. Human-trained measures are consistently more informative: a one-standard-deviation increase in human-calibrated tone is associated with approximately a 30 basis-point increase in abnormal returns, compared with single-digit effects for GPT-based measures. Encompassing tests indicate that human-calibrated attributes often contain information not captured by GPT-based counterparts, while the reverse is rare. These findings highlight the role of domain calibration and interpretive alignment in mapping financial language into market outcomes, and suggest that model scale alone does not guarantee economically meaningful text-based signals."
-  },
-  {
-    "objectID": "publications/wp-human-touch-llm.html#abstract",
-    "href": "publications/wp-human-touch-llm.html#abstract",
-    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
-    "section": "",
-    "text": "We study whether general-purpose large language models (LLMs) match domain-calibrated machine learning methods in extracting economically relevant information from financial narra- tives. Using more than 175,000 earnings conference call transcripts, we compare Naïve Bayes classifiers trained on human-annotated sentences with otherwise identical classifiers trained on ChatGPT-generated pseudo-labels. Although GPT-trained models exhibit high internal accu- racy relative to their own labels, they show low concordance with human annotations and ex- plain substantially less cross-sectional variation in investor reactions. Human-trained measures are consistently more informative: a one-standard-deviation increase in human-calibrated tone is associated with approximately a 30 basis-point increase in abnormal returns, compared with single-digit effects for GPT-based measures. Encompassing tests indicate that human-calibrated attributes often contain information not captured by GPT-based counterparts, while the reverse is rare. These findings highlight the role of domain calibration and interpretive alignment in mapping financial language into market outcomes, and suggest that model scale alone does not guarantee economically meaningful text-based signals."
-  },
-  {
-    "objectID": "publications/wp-human-touch-llm.html#citation",
-    "href": "publications/wp-human-touch-llm.html#citation",
-    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
-    "section": "Citation",
-    "text": "Citation\nGietzmann, M., Grossetti, F. & Lewis, C. M. (2025). It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains. Working paper."
-  },
-  {
-    "objectID": "publications/wp-human-touch-llm.html#bibtex",
-    "href": "publications/wp-human-touch-llm.html#bibtex",
-    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{gietzmann2025human,\n  title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},\n  author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
-  },
-  {
-    "objectID": "publications/book-value-relevance-2025.html",
-    "href": "publications/book-value-relevance-2025.html",
-    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
-    "section": "",
-    "text": "This book explores the evolution of value relevance in finance and accounting. While synthesizing existing literature to provide a robust theoretical framework, it also extends the discourse by incorporating textual characteristics into the traditional model of value relevance. The authors integrate two pivotal but often disparate research domains: value relevance and linguistic analysis in accounting disclosures. This inclusion enriches our understanding of how qualitative factors, such as tone and readability in corporate disclosures, interact with quantitative measures to influence market behavior and investor decision-making. The result is a nuanced, multi-dimensional analysis that not only bridges gaps in current academic research but also offers new avenues for practical application.\nThe book starts by laying the groundwork for the concept of value relevance, discussing its evolution in the academic literature, theoretical models, their assumptions, and limitations. It then turns the spotlight onto corporate disclosure theories, thereby illuminating the strategies and psychological factors that influence how companies report their financials and accompanying narrative discussions. The authors demonstrate how the information is strategically disclosed and received, adding another layer of complexity to the concept of value relevance. The novel contribution of this manuscript comes from the methodological approach, incorporating textual analysis techniques into a widely-accepted Ohlson value relevance model. The authors empirically integrate textual elements like tone and readability and demonstrate how they can play a significant role in how investors perceive a company. The empirical section of the book provides robust evidence to support the central thesis—that qualitative elements in financial disclosures are not merely supplementary but are indeed value-relevant. This enhances the book’s applicability across both academic and practical settings. In conclusion, this book serves as a comprehensive guide for those interested in the complexities of value relevance as well as the dynamics of financial disclosures. It offers valuable insights that are both theoretically robust and empirically validated, making it a useful resource for academics, practitioners, and regulators. It enriches the academic discourse by offering new pathways for research and practical application in a world where financial information is increasingly digitized.\nThe target audience for this book includes academics in the fields of accounting and finance, as well as practitioners and regulators who are keen on understanding the evolving dynamics of how financial information impacts the capital markets."
-  },
-  {
-    "objectID": "publications/book-value-relevance-2025.html#about-this-book",
-    "href": "publications/book-value-relevance-2025.html#about-this-book",
-    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
-    "section": "",
-    "text": "This book explores the evolution of value relevance in finance and accounting. While synthesizing existing literature to provide a robust theoretical framework, it also extends the discourse by incorporating textual characteristics into the traditional model of value relevance. The authors integrate two pivotal but often disparate research domains: value relevance and linguistic analysis in accounting disclosures. This inclusion enriches our understanding of how qualitative factors, such as tone and readability in corporate disclosures, interact with quantitative measures to influence market behavior and investor decision-making. The result is a nuanced, multi-dimensional analysis that not only bridges gaps in current academic research but also offers new avenues for practical application.\nThe book starts by laying the groundwork for the concept of value relevance, discussing its evolution in the academic literature, theoretical models, their assumptions, and limitations. It then turns the spotlight onto corporate disclosure theories, thereby illuminating the strategies and psychological factors that influence how companies report their financials and accompanying narrative discussions. The authors demonstrate how the information is strategically disclosed and received, adding another layer of complexity to the concept of value relevance. The novel contribution of this manuscript comes from the methodological approach, incorporating textual analysis techniques into a widely-accepted Ohlson value relevance model. The authors empirically integrate textual elements like tone and readability and demonstrate how they can play a significant role in how investors perceive a company. The empirical section of the book provides robust evidence to support the central thesis—that qualitative elements in financial disclosures are not merely supplementary but are indeed value-relevant. This enhances the book’s applicability across both academic and practical settings. In conclusion, this book serves as a comprehensive guide for those interested in the complexities of value relevance as well as the dynamics of financial disclosures. It offers valuable insights that are both theoretically robust and empirically validated, making it a useful resource for academics, practitioners, and regulators. It enriches the academic discourse by offering new pathways for research and practical application in a world where financial information is increasingly digitized.\nThe target audience for this book includes academics in the fields of accounting and finance, as well as practitioners and regulators who are keen on understanding the evolving dynamics of how financial information impacts the capital markets."
-  },
-  {
-    "objectID": "publications/book-value-relevance-2025.html#citation",
-    "href": "publications/book-value-relevance-2025.html#citation",
-    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
-    "section": "Citation",
-    "text": "Citation\nBogachek, O. & Grossetti, F. (2025). Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms. Springer – SIDREA Series in Accounting and Business Administration."
-  },
-  {
-    "objectID": "publications/book-value-relevance-2025.html#bibtex",
-    "href": "publications/book-value-relevance-2025.html#bibtex",
-    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
-    "section": "BibTeX",
-    "text": "BibTeX\n@book{bogachek2025value,\n  title     = {Value Relevance of Textual Characteristics -- Evidence from Annual Reports of U.S. Listed Firms},\n  author    = {Bogachek, Olga and Grossetti, Francesco},\n  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},\n  year      = {2025}\n}"
-  },
-  {
-    "objectID": "publications/book-tax-avoidance-2024.html",
-    "href": "publications/book-tax-avoidance-2024.html",
-    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
-    "section": "",
-    "text": "This book explores the intricate realm of tax avoidance, synthesizing existing empirical literature in the field. The work starts by exploring the theoretical underpinnings of tax avoidance, dissecting its unique features compared to tax evasion. It delves into measurement methodologies and dissects the determinants contributing to its prevalence. Moreover, it analyzes the economic consequences of tax avoidance, emphasizing its impact on critical accounting issues, including financial reporting transparency, cost of capital, and firm value. Next, the book offers a foundational understanding of graph theory, unveiling the core elements of networks, such as nodes and edges. The book covers the theoretical fundamentals and addresses the practical side of constructing networks based on real-world relational systems. It emphasizes the importance of effective data collection and representation methods and underscores the importance of optimizing network layouts for enhanced visual representation. Using network analysis, the book further offers a deep dive into empirical studies on tax avoidance over the past two decades, revealing insights into the collaborative nature of this stream of research. Finally, the book summarizes the key insights of the network analysis on tax avoidance. It underscores the dynamic nature of individual authors’ roles and affiliations, shedding light on the collaborative dynamics within institutions."
-  },
-  {
-    "objectID": "publications/book-tax-avoidance-2024.html#about-this-book",
-    "href": "publications/book-tax-avoidance-2024.html#about-this-book",
-    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
-    "section": "",
-    "text": "This book explores the intricate realm of tax avoidance, synthesizing existing empirical literature in the field. The work starts by exploring the theoretical underpinnings of tax avoidance, dissecting its unique features compared to tax evasion. It delves into measurement methodologies and dissects the determinants contributing to its prevalence. Moreover, it analyzes the economic consequences of tax avoidance, emphasizing its impact on critical accounting issues, including financial reporting transparency, cost of capital, and firm value. Next, the book offers a foundational understanding of graph theory, unveiling the core elements of networks, such as nodes and edges. The book covers the theoretical fundamentals and addresses the practical side of constructing networks based on real-world relational systems. It emphasizes the importance of effective data collection and representation methods and underscores the importance of optimizing network layouts for enhanced visual representation. Using network analysis, the book further offers a deep dive into empirical studies on tax avoidance over the past two decades, revealing insights into the collaborative nature of this stream of research. Finally, the book summarizes the key insights of the network analysis on tax avoidance. It underscores the dynamic nature of individual authors’ roles and affiliations, shedding light on the collaborative dynamics within institutions."
-  },
-  {
-    "objectID": "publications/book-tax-avoidance-2024.html#citation",
-    "href": "publications/book-tax-avoidance-2024.html#citation",
-    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
-    "section": "Citation",
-    "text": "Citation\nDe Vito, A. & Grossetti, F. (2024). Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration. Springer – SIDREA Series in Accounting and Business Administration."
-  },
-  {
-    "objectID": "publications/book-tax-avoidance-2024.html#bibtex",
-    "href": "publications/book-tax-avoidance-2024.html#bibtex",
-    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
-    "section": "BibTeX",
-    "text": "BibTeX\n@book{devito2024tax,\n  title     = {Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration},\n  author    = {De Vito, Antonio and Grossetti, Francesco},\n  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},\n  year      = {2024}\n}"
-  },
-  {
-    "objectID": "publications/2022-topic-model-identification.html",
-    "href": "publications/2022-topic-model-identification.html",
-    "title": "A Statistical Approach for Optimal Topic Model Identification",
-    "section": "",
-    "text": "PDF | JMLR | Code"
-  },
-  {
-    "objectID": "publications/2022-topic-model-identification.html#abstract",
-    "href": "publications/2022-topic-model-identification.html#abstract",
-    "title": "A Statistical Approach for Optimal Topic Model Identification",
-    "section": "Abstract",
-    "text": "Abstract\nLatent Dirichlet Allocation is a popular machine-learning technique that identifies latent structures in a corpus of documents. This paper addresses the ongoing concern that formal procedures for determining the optimal LDA configuration do not exist by introducing a set of parametric tests that rely on the assumed multinomial distribution specification underlying the original LDA model. Our methodology defines a set of rigorous statistical procedures that identify and evaluate the optimal topic model. The U.S. Presidential Inaugural Address Corpus is used as a case study to show the numerical results. We find that 92 topics best describe the corpus. We further validate the method through a simulation study confirming the superiority of our approach compared to other standard heuristic metrics like the perplexity index."
-  },
-  {
-    "objectID": "publications/2022-topic-model-identification.html#citation",
-    "href": "publications/2022-topic-model-identification.html#citation",
-    "title": "A Statistical Approach for Optimal Topic Model Identification",
-    "section": "Citation",
-    "text": "Citation\nLewis, C. M. & Grossetti, F. (2022). A Statistical Approach for Optimal Topic Model Identification. Journal of Machine Learning Research, 23(58), 1–20."
-  },
-  {
-    "objectID": "publications/2022-topic-model-identification.html#bibtex",
-    "href": "publications/2022-topic-model-identification.html#bibtex",
-    "title": "A Statistical Approach for Optimal Topic Model Identification",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{lewis2022topic,\n  title   = {A Statistical Approach for Optimal Topic Model Identification},\n  author  = {Lewis, Craig M. and Grossetti, Francesco},\n  journal = {Journal of Machine Learning Research},\n  volume  = {23},\n  number  = {58},\n  pages   = {1--20},\n  year    = {2022}\n}"
-  },
-  {
     "objectID": "publications/2013-halpha3-ii.html",
     "href": "publications/2013-halpha3-ii.html",
     "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings",
@@ -301,200 +84,32 @@
     "text": "BibTeX\n@article{gavazzi2013halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Fossati, Matteo and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P.},\n  journal = {Astronomy \\& Astrophysics},\n  volume  = {553},\n  pages   = {A89},\n  year    = {2013}\n}"
   },
   {
-    "objectID": "publications/2026-investor-distraction.html",
-    "href": "publications/2026-investor-distraction.html",
-    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "objectID": "publications/book-value-relevance-2025.html",
+    "href": "publications/book-value-relevance-2025.html",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
     "section": "",
-    "text": "PDF | Code"
+    "text": "This book explores the evolution of value relevance in finance and accounting. While synthesizing existing literature to provide a robust theoretical framework, it also extends the discourse by incorporating textual characteristics into the traditional model of value relevance. The authors integrate two pivotal but often disparate research domains: value relevance and linguistic analysis in accounting disclosures. This inclusion enriches our understanding of how qualitative factors, such as tone and readability in corporate disclosures, interact with quantitative measures to influence market behavior and investor decision-making. The result is a nuanced, multi-dimensional analysis that not only bridges gaps in current academic research but also offers new avenues for practical application.\nThe book starts by laying the groundwork for the concept of value relevance, discussing its evolution in the academic literature, theoretical models, their assumptions, and limitations. It then turns the spotlight onto corporate disclosure theories, thereby illuminating the strategies and psychological factors that influence how companies report their financials and accompanying narrative discussions. The authors demonstrate how the information is strategically disclosed and received, adding another layer of complexity to the concept of value relevance. The novel contribution of this manuscript comes from the methodological approach, incorporating textual analysis techniques into a widely-accepted Ohlson value relevance model. The authors empirically integrate textual elements like tone and readability and demonstrate how they can play a significant role in how investors perceive a company. The empirical section of the book provides robust evidence to support the central thesis—that qualitative elements in financial disclosures are not merely supplementary but are indeed value-relevant. This enhances the book’s applicability across both academic and practical settings. In conclusion, this book serves as a comprehensive guide for those interested in the complexities of value relevance as well as the dynamics of financial disclosures. It offers valuable insights that are both theoretically robust and empirically validated, making it a useful resource for academics, practitioners, and regulators. It enriches the academic discourse by offering new pathways for research and practical application in a world where financial information is increasingly digitized.\nThe target audience for this book includes academics in the fields of accounting and finance, as well as practitioners and regulators who are keen on understanding the evolving dynamics of how financial information impacts the capital markets."
   },
   {
-    "objectID": "publications/2026-investor-distraction.html#abstract",
-    "href": "publications/2026-investor-distraction.html#abstract",
-    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
-    "section": "Abstract",
-    "text": "Abstract\nThis paper investigates how institutional investor distraction affects the assimilation of narrative content in the MD&A section of the 10-K filing. We introduce the Aggregate Attribute Index (\\(AAI\\)) and an alternative formulation (\\(AltAAI\\)), which capture linguistic features beyond tone to provide a broader measure of corporate narrative richness. Using machine learning and natural language processing, we analyze U.S. firms that follow a staggered reporting strategy, releasing quantitative results before full narrative disclosures. This design isolates the incremental effects of complex language when other portfolio events distract investors. We find that narrative complexity does not trigger short-term return responses but significantly affects stock prices over longer horizons. Complexity moderates how and when attention-constrained investors adjust prices. These effects are not captured by dictionary-based tone or readability metrics, underscoring the distinct role of multi-dimensional attributes in shaping delayed market reactions and price discovery."
+    "objectID": "publications/book-value-relevance-2025.html#about-this-book",
+    "href": "publications/book-value-relevance-2025.html#about-this-book",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
+    "section": "",
+    "text": "This book explores the evolution of value relevance in finance and accounting. While synthesizing existing literature to provide a robust theoretical framework, it also extends the discourse by incorporating textual characteristics into the traditional model of value relevance. The authors integrate two pivotal but often disparate research domains: value relevance and linguistic analysis in accounting disclosures. This inclusion enriches our understanding of how qualitative factors, such as tone and readability in corporate disclosures, interact with quantitative measures to influence market behavior and investor decision-making. The result is a nuanced, multi-dimensional analysis that not only bridges gaps in current academic research but also offers new avenues for practical application.\nThe book starts by laying the groundwork for the concept of value relevance, discussing its evolution in the academic literature, theoretical models, their assumptions, and limitations. It then turns the spotlight onto corporate disclosure theories, thereby illuminating the strategies and psychological factors that influence how companies report their financials and accompanying narrative discussions. The authors demonstrate how the information is strategically disclosed and received, adding another layer of complexity to the concept of value relevance. The novel contribution of this manuscript comes from the methodological approach, incorporating textual analysis techniques into a widely-accepted Ohlson value relevance model. The authors empirically integrate textual elements like tone and readability and demonstrate how they can play a significant role in how investors perceive a company. The empirical section of the book provides robust evidence to support the central thesis—that qualitative elements in financial disclosures are not merely supplementary but are indeed value-relevant. This enhances the book’s applicability across both academic and practical settings. In conclusion, this book serves as a comprehensive guide for those interested in the complexities of value relevance as well as the dynamics of financial disclosures. It offers valuable insights that are both theoretically robust and empirically validated, making it a useful resource for academics, practitioners, and regulators. It enriches the academic discourse by offering new pathways for research and practical application in a world where financial information is increasingly digitized.\nThe target audience for this book includes academics in the fields of accounting and finance, as well as practitioners and regulators who are keen on understanding the evolving dynamics of how financial information impacts the capital markets."
   },
   {
-    "objectID": "publications/2026-investor-distraction.html#citation",
-    "href": "publications/2026-investor-distraction.html#citation",
-    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "objectID": "publications/book-value-relevance-2025.html#citation",
+    "href": "publications/book-value-relevance-2025.html#citation",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
     "section": "Citation",
-    "text": "Citation\nGietzmann, M., Grossetti, F. & Lewis, C. M. (2026). Investor Distraction and Multi-Dimensional Financial Narrative. Review of Accounting Studies, 31, 334–373."
+    "text": "Citation\nBogachek, O. & Grossetti, F. (2025). Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms. Springer – SIDREA Series in Accounting and Business Administration."
   },
   {
-    "objectID": "publications/2026-investor-distraction.html#bibtex",
-    "href": "publications/2026-investor-distraction.html#bibtex",
-    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "objectID": "publications/book-value-relevance-2025.html#bibtex",
+    "href": "publications/book-value-relevance-2025.html#bibtex",
+    "title": "Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms",
     "section": "BibTeX",
-    "text": "BibTeX\n@article{gietzmann2026investor,\n  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},\n  author  = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {334--373},\n  year    = {2026}\n}"
-  },
-  {
-    "objectID": "publications/2021-blockchain-accounting.html",
-    "href": "publications/2021-blockchain-accounting.html",
-    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
-    "section": "",
-    "text": "DOI"
-  },
-  {
-    "objectID": "publications/2021-blockchain-accounting.html#abstract",
-    "href": "publications/2021-blockchain-accounting.html#abstract",
-    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a recent survey of academic research, Fintech-related topics — broadly classified as crypto-currency studies — were by far the most researched topics in the social sciences. However, we have observed that, perhaps surprisingly, even though crypto-currencies rely on a distributed accounting ledger technology, relatively few of those studies were conducted by accounting academics. While some of the features of a system like Bitcoin do not necessarily rely on a traditional accounting knowledge, this knowledge is key in designing effective real-world distributed systems. The article discusses how an accounting perspective is essential for understanding the implications of blockchain and other distributed ledger technologies, including smart contracting, auditability, and the architectural choices required to build accounting-grade distributed systems."
-  },
-  {
-    "objectID": "publications/2021-blockchain-accounting.html#citation",
-    "href": "publications/2021-blockchain-accounting.html#citation",
-    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
-    "section": "Citation",
-    "text": "Citation\nGietzmann, M. & Grossetti, F. (2021). Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting? Journal of Accounting and Public Policy, 40(5), 106881."
-  },
-  {
-    "objectID": "publications/2021-blockchain-accounting.html#bibtex",
-    "href": "publications/2021-blockchain-accounting.html#bibtex",
-    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{gietzmann2021blockchain,\n  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},\n  author  = {Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Accounting and Public Policy},\n  volume  = {40},\n  number  = {5},\n  pages   = {106881},\n  year    = {2021},\n  doi     = {10.1016/j.jaccpubpol.2021.106881}\n}"
-  },
-  {
-    "objectID": "publications/2018-multistate-readmissions.html",
-    "href": "publications/2018-multistate-readmissions.html",
-    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
-    "section": "",
-    "text": "DOI | PubMed | Code"
-  },
-  {
-    "objectID": "publications/2018-multistate-readmissions.html#abstract",
-    "href": "publications/2018-multistate-readmissions.html#abstract",
-    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
-    "section": "Abstract",
-    "text": "Abstract\nHealthcare administrative databases are becoming more and more important and reliable sources of clinical and epidemiological information, and are able to track several interactions between a patient and the public healthcare system. This study uses data extracted from the administrative data warehouse of Regione Lombardia, a region in northern Italy, with the aim of providing a description of the epidemiology of Heart Failure patients at the regional level, profiling health service utilization over time, and investigating variations in patient care according to geographic area and socio-demographic characteristics. We apply multi-state models to estimate transition probabilities between admission, discharge, and death states while adjusting for state-dependent covariates. The analysis examines the effects of pharmacological and outpatient care covariates on patients’ readmissions and death, representing an early Italian investigation into factors influencing hospitalization and mortality outcomes in heart failure patients."
-  },
-  {
-    "objectID": "publications/2018-multistate-readmissions.html#citation",
-    "href": "publications/2018-multistate-readmissions.html#citation",
-    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
-    "section": "Citation",
-    "text": "Citation\nGrossetti, F., Ieva, F. & Paganoni, A. M. (2018). A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data. Health Care Management Science, 21, 281–291."
-  },
-  {
-    "objectID": "publications/2018-multistate-readmissions.html#bibtex",
-    "href": "publications/2018-multistate-readmissions.html#bibtex",
-    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  volume  = {21},\n  number  = {2},\n  pages   = {281--291},\n  year    = {2018},\n  doi     = {10.1007/s10729-017-9400-z}\n}"
-  },
-  {
-    "objectID": "publications/2024-risk-guidance-codes.html",
-    "href": "publications/2024-risk-guidance-codes.html",
-    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
-    "section": "",
-    "text": "DOI | Publisher"
-  },
-  {
-    "objectID": "publications/2024-risk-guidance-codes.html#abstract",
-    "href": "publications/2024-risk-guidance-codes.html#abstract",
-    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
-    "section": "Abstract",
-    "text": "Abstract\nMultinational firms often face challenges doing business in countries where corruption is common practice in the business environment. This study examines anticorruption guidance provided in the corporate Codes of Conduct (CoC). We evaluate if this guidance is consistent with the firm-specific idiosyncratic exposure to corruption, or if corporate ‘tone from the top’ (TTT) uses only broad brush general language ‘impression management’ in an attempt to appear compliant. We also explore the interaction between anti-corruption guidance and audit oversight. Using quantitative textual analysis on a sample of Standard & Poor’s (S&P) 500 firms’ CoC, we develop a measure of anti-corruption language based on the most prevalent topics covered in these documents. We find the positive association between the anti-corruption topics and the firm-adjusted level of corruption risk. That is, the language used varies depending upon idiosyncratic firm risk, suggesting CoC is not simply used for impression management. We also identify a non-linear relationship in which audit oversight is observed as increasingly important in the most severe corrupt settings. Our results could be useful to practitioners and policymakers who may care about the information content of CoC when evaluating a firm’s risk management practices. We also show that when the corruption risk is sufficiently high, the anti-corruption TTT needs to be supplemented by other control activities such as audit oversight."
-  },
-  {
-    "objectID": "publications/2024-risk-guidance-codes.html#citation",
-    "href": "publications/2024-risk-guidance-codes.html#citation",
-    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
-    "section": "Citation",
-    "text": "Citation\nBogachek, O., Gietzmann, M. & Grossetti, F. (2024). Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct. Journal of Risk Research, 27(7), 735–769."
-  },
-  {
-    "objectID": "publications/2024-risk-guidance-codes.html#bibtex",
-    "href": "publications/2024-risk-guidance-codes.html#bibtex",
-    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{bogachek2024risk,\n  title   = {Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct},\n  author  = {Bogachek, Olga and Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Risk Research},\n  volume  = {27},\n  number  = {7},\n  pages   = {735--769},\n  year    = {2024},\n  doi     = {10.1080/13669877.2023.2181857}\n}"
-  },
-  {
-    "objectID": "publications/2026-narrative-tax-outcomes.html",
-    "href": "publications/2026-narrative-tax-outcomes.html",
-    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
-    "section": "",
-    "text": "PDF | DOI"
-  },
-  {
-    "objectID": "publications/2026-narrative-tax-outcomes.html#abstract",
-    "href": "publications/2026-narrative-tax-outcomes.html#abstract",
-    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
-    "section": "Abstract",
-    "text": "Abstract\nWe examine whether narrative discussion in financial disclosures can help corporate stakeholders better predict tax outcomes. To measure qualitative discussion, we use topic modeling analysis to create measures of the thematic content of 10-K disclosures. We find that qualitative discussion in financial disclosures can substantially improve prediction of tax outcomes in in- and out-of-sample tests. We also find that prediction-relevant discussion is distributed throughout the 10-K, supporting that disclosures should be analyzed holistically rather than examining only limited pieces of larger disclosures. Further, we find that analysts often do not use this information effectively, resulting in predictable and economically meaningful forecast errors. These findings illustrate the wealth of qualitative information in 10-K disclosures for stakeholders concerned about tax outcomes and offer a practical approach to examining qualitative disclosures and using them to predict tax outcomes."
-  },
-  {
-    "objectID": "publications/2026-narrative-tax-outcomes.html#citation",
-    "href": "publications/2026-narrative-tax-outcomes.html#citation",
-    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
-    "section": "Citation",
-    "text": "Citation\nBogachek, O., De Vito, A., Demeré, P. & Grossetti, F. (2026). Using Narrative Disclosures to Predict Tax Outcomes. Review of Accounting Studies, 31, 374–412."
-  },
-  {
-    "objectID": "publications/2026-narrative-tax-outcomes.html#bibtex",
-    "href": "publications/2026-narrative-tax-outcomes.html#bibtex",
-    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
-    "section": "BibTeX",
-    "text": "BibTeX\n@article{bogachek2026narrative,\n  title   = {Using Narrative Disclosures to Predict Tax Outcomes},\n  author  = {Bogachek, Olga and De Vito, Antonio and Demer{\\'e}, Paul and Grossetti, Francesco},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {374--412},\n  year    = {2026},\n  doi     = {10.1007/s11142-025-09914-3}\n}"
-  },
-  {
-    "objectID": "publications/wp-loan-contract-disclosures.html",
-    "href": "publications/wp-loan-contract-disclosures.html",
-    "title": "The Information Content of Loan Contract Disclosures",
-    "section": "",
-    "text": "We examine whether publicly disclosed loan contracts contain information that can be used by corporate stakeholders to predict borrower outcomes. Loan contracts are the result of negotiations between informed parties after extensive due diligence, but strategic disclosure incentives and reliance on boilerplate language may limit their usefulness to stakeholders. Using natural language processing techniques applied to a large sample of SEC-filed loan contracts, we find that contract terms and language, particularly contract discussion topics, contain incremental predictive information about future borrower performance, investment, bankruptcy risk, and stock return volatility. However, we also find evidence that loan con- tract topics are associated with future stock returns and analyst forecast errors, suggesting that many corporate stakeholders struggle to effectively process and use this information in a timely manner. Our results indicate that loan contracts contain substantial information content of value to many corporate stakeholders and highlight the richness of the text in loan contracts."
-  },
-  {
-    "objectID": "publications/wp-loan-contract-disclosures.html#abstract",
-    "href": "publications/wp-loan-contract-disclosures.html#abstract",
-    "title": "The Information Content of Loan Contract Disclosures",
-    "section": "",
-    "text": "We examine whether publicly disclosed loan contracts contain information that can be used by corporate stakeholders to predict borrower outcomes. Loan contracts are the result of negotiations between informed parties after extensive due diligence, but strategic disclosure incentives and reliance on boilerplate language may limit their usefulness to stakeholders. Using natural language processing techniques applied to a large sample of SEC-filed loan contracts, we find that contract terms and language, particularly contract discussion topics, contain incremental predictive information about future borrower performance, investment, bankruptcy risk, and stock return volatility. However, we also find evidence that loan con- tract topics are associated with future stock returns and analyst forecast errors, suggesting that many corporate stakeholders struggle to effectively process and use this information in a timely manner. Our results indicate that loan contracts contain substantial information content of value to many corporate stakeholders and highlight the richness of the text in loan contracts."
-  },
-  {
-    "objectID": "publications/wp-loan-contract-disclosures.html#citation",
-    "href": "publications/wp-loan-contract-disclosures.html#citation",
-    "title": "The Information Content of Loan Contract Disclosures",
-    "section": "Citation",
-    "text": "Citation\nBrancaccio, I., Demeré, P., & Grossetti, F. (work in progress). The Information Content of Loan Contract Disclosures."
-  },
-  {
-    "objectID": "publications/wp-loan-contract-disclosures.html#bibtex",
-    "href": "publications/wp-loan-contract-disclosures.html#bibtex",
-    "title": "The Information Content of Loan Contract Disclosures",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{brancaccio_loan_contract,\n  title  = {The Information Content of Loan Contract Disclosures},\n  author = {Brancaccio, Isabella and Demer{\\'e}, Paul and Grossetti, Francesco},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
-  },
-  {
-    "objectID": "publications/wip-disclosure-cascade.html",
-    "href": "publications/wip-disclosure-cascade.html",
-    "title": "Disclosure Cascade: A Hawkes Process Approach",
-    "section": "",
-    "text": "Abstract forthcoming."
-  },
-  {
-    "objectID": "publications/wip-disclosure-cascade.html#abstract",
-    "href": "publications/wip-disclosure-cascade.html#abstract",
-    "title": "Disclosure Cascade: A Hawkes Process Approach",
-    "section": "",
-    "text": "Abstract forthcoming."
-  },
-  {
-    "objectID": "publications/wip-disclosure-cascade.html#citation",
-    "href": "publications/wip-disclosure-cascade.html#citation",
-    "title": "Disclosure Cascade: A Hawkes Process Approach",
-    "section": "Citation",
-    "text": "Citation\nGietzmann, M. & Grossetti, F. (work in progress). Disclosure Cascade: A Hawkes Process Approach."
-  },
-  {
-    "objectID": "publications/wip-disclosure-cascade.html#bibtex",
-    "href": "publications/wip-disclosure-cascade.html#bibtex",
-    "title": "Disclosure Cascade: A Hawkes Process Approach",
-    "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{gietzmann_disclosure_cascade,\n  title  = {Disclosure Cascade: A {Hawkes} Process Approach},\n  author = {Gietzmann, Miles and Grossetti, Francesco},\n  note   = {Work in progress},\n  year   = {2025}\n}"
+    "text": "BibTeX\n@book{bogachek2025value,\n  title     = {Value Relevance of Textual Characteristics -- Evidence from Annual Reports of U.S. Listed Firms},\n  author    = {Bogachek, Olga and Grossetti, Francesco},\n  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},\n  year      = {2025}\n}"
   },
   {
     "objectID": "publications/2019-cardiac-rehab.html",
@@ -553,32 +168,165 @@
     "text": "BibTeX\n@unpublished{bulliniorlandi_ties,\n  title  = {Ties That Blind: Social Networks, Pressure, and {CEO} Wrongdoing},\n  author = {Bullini Orlandi, Ludovica and De Vito, Antonio and Demer{\\'e}, Paul and Grossetti, Francesco},\n  note   = {Work in progress},\n  year   = {2025}\n}"
   },
   {
-    "objectID": "publications/book-python-2019.html",
-    "href": "publications/book-python-2019.html",
-    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "objectID": "publications/2024-risk-guidance-codes.html",
+    "href": "publications/2024-risk-guidance-codes.html",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "",
-    "text": "A hands-on introduction to Python for readers without a programming background, written for students of accounting, finance, and management who need to become productive with code."
+    "text": "DOI | Publisher"
   },
   {
-    "objectID": "publications/book-python-2019.html#abstract",
-    "href": "publications/book-python-2019.html#abstract",
-    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
-    "section": "",
-    "text": "A hands-on introduction to Python for readers without a programming background, written for students of accounting, finance, and management who need to become productive with code."
+    "objectID": "publications/2024-risk-guidance-codes.html#abstract",
+    "href": "publications/2024-risk-guidance-codes.html#abstract",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
+    "section": "Abstract",
+    "text": "Abstract\nMultinational firms often face challenges doing business in countries where corruption is common practice in the business environment. This study examines anticorruption guidance provided in the corporate Codes of Conduct (CoC). We evaluate if this guidance is consistent with the firm-specific idiosyncratic exposure to corruption, or if corporate ‘tone from the top’ (TTT) uses only broad brush general language ‘impression management’ in an attempt to appear compliant. We also explore the interaction between anti-corruption guidance and audit oversight. Using quantitative textual analysis on a sample of Standard & Poor’s (S&P) 500 firms’ CoC, we develop a measure of anti-corruption language based on the most prevalent topics covered in these documents. We find the positive association between the anti-corruption topics and the firm-adjusted level of corruption risk. That is, the language used varies depending upon idiosyncratic firm risk, suggesting CoC is not simply used for impression management. We also identify a non-linear relationship in which audit oversight is observed as increasingly important in the most severe corrupt settings. Our results could be useful to practitioners and policymakers who may care about the information content of CoC when evaluating a firm’s risk management practices. We also show that when the corruption risk is sufficiently high, the anti-corruption TTT needs to be supplemented by other control activities such as audit oversight."
   },
   {
-    "objectID": "publications/book-python-2019.html#citation",
-    "href": "publications/book-python-2019.html#citation",
-    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "objectID": "publications/2024-risk-guidance-codes.html#citation",
+    "href": "publications/2024-risk-guidance-codes.html#citation",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "Citation",
-    "text": "Citation\nGrossetti, F. & Rubera, G. (2019). Python for Non-Pythonians: How to Win Over Programming Languages. Bocconi University Press – Egea."
+    "text": "Citation\nBogachek, O., Gietzmann, M. & Grossetti, F. (2024). Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct. Journal of Risk Research, 27(7), 735–769."
   },
   {
-    "objectID": "publications/book-python-2019.html#bibtex",
-    "href": "publications/book-python-2019.html#bibtex",
-    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "objectID": "publications/2024-risk-guidance-codes.html#bibtex",
+    "href": "publications/2024-risk-guidance-codes.html#bibtex",
+    "title": "Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct",
     "section": "BibTeX",
-    "text": "BibTeX\n@book{grossetti2019python,\n  title     = {Python for Non-Pythonians: How to Win Over Programming Languages},\n  author    = {Grossetti, Francesco and Rubera, Gaia},\n  publisher = {Bocconi University Press -- Egea},\n  year      = {2019}\n}"
+    "text": "BibTeX\n@article{bogachek2024risk,\n  title   = {Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct},\n  author  = {Bogachek, Olga and Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Risk Research},\n  volume  = {27},\n  number  = {7},\n  pages   = {735--769},\n  year    = {2024},\n  doi     = {10.1080/13669877.2023.2181857}\n}"
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html",
+    "href": "publications/2012-halpha3-i.html",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "",
+    "text": "PDF | DOI"
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#abstract",
+    "href": "publications/2012-halpha3-i.html#abstract",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "Abstract",
+    "text": "Abstract\nWe present H\\(\\alpha^3\\) (acronym for H\\(\\alpha\\) − \\(\\alpha\\)\\(\\alpha\\)), an H\\(\\alpha\\) narrow-band imaging survey of \\(\\sim\\) 400 galaxies selected from the HI Arecibo Legacy Fast ALFA Survey (ALFALFA) in the Local Supercluster, including the Virgo cluster. By using hydrogen recombination lines as a tracer of recent star formation, we aim to investigate the relationships between atomic neutral gas and newly formed stars in different environments (cluster and field), morphological types (spirals and dwarfs), and over a wide range of stellar masses (\\(\\sim 10^{7.5} − 10^{11.5} M_\\odot\\)). We image in H\\(\\alpha\\)+[NII] all the galaxies that contain more than \\(10^7 M_\\odot\\) of neutral atomic hydrogen in the sky region 11h &lt; RA &lt; 16h; 4\\(^\\circ\\) &lt; Dec &lt; 16\\(^\\circ\\); 350 &lt; cz &lt; 2000 km s\\(^{-1}\\) using the San Pedro Martir 2m telescope. This survey provides a complete census of the star formation in HI rich galaxies of the local universe. We present the properties of the galaxy sample, together with H\\(\\alpha\\) fluxes and equivalent widths. We find an excellent agreement between the fluxes determined from our images in apertures of 3 arcsec diameter and the fluxes derived from the SDSS spectral database. From the H\\(\\alpha\\) fluxes corrected for galactic and internal extinction and for [NII] contamination we derive the global star formation rates (SFRs)."
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#citation",
+    "href": "publications/2012-halpha3-i.html#citation",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "Citation",
+    "text": "Citation\nGavazzi, G., Fumagalli, M., Galardo, V., Grossetti, F., Boselli, A., Giovanelli, R., Haynes, M. P. & Fabello, S. (2012). Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster. Astronomy & Astrophysics, 545, A16."
+  },
+  {
+    "objectID": "publications/2012-halpha3-i.html#bibtex",
+    "href": "publications/2012-halpha3-i.html#bibtex",
+    "title": "Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{gavazzi2012halpha,\n  title   = {H$\\alpha^3$: An H$\\alpha$ Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster},\n  author  = {Gavazzi, Giuseppe and Fumagalli, Michele and Galardo, Vincenzo and Grossetti, Francesco and Boselli, Alessandro and Giovanelli, Riccardo and Haynes, Martha P. and Fabello, Silvia},\n  journal = {Astronomy \\& Astrophysics},\n  volume  = {545},\n  pages   = {A16},\n  year    = {2012},\n  doi     = {10.1051/0004-6361/201218788}\n}"
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html",
+    "href": "publications/2026-narrative-tax-outcomes.html",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "",
+    "text": "PDF | DOI"
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#abstract",
+    "href": "publications/2026-narrative-tax-outcomes.html#abstract",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "Abstract",
+    "text": "Abstract\nWe examine whether narrative discussion in financial disclosures can help corporate stakeholders better predict tax outcomes. To measure qualitative discussion, we use topic modeling analysis to create measures of the thematic content of 10-K disclosures. We find that qualitative discussion in financial disclosures can substantially improve prediction of tax outcomes in in- and out-of-sample tests. We also find that prediction-relevant discussion is distributed throughout the 10-K, supporting that disclosures should be analyzed holistically rather than examining only limited pieces of larger disclosures. Further, we find that analysts often do not use this information effectively, resulting in predictable and economically meaningful forecast errors. These findings illustrate the wealth of qualitative information in 10-K disclosures for stakeholders concerned about tax outcomes and offer a practical approach to examining qualitative disclosures and using them to predict tax outcomes."
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#citation",
+    "href": "publications/2026-narrative-tax-outcomes.html#citation",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "Citation",
+    "text": "Citation\nBogachek, O., De Vito, A., Demeré, P. & Grossetti, F. (2026). Using Narrative Disclosures to Predict Tax Outcomes. Review of Accounting Studies, 31, 374–412."
+  },
+  {
+    "objectID": "publications/2026-narrative-tax-outcomes.html#bibtex",
+    "href": "publications/2026-narrative-tax-outcomes.html#bibtex",
+    "title": "Using Narrative Disclosures to Predict Tax Outcomes",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{bogachek2026narrative,\n  title   = {Using Narrative Disclosures to Predict Tax Outcomes},\n  author  = {Bogachek, Olga and De Vito, Antonio and Demer{\\'e}, Paul and Grossetti, Francesco},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {374--412},\n  year    = {2026},\n  doi     = {10.1007/s11142-025-09914-3}\n}"
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html",
+    "href": "publications/wp-human-touch-llm.html",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "",
+    "text": "We study whether general-purpose large language models (LLMs) match domain-calibrated machine learning methods in extracting economically relevant information from financial narra- tives. Using more than 175,000 earnings conference call transcripts, we compare Naïve Bayes classifiers trained on human-annotated sentences with otherwise identical classifiers trained on ChatGPT-generated pseudo-labels. Although GPT-trained models exhibit high internal accu- racy relative to their own labels, they show low concordance with human annotations and ex- plain substantially less cross-sectional variation in investor reactions. Human-trained measures are consistently more informative: a one-standard-deviation increase in human-calibrated tone is associated with approximately a 30 basis-point increase in abnormal returns, compared with single-digit effects for GPT-based measures. Encompassing tests indicate that human-calibrated attributes often contain information not captured by GPT-based counterparts, while the reverse is rare. These findings highlight the role of domain calibration and interpretive alignment in mapping financial language into market outcomes, and suggest that model scale alone does not guarantee economically meaningful text-based signals."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html#abstract",
+    "href": "publications/wp-human-touch-llm.html#abstract",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "",
+    "text": "We study whether general-purpose large language models (LLMs) match domain-calibrated machine learning methods in extracting economically relevant information from financial narra- tives. Using more than 175,000 earnings conference call transcripts, we compare Naïve Bayes classifiers trained on human-annotated sentences with otherwise identical classifiers trained on ChatGPT-generated pseudo-labels. Although GPT-trained models exhibit high internal accu- racy relative to their own labels, they show low concordance with human annotations and ex- plain substantially less cross-sectional variation in investor reactions. Human-trained measures are consistently more informative: a one-standard-deviation increase in human-calibrated tone is associated with approximately a 30 basis-point increase in abnormal returns, compared with single-digit effects for GPT-based measures. Encompassing tests indicate that human-calibrated attributes often contain information not captured by GPT-based counterparts, while the reverse is rare. These findings highlight the role of domain calibration and interpretive alignment in mapping financial language into market outcomes, and suggest that model scale alone does not guarantee economically meaningful text-based signals."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html#citation",
+    "href": "publications/wp-human-touch-llm.html#citation",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "Citation",
+    "text": "Citation\nGietzmann, M., Grossetti, F. & Lewis, C. M. (2025). It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains. Working paper."
+  },
+  {
+    "objectID": "publications/wp-human-touch-llm.html#bibtex",
+    "href": "publications/wp-human-touch-llm.html#bibtex",
+    "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{gietzmann2025human,\n  title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},\n  author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "At Bocconi I have designed and direct courses that bring AI, data science, NLP, coding, and blockchain into the MSc. and BSc. curricula in Accounting, Finance, and Management.\nIn 2023–2024 I received the Bocconi Teaching Award for Innovation for the course Introduction to Blockchain."
+  },
+  {
+    "objectID": "teaching.html#current-courses-bocconi-university",
+    "href": "teaching.html#current-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Current courses | Bocconi University",
+    "text": "Current courses | Bocconi University\n\nBig Data for Business Decisions | MSc. Elective\nStatistical and Computational Methods in Accounting | BSc. in AI, Elective\nIntroduction to Blockchain | BSc. Elective | Bocconi Teaching Award for Innovation, 2023–2024\n\n\nSDA Bocconi School of Management\n\nMastering Data for Insurance | NLP Module, Executive Custom Program."
+  },
+  {
+    "objectID": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "href": "teaching.html#nhh-and-free-university-of-bozen-20242025",
+    "title": "Teaching",
+    "section": "NHH and Free University of Bozen (2024–2025)",
+    "text": "NHH and Free University of Bozen (2024–2025)\n\nIntroduction to Blockchain — offered at both BSc. and MSc. level."
+  },
+  {
+    "objectID": "teaching.html#service",
+    "href": "teaching.html#service",
+    "title": "Teaching",
+    "section": "Service",
+    "text": "Service\nI serve on the Editorial Board of Accounting in Europe (2026–2029) and as Scientific Program Coordinator of the 4th Bocconi Accounting Symposium (June 22–23, 2026). I review for the Journal of Accounting and Public Policy, the Journal of Business, Finance, and Accounting, and the FARS section of AAA."
+  },
+  {
+    "objectID": "teaching.html#advising",
+    "href": "teaching.html#advising",
+    "title": "Teaching",
+    "section": "Advising",
+    "text": "Advising\nSince 2018 I have advised more than 40 MSc. and 30 BSc. theses on corporate disclosure, NLP, machine learning, and blockchain applications in accounting.\nProspective advisees: please email me with a short note on your background and the questions you would like to work on."
+  },
+  {
+    "objectID": "teaching.html#past-courses-bocconi-university",
+    "href": "teaching.html#past-courses-bocconi-university",
+    "title": "Teaching",
+    "section": "Past courses | Bocconi University",
+    "text": "Past courses | Bocconi University\n\nAccounting and Financial Statement Analysis — Module I\nDeep Learning for Computer Vision\nComputer Programming and Database Systems"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "I develop open-source tools for empirical accounting and finance research. Each card below links to the project’s own documentation site or repository.\n\n\n\n\n\n\n\nNLPstudio\n\n\n\nR\n\nNLP\n\ntopic-modeling\n\nfeatured\n\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\n\n\n\n\nOpTop\n\n\n\nR\n\nNLP\n\nmethods\n\nfeatured\n\n\n\nParametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti…\n\n\n\n\n\n\n\n\n\naaiNB\n\n\n\nR\n\nNLP\n\nnaive-bayes\n\nreplication\n\n\n\nNaive Bayes training sets and classifiers for multi-dimensional financial narrative attributes. Companion code and data to Gietzmann, Grossetti & Lewis (2026), *Review of…\n\n\n\n\n\n\n\n\n\nmsmtools\n\n\n\nR\n\nbiostatistics\n\nmulti-state\n\nsurvival\n\n\n\nAugmented longitudinal data and diagnostics for multi-state models fitted with msm — augment(), polish(), survplot(), prevplot(). Stable lifecycle; also…\n\n\n\n\n\nNo matching items\n\nWhere possible, the code that accompanies my published papers is released alongside the working-paper version. If you are looking for replication materials for a specific paper and cannot find them, please email me."
   },
   {
     "objectID": "publications.html",
@@ -630,31 +378,283 @@
     "text": "Research grants\n\n2024–2026 — CIVICA Research Grant. EXECML — Using Machine Learning to Uncover Subjective Incentives in Executive Compensation, with IE University and Stockholm School of Economics. €35,000 (June 2024 – May 2026).\n2024 — CIVICA Faculty Short Visits Program. Optimal Benchmarking for Mutual Fund Performance Evaluation with Natural Language Processing, IE University, Madrid, Spain (March 2024).\n2020–2021 — Bocconi Senior Researchers’ Grant — Co-P.I. Multi-modal Communication in Corporate Reporting: Combining Words and Images in Corporate Disclosure. €9,000 (November 2020 – November 2021).\n2019–2020 — Bocconi Junior Researchers’ Grant — P.I. edgartools: an Open Source Library to Efficiently Collect Financial Filings from SEC EDGAR Database. €8,000 (May 2019 – May 2020)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr. Francesco Grossetti",
+    "objectID": "publications/book-python-2019.html",
+    "href": "publications/book-python-2019.html",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
     "section": "",
-    "text": "Department of Accounting, Bocconi UniversityVia Roentgen 1, 20136 Milano, Italy\n  Bocconi Institute for Data Science and Analytics, Bocconi UniversityVia Roentgen 1, 20136 Milano, Italy\n  francesco.grossetti@unibocconi.it"
+    "text": "A hands-on introduction to Python for readers without a programming background, written for students of accounting, finance, and management who need to become productive with code."
   },
   {
-    "objectID": "index.html#short-bio",
-    "href": "index.html#short-bio",
-    "title": "Dr. Francesco Grossetti",
-    "section": "Short Bio",
-    "text": "Short Bio\nI am an Assistant Professor of Accounting Analytics and Data Science at the Department of Accounting at Bocconi University, a Fellow at the Bocconi Institute for Data Science and Analytics, and a member of the Bocconi Digital Transformation and AI Committee.\nI study core questions in accounting and finance — corporate disclosure and its consequences for firm tax outcomes, investor reactions to multi-dimensional financial narratives, and the dynamics through which corporate information reaches the market — using Natural Language Processing, machine learning, and computational statistics on large-scale textual and multimodal financial data. Methodologically, I draw on statistical learning and stochastic processes for sequential data, which let me model how corporate information evolves over time (disclosure cascades, topic model identification, and more).\nMy work has appeared in the Review of Accounting Studies, the Journal of Machine Learning Research, the Journal of Accounting and Public Policy, and other outlets.\n\nPositions\n\nAssistant Professor, Department of Accounting, Bocconi University · 2018 – present\nFellow, Bocconi Institute for Data Science and Analytics · 2018 – present\nVisiting Associate Professor (recurrent), NHH, Bergen · 2024 – 2025\nVisiting Assistant Professor, IE University, Madrid · October 2022\nPostdoctoral Fellow, Bocconi University · 2017 – 2018\nResearch Fellow, Politecnico di Milano · 2011 – 2013\n\n\n\nEducation\n\nPh.D. in Applied and Computational Statistics | Politecnico di Milano (MOX) · 2017\nM.Sc. in Astrophysics and Space Physics | Università di Milano-Bicocca\nB.Sc. in Physics | Università di Milano-Bicocca"
+    "objectID": "publications/book-python-2019.html#abstract",
+    "href": "publications/book-python-2019.html#abstract",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "",
+    "text": "A hands-on introduction to Python for readers without a programming background, written for students of accounting, finance, and management who need to become productive with code."
   },
   {
-    "objectID": "index.html#featured-publications",
-    "href": "index.html#featured-publications",
-    "title": "Dr. Francesco Grossetti",
-    "section": "Featured Publications",
-    "text": "Featured Publications\n\n\n\n\n\nInvestor Distraction and Multi-Dimensional Financial Narrative\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nMar 9, 2026\n\n\n\n\n\n\n\nUsing Narrative Disclosures to Predict Tax Outcomes\n\n\nReview of Accounting Studies (2026)\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\nA Statistical Approach for Optimal Topic Model Identification\n\n\nJournal of Machine Learning Research (2022)\n\n\n\n\n\nFeb 1, 2022\n\n\n\n\n\nNo matching items\n\nSee all publications →"
+    "objectID": "publications/book-python-2019.html#citation",
+    "href": "publications/book-python-2019.html#citation",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F. & Rubera, G. (2019). Python for Non-Pythonians: How to Win Over Programming Languages. Bocconi University Press – Egea."
   },
   {
-    "objectID": "index.html#featured-code",
-    "href": "index.html#featured-code",
-    "title": "Dr. Francesco Grossetti",
-    "section": "Featured Code",
-    "text": "Featured Code\n\n\n\n\n\n\n\nNLPstudio\n\n\nScalable, reproducible NLP workflows in R — corpus preparation, dictionaries, readability, similarity, and a consistent topic-model API across backends. Built on…\n\n\n\n\n\n\n\n\n\nOpTop\n\n\nParametric tests to identify the optimal number of topics from a pool of LDA models, plus diagnostics for topic stability and redundancy. Companion code to Lewis & Grossetti…\n\n\n\n\n\nNo matching items\n\nSee all projects →"
+    "objectID": "publications/book-python-2019.html#bibtex",
+    "href": "publications/book-python-2019.html#bibtex",
+    "title": "Python for Non-Pythonians: How to Win Over Programming Languages",
+    "section": "BibTeX",
+    "text": "BibTeX\n@book{grossetti2019python,\n  title     = {Python for Non-Pythonians: How to Win Over Programming Languages},\n  author    = {Grossetti, Francesco and Rubera, Gaia},\n  publisher = {Bocconi University Press -- Egea},\n  year      = {2019}\n}"
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html",
+    "href": "publications/wp-topic-gof.html",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "",
+    "text": "Unsupervised topic models are widely used for discovering thematic structure in text corpora, yet their evaluation still lacks continuous effect-size measures and residual diagnostics comparable to those routinely used in regression analysis. We develop a family of goodness-of-fit indices, \\(R^2_D(K)\\), that quantify the proportional reduction in discrepancy achieved by a \\(K\\)-topic model relative to a no-topics baseline in which all documents share a single global word distribution. We consider deviance, Pearson \\(\\chi^2\\), and squared-error discrepancies, each evaluated on a harmonized support and anchored by a global-baseline null and a saturated benchmark. We distinguish full-corpus indices, which summarize in-sample fit descriptively, from held-out indices, which support inference and topic-number comparison. We formalize the difference between Micro (pooled, discrepancy-weighted) and Macro (document-level, unweighted) aggregation and show that their gap diagnoses fit heterogeneity aligned with the baseline discrepancy, often but not only with document length. A dual word-level perspective highlights vocabulary regions that are systematically mispredicted. Finally, we develop held-out moment-based specification tests that project residuals onto vocabulary-level instruments and detect structured residual bias beyond overall fit summaries. Together, these tools provide an interpretable framework for assessing, comparing, and diagnosing topic models through regression-style effect sizes and residual checks."
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html#abstract",
+    "href": "publications/wp-topic-gof.html#abstract",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "",
+    "text": "Unsupervised topic models are widely used for discovering thematic structure in text corpora, yet their evaluation still lacks continuous effect-size measures and residual diagnostics comparable to those routinely used in regression analysis. We develop a family of goodness-of-fit indices, \\(R^2_D(K)\\), that quantify the proportional reduction in discrepancy achieved by a \\(K\\)-topic model relative to a no-topics baseline in which all documents share a single global word distribution. We consider deviance, Pearson \\(\\chi^2\\), and squared-error discrepancies, each evaluated on a harmonized support and anchored by a global-baseline null and a saturated benchmark. We distinguish full-corpus indices, which summarize in-sample fit descriptively, from held-out indices, which support inference and topic-number comparison. We formalize the difference between Micro (pooled, discrepancy-weighted) and Macro (document-level, unweighted) aggregation and show that their gap diagnoses fit heterogeneity aligned with the baseline discrepancy, often but not only with document length. A dual word-level perspective highlights vocabulary regions that are systematically mispredicted. Finally, we develop held-out moment-based specification tests that project residuals onto vocabulary-level instruments and detect structured residual bias beyond overall fit summaries. Together, these tools provide an interpretable framework for assessing, comparing, and diagnosing topic models through regression-style effect sizes and residual checks."
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html#citation",
+    "href": "publications/wp-topic-gof.html#citation",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "Citation",
+    "text": "Citation\nLewis, C. M. & Grossetti, F (2026). Goodness-of-Fit Indices and Diagnostics for Topic Models. Working paper."
+  },
+  {
+    "objectID": "publications/wp-topic-gof.html#bibtex",
+    "href": "publications/wp-topic-gof.html#bibtex",
+    "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{grossetti2025gof,\n  title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},\n  author = {Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper},\n  year   = {2025}\n}"
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html",
+    "href": "publications/2022-topic-model-identification.html",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "",
+    "text": "PDF | JMLR | Code"
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#abstract",
+    "href": "publications/2022-topic-model-identification.html#abstract",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "Abstract",
+    "text": "Abstract\nLatent Dirichlet Allocation is a popular machine-learning technique that identifies latent structures in a corpus of documents. This paper addresses the ongoing concern that formal procedures for determining the optimal LDA configuration do not exist by introducing a set of parametric tests that rely on the assumed multinomial distribution specification underlying the original LDA model. Our methodology defines a set of rigorous statistical procedures that identify and evaluate the optimal topic model. The U.S. Presidential Inaugural Address Corpus is used as a case study to show the numerical results. We find that 92 topics best describe the corpus. We further validate the method through a simulation study confirming the superiority of our approach compared to other standard heuristic metrics like the perplexity index."
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#citation",
+    "href": "publications/2022-topic-model-identification.html#citation",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "Citation",
+    "text": "Citation\nLewis, C. M. & Grossetti, F. (2022). A Statistical Approach for Optimal Topic Model Identification. Journal of Machine Learning Research, 23(58), 1–20."
+  },
+  {
+    "objectID": "publications/2022-topic-model-identification.html#bibtex",
+    "href": "publications/2022-topic-model-identification.html#bibtex",
+    "title": "A Statistical Approach for Optimal Topic Model Identification",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{lewis2022topic,\n  title   = {A Statistical Approach for Optimal Topic Model Identification},\n  author  = {Lewis, Craig M. and Grossetti, Francesco},\n  journal = {Journal of Machine Learning Research},\n  volume  = {23},\n  number  = {58},\n  pages   = {1--20},\n  year    = {2022}\n}"
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html",
+    "href": "publications/book-tax-avoidance-2024.html",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "",
+    "text": "This book explores the intricate realm of tax avoidance, synthesizing existing empirical literature in the field. The work starts by exploring the theoretical underpinnings of tax avoidance, dissecting its unique features compared to tax evasion. It delves into measurement methodologies and dissects the determinants contributing to its prevalence. Moreover, it analyzes the economic consequences of tax avoidance, emphasizing its impact on critical accounting issues, including financial reporting transparency, cost of capital, and firm value. Next, the book offers a foundational understanding of graph theory, unveiling the core elements of networks, such as nodes and edges. The book covers the theoretical fundamentals and addresses the practical side of constructing networks based on real-world relational systems. It emphasizes the importance of effective data collection and representation methods and underscores the importance of optimizing network layouts for enhanced visual representation. Using network analysis, the book further offers a deep dive into empirical studies on tax avoidance over the past two decades, revealing insights into the collaborative nature of this stream of research. Finally, the book summarizes the key insights of the network analysis on tax avoidance. It underscores the dynamic nature of individual authors’ roles and affiliations, shedding light on the collaborative dynamics within institutions."
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html#about-this-book",
+    "href": "publications/book-tax-avoidance-2024.html#about-this-book",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "",
+    "text": "This book explores the intricate realm of tax avoidance, synthesizing existing empirical literature in the field. The work starts by exploring the theoretical underpinnings of tax avoidance, dissecting its unique features compared to tax evasion. It delves into measurement methodologies and dissects the determinants contributing to its prevalence. Moreover, it analyzes the economic consequences of tax avoidance, emphasizing its impact on critical accounting issues, including financial reporting transparency, cost of capital, and firm value. Next, the book offers a foundational understanding of graph theory, unveiling the core elements of networks, such as nodes and edges. The book covers the theoretical fundamentals and addresses the practical side of constructing networks based on real-world relational systems. It emphasizes the importance of effective data collection and representation methods and underscores the importance of optimizing network layouts for enhanced visual representation. Using network analysis, the book further offers a deep dive into empirical studies on tax avoidance over the past two decades, revealing insights into the collaborative nature of this stream of research. Finally, the book summarizes the key insights of the network analysis on tax avoidance. It underscores the dynamic nature of individual authors’ roles and affiliations, shedding light on the collaborative dynamics within institutions."
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html#citation",
+    "href": "publications/book-tax-avoidance-2024.html#citation",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "Citation",
+    "text": "Citation\nDe Vito, A. & Grossetti, F. (2024). Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration. Springer – SIDREA Series in Accounting and Business Administration."
+  },
+  {
+    "objectID": "publications/book-tax-avoidance-2024.html#bibtex",
+    "href": "publications/book-tax-avoidance-2024.html#bibtex",
+    "title": "Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration",
+    "section": "BibTeX",
+    "text": "BibTeX\n@book{devito2024tax,\n  title     = {Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration},\n  author    = {De Vito, Antonio and Grossetti, Francesco},\n  publisher = {Springer -- SIDREA Series in Accounting and Business Administration},\n  year      = {2024}\n}"
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html",
+    "href": "publications/2021-blockchain-accounting.html",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "",
+    "text": "DOI"
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#abstract",
+    "href": "publications/2021-blockchain-accounting.html#abstract",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a recent survey of academic research, Fintech-related topics — broadly classified as crypto-currency studies — were by far the most researched topics in the social sciences. However, we have observed that, perhaps surprisingly, even though crypto-currencies rely on a distributed accounting ledger technology, relatively few of those studies were conducted by accounting academics. While some of the features of a system like Bitcoin do not necessarily rely on a traditional accounting knowledge, this knowledge is key in designing effective real-world distributed systems. The article discusses how an accounting perspective is essential for understanding the implications of blockchain and other distributed ledger technologies, including smart contracting, auditability, and the architectural choices required to build accounting-grade distributed systems."
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#citation",
+    "href": "publications/2021-blockchain-accounting.html#citation",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "Citation",
+    "text": "Citation\nGietzmann, M. & Grossetti, F. (2021). Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting? Journal of Accounting and Public Policy, 40(5), 106881."
+  },
+  {
+    "objectID": "publications/2021-blockchain-accounting.html#bibtex",
+    "href": "publications/2021-blockchain-accounting.html#bibtex",
+    "title": "Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{gietzmann2021blockchain,\n  title   = {Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?},\n  author  = {Gietzmann, Miles and Grossetti, Francesco},\n  journal = {Journal of Accounting and Public Policy},\n  volume  = {40},\n  number  = {5},\n  pages   = {106881},\n  year    = {2021},\n  doi     = {10.1016/j.jaccpubpol.2021.106881}\n}"
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html",
+    "href": "publications/wp-loan-contract-disclosures.html",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "",
+    "text": "We examine whether publicly disclosed loan contracts contain information that can be used by corporate stakeholders to predict borrower outcomes. Loan contracts are the result of negotiations between informed parties after extensive due diligence, but strategic disclosure incentives and reliance on boilerplate language may limit their usefulness to stakeholders. Using natural language processing techniques applied to a large sample of SEC-filed loan contracts, we find that contract terms and language, particularly contract discussion topics, contain incremental predictive information about future borrower performance, investment, bankruptcy risk, and stock return volatility. However, we also find evidence that loan con- tract topics are associated with future stock returns and analyst forecast errors, suggesting that many corporate stakeholders struggle to effectively process and use this information in a timely manner. Our results indicate that loan contracts contain substantial information content of value to many corporate stakeholders and highlight the richness of the text in loan contracts."
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html#abstract",
+    "href": "publications/wp-loan-contract-disclosures.html#abstract",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "",
+    "text": "We examine whether publicly disclosed loan contracts contain information that can be used by corporate stakeholders to predict borrower outcomes. Loan contracts are the result of negotiations between informed parties after extensive due diligence, but strategic disclosure incentives and reliance on boilerplate language may limit their usefulness to stakeholders. Using natural language processing techniques applied to a large sample of SEC-filed loan contracts, we find that contract terms and language, particularly contract discussion topics, contain incremental predictive information about future borrower performance, investment, bankruptcy risk, and stock return volatility. However, we also find evidence that loan con- tract topics are associated with future stock returns and analyst forecast errors, suggesting that many corporate stakeholders struggle to effectively process and use this information in a timely manner. Our results indicate that loan contracts contain substantial information content of value to many corporate stakeholders and highlight the richness of the text in loan contracts."
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html#citation",
+    "href": "publications/wp-loan-contract-disclosures.html#citation",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "Citation",
+    "text": "Citation\nBrancaccio, I., Demeré, P., & Grossetti, F. (work in progress). The Information Content of Loan Contract Disclosures."
+  },
+  {
+    "objectID": "publications/wp-loan-contract-disclosures.html#bibtex",
+    "href": "publications/wp-loan-contract-disclosures.html#bibtex",
+    "title": "The Information Content of Loan Contract Disclosures",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{brancaccio_loan_contract,\n  title  = {The Information Content of Loan Contract Disclosures},\n  author = {Brancaccio, Isabella and Demer{\\'e}, Paul and Grossetti, Francesco},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html",
+    "href": "publications/2026-investor-distraction.html",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "",
+    "text": "PDF | Code"
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#abstract",
+    "href": "publications/2026-investor-distraction.html#abstract",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper investigates how institutional investor distraction affects the assimilation of narrative content in the MD&A section of the 10-K filing. We introduce the Aggregate Attribute Index (\\(AAI\\)) and an alternative formulation (\\(AltAAI\\)), which capture linguistic features beyond tone to provide a broader measure of corporate narrative richness. Using machine learning and natural language processing, we analyze U.S. firms that follow a staggered reporting strategy, releasing quantitative results before full narrative disclosures. This design isolates the incremental effects of complex language when other portfolio events distract investors. We find that narrative complexity does not trigger short-term return responses but significantly affects stock prices over longer horizons. Complexity moderates how and when attention-constrained investors adjust prices. These effects are not captured by dictionary-based tone or readability metrics, underscoring the distinct role of multi-dimensional attributes in shaping delayed market reactions and price discovery."
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#citation",
+    "href": "publications/2026-investor-distraction.html#citation",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "Citation",
+    "text": "Citation\nGietzmann, M., Grossetti, F. & Lewis, C. M. (2026). Investor Distraction and Multi-Dimensional Financial Narrative. Review of Accounting Studies, 31, 334–373."
+  },
+  {
+    "objectID": "publications/2026-investor-distraction.html#bibtex",
+    "href": "publications/2026-investor-distraction.html#bibtex",
+    "title": "Investor Distraction and Multi-Dimensional Financial Narrative",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{gietzmann2026investor,\n  title   = {Investor Distraction and Multi-Dimensional Financial Narrative},\n  author  = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  journal = {Review of Accounting Studies},\n  volume  = {31},\n  pages   = {334--373},\n  year    = {2026}\n}"
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html",
+    "href": "publications/wp-fintag2text.html",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "",
+    "text": "SSRN"
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#abstract",
+    "href": "publications/wp-fintag2text.html#abstract",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Abstract",
+    "text": "Abstract\nWe introduce a novel firm-level measure, “Discussed Numbers,” to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#citation",
+    "href": "publications/wp-fintag2text.html#citation",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Citation",
+    "text": "Citation\nBurd, C., Casi, E., Grossetti, F. & Lisowsky, P. (2025). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data. Working paper, SSRN 4070703."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#bibtex",
+    "href": "publications/wp-fintag2text.html#bibtex",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{burd2025fintag2text,\n  title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},\n  author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},\n  note   = {Working paper, under 3rd-round review. SSRN 4070703},\n  year   = {2025}\n}"
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html",
+    "href": "publications/2018-multistate-readmissions.html",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "",
+    "text": "DOI | PubMed | Code"
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#abstract",
+    "href": "publications/2018-multistate-readmissions.html#abstract",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "Abstract",
+    "text": "Abstract\nHealthcare administrative databases are becoming more and more important and reliable sources of clinical and epidemiological information, and are able to track several interactions between a patient and the public healthcare system. This study uses data extracted from the administrative data warehouse of Regione Lombardia, a region in northern Italy, with the aim of providing a description of the epidemiology of Heart Failure patients at the regional level, profiling health service utilization over time, and investigating variations in patient care according to geographic area and socio-demographic characteristics. We apply multi-state models to estimate transition probabilities between admission, discharge, and death states while adjusting for state-dependent covariates. The analysis examines the effects of pharmacological and outpatient care covariates on patients’ readmissions and death, representing an early Italian investigation into factors influencing hospitalization and mortality outcomes in heart failure patients."
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#citation",
+    "href": "publications/2018-multistate-readmissions.html#citation",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "Citation",
+    "text": "Citation\nGrossetti, F., Ieva, F. & Paganoni, A. M. (2018). A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data. Health Care Management Science, 21, 281–291."
+  },
+  {
+    "objectID": "publications/2018-multistate-readmissions.html#bibtex",
+    "href": "publications/2018-multistate-readmissions.html#bibtex",
+    "title": "A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data",
+    "section": "BibTeX",
+    "text": "BibTeX\n@article{grossetti2018multistate,\n  title   = {A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data},\n  author  = {Grossetti, Francesco and Ieva, Francesca and Paganoni, Anna Maria},\n  journal = {Health Care Management Science},\n  volume  = {21},\n  number  = {2},\n  pages   = {281--291},\n  year    = {2018},\n  doi     = {10.1007/s10729-017-9400-z}\n}"
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html",
+    "href": "publications/wip-disclosure-cascade.html",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "",
+    "text": "Abstract forthcoming."
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html#abstract",
+    "href": "publications/wip-disclosure-cascade.html#abstract",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "",
+    "text": "Abstract forthcoming."
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html#citation",
+    "href": "publications/wip-disclosure-cascade.html#citation",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "Citation",
+    "text": "Citation\nGietzmann, M. & Grossetti, F. (work in progress). Disclosure Cascade: A Hawkes Process Approach."
+  },
+  {
+    "objectID": "publications/wip-disclosure-cascade.html#bibtex",
+    "href": "publications/wip-disclosure-cascade.html#bibtex",
+    "title": "Disclosure Cascade: A Hawkes Process Approach",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{gietzmann_disclosure_cascade,\n  title  = {Disclosure Cascade: A {Hawkes} Process Approach},\n  author = {Gietzmann, Miles and Grossetti, Francesco},\n  note   = {Work in progress},\n  year   = {2025}\n}"
   }
 ]

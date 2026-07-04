@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/publications/2026-investor-distraction.html",
+      "/publications/2026-narrative-tax-outcomes.html",
+      "/publications/2022-topic-model-identification.html"
+    ]
+  },
+  {
     "listing": "/code.html",
     "items": []
   },
@@ -25,14 +33,6 @@
       "/publications/book-value-relevance-2025.html",
       "/publications/book-tax-avoidance-2024.html",
       "/publications/book-python-2019.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/publications/2026-investor-distraction.html",
-      "/publications/2026-narrative-tax-outcomes.html",
-      "/publications/2022-topic-model-identification.html"
     ]
   }
 ]
