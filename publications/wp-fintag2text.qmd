@@ -1,6 +1,6 @@
 ---
 title: "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data"
-description: "Working paper — under 3rd-round review"
+description: "Working paper — revising for 3rd-round resubmission"
 author:
   - Carlyle Burd
   - Elisa Casi
@@ -8,7 +8,7 @@ author:
   - Petro Lisowsky
 # date: 2025-03-01
 categories: [working, accounting, NLP, XBRL, tax]
-venue: "Under 3rd-round review"
+venue: "Revising for 3rd-round resubmission"
 status: working
 ---
 
