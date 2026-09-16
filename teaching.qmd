@@ -15,8 +15,7 @@ Innovation** for the course *Introduction to Blockchain*.
 ## Current courses | Bocconi University
 
 - Big Data for Business Decisions | *MSc. Elective*
-- Statistical and Computational Methods in Accounting | *BSc. in AI,
-  Elective*
+- Artificial Intelligence for Accounting | *BSc. in AI, Elective*
 - Introduction to Blockchain | *BSc. Elective* | *Bocconi Teaching Award
   for Innovation, 2023–2024*
 
@@ -50,6 +49,7 @@ work on.
 
 ## Past courses | Bocconi University
 
+- Statistical and Computational Methods in Accounting
 - Accounting and Financial Statement Analysis — Module I
 - Deep Learning for Computer Vision
 - Computer Programming and Database Systems
