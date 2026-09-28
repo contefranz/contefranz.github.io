@@ -13,7 +13,7 @@ pages: "334–373"
 status: published
 ---
 
-[PDF](https://link.springer.com/content/pdf/10.1007/s11142-026-09950-7.pdf) | [Code](https://github.com/contefranz/aaiNB)
+[PDF](https://link.springer.com/content/pdf/10.1007/s11142-026-09950-7.pdf) | [DOI](https://doi.org/10.1007/s11142-026-09950-7) | [Code](https://github.com/contefranz/aaiNB)
 
 ## Abstract
 
@@ -34,6 +34,7 @@ and Multi-Dimensional Financial Narrative. *Review of Accounting Studies*,
   journal = {Review of Accounting Studies},
   volume  = {31},
   pages   = {334--373},
-  year    = {2026}
+  year    = {2026},
+  doi     = {10.1007/s11142-026-09950-7}
 }
 ```
