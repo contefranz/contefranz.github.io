@@ -25,9 +25,12 @@ Innovation** for the course *Introduction to Blockchain*.
 - Mastering Data for Insurance | NLP Module, Executive Custom Program.
 <!-- - Il CFO nell'era dell'Intelligenza Artificiale: valore e responsabilità | SDA Bocconi Open Program -->
 
-## NHH and Free University of Bozen (2024–2025)
+## NHH and Free University of Bozen
 
-- Introduction to Blockchain — offered at both BSc. and MSc. level.
+- Introduction to Blockchain | *NHH, Bergen* | *BSc. level* | *2024–present,
+  recurring*
+- Introduction to Blockchain | *Free University of Bozen* | *MSc. level* |
+  *2025*
 
 ## Service
 
