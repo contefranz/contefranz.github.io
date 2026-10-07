@@ -1,13 +1,13 @@
 ---
 title: "The Information Content of Loan Contract Disclosures"
-description: "Working paper — under review"
+description: "Working paper — preparing for submission"
 author:
   - Isabella Brancaccio
   - Paul Demeré
   - Francesco Grossetti
 # date: 2025-01-01
 categories: [working, accounting, NLP]
-venue: "Under review"
+venue: "Preparing for submission"
 status: working
 ---
 
@@ -38,7 +38,7 @@ Information Content of Loan Contract Disclosures.
 @unpublished{brancaccio_loan_contract,
   title  = {The Information Content of Loan Contract Disclosures},
   author = {Brancaccio, Isabella and Demer{\'e}, Paul and Grossetti, Francesco},
-  note   = {Working paper, under review},
+  note   = {Working paper, preparing for submission},
   year   = {2025}
 }
 ```

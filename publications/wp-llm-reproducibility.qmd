@@ -1,0 +1,29 @@
+---
+title: "Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research"
+description: "Working paper — preparing for submission"
+author:
+  - Claudio Ferrantino
+  - Francesco Grossetti
+  - Tim Martens
+# date: 2026-09-01
+categories: [working, accounting, LLM, NLP, methods]
+venue: "Preparing for submission"
+status: working
+---
+
+## Citation
+
+Ferrantino, C., Grossetti, F. & Martens, T. (2026). Deterministic in
+Theory, Random in Practice: Numerical Precision and the Reproducibility of
+LLM Measures in Accounting Research. *Working paper*.
+
+## BibTeX
+
+```{.bibtex}
+@unpublished{ferrantino2026deterministic,
+  title  = {Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research},
+  author = {Ferrantino, Claudio and Grossetti, Francesco and Martens, Tim},
+  note   = {Working paper, preparing for submission},
+  year   = {2026}
+}
+```

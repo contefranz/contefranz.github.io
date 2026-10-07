@@ -1,6 +1,6 @@
 ---
 title: "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data"
-description: "Working paper — revising for 3rd-round resubmission"
+description: "Working paper — revising for 3rd-round resubmission at European Accounting Review"
 author:
   - Carlyle Burd
   - Elisa Casi
@@ -8,7 +8,7 @@ author:
   - Petro Lisowsky
 # date: 2025-03-01
 categories: [working, accounting, NLP, XBRL, tax]
-venue: "Revising for 3rd-round resubmission"
+venue: "Revising for 3rd-round resubmission at European Accounting Review"
 status: working
 ---
 
@@ -30,7 +30,7 @@ SSRN 4070703.
 @unpublished{burd2025fintag2text,
   title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},
   author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},
-  note   = {Working paper, under 3rd-round review. SSRN 4070703},
+  note   = {Working paper, revising for 3rd-round resubmission at European Accounting Review. SSRN 4070703},
   year   = {2025}
 }
 ```

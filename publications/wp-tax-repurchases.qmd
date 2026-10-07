@@ -1,13 +1,13 @@
 ---
 title: "Tax-motivated Share Repurchases and Corporate Investment During Crisis"
-description: "Working paper — under review"
+description: "Working paper"
 author:
   - Carlo D'Augusta
   - Antonio De Vito
   - Francesco Grossetti
 # date: 2025-01-01
 categories: [working, accounting, tax, corporate-finance]
-venue: "Under review"
+venue: "Working paper"
 status: working
 draft: true
 ---
@@ -30,7 +30,7 @@ Repurchases and Corporate Investment During Crisis. *Working paper*, SSRN
 @unpublished{daugusta2025tax,
   title  = {Tax-motivated Share Repurchases and Corporate Investment During Crisis},
   author = {D'Augusta, Carlo and De Vito, Antonio and Grossetti, Francesco},
-  note   = {Working paper, under review. SSRN 5248586},
+  note   = {Working paper. SSRN 5248586},
   year   = {2025}
 }
 ```

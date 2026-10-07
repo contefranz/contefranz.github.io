@@ -1,13 +1,13 @@
 ---
 title: "It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains"
-description: "Working paper — under review"
+description: "Working paper — preparing for submission"
 author:
   - Miles Gietzmann
   - Francesco Grossetti
   - Craig M. Lewis
 # date: 2025-01-01
 categories: [working, machine-learning, LLM, NLP]
-venue: "Under review"
+venue: "Preparing for submission"
 status: working
 ---
 
@@ -40,7 +40,7 @@ paper*.
 @unpublished{gietzmann2025human,
   title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},
   author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},
-  note   = {Working paper, under review},
+  note   = {Working paper, preparing for submission},
   year   = {2025}
 }
 ```

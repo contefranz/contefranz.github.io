@@ -1,12 +1,12 @@
 ---
 title: "Goodness-of-Fit Indices and Diagnostics for Topic Models"
-description: "Working paper"
+description: "Working paper — preparing for submission"
 author:
   - Craig M. Lewis
   - Francesco Grossetti
 # date: 2025-01-01
 categories: [working, machine-learning, NLP, methods]
-venue: "Working paper"
+venue: "Preparing for submission"
 status: working
 ---
 
@@ -26,7 +26,7 @@ Diagnostics for Topic Models. *Working paper*.
 @unpublished{grossetti2025gof,
   title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},
   author = {Grossetti, Francesco and Lewis, Craig M.},
-  note   = {Working paper},
+  note   = {Working paper, preparing for submission},
   year   = {2025}
 }
 ```
