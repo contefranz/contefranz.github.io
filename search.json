@@ -116,7 +116,7 @@
     "href": "publications/wp-human-touch-llm.html#bibtex",
     "title": "It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains",
     "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{gietzmann2025human,\n  title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},\n  author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
+    "text": "BibTeX\n@unpublished{gietzmann2025human,\n  title  = {It's the Human Touch! Performance of Large Language Models in Highly-Specific Domains},\n  author = {Gietzmann, Miles and Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper, preparing for submission},\n  year   = {2025}\n}"
   },
   {
     "objectID": "publications/book-python-2019.html",
@@ -259,32 +259,25 @@
     "text": "BibTeX\n@unpublished{ellahie_ma_bankers,\n  title  = {M\\&A Bankers' Human Capital: The Role of Expertise, Connections, and Background in Dealmaking},\n  author = {Ellahie, Atif and Grossetti, Francesco and Vincenzi, Riccardo},\n  note   = {Work in progress},\n  year   = {2025}\n}"
   },
   {
-    "objectID": "publications/wp-fintag2text.html",
-    "href": "publications/wp-fintag2text.html",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "objectID": "publications/wp-llm-reproducibility.html",
+    "href": "publications/wp-llm-reproducibility.html",
+    "title": "Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research",
     "section": "",
-    "text": "SSRN"
+    "text": "Ferrantino, C., Grossetti, F. & Martens, T. (2026). Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research. Working paper."
   },
   {
-    "objectID": "publications/wp-fintag2text.html#abstract",
-    "href": "publications/wp-fintag2text.html#abstract",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "Abstract",
-    "text": "Abstract\nWe introduce a novel firm-level measure, “Discussed Numbers,” to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative."
+    "objectID": "publications/wp-llm-reproducibility.html#citation",
+    "href": "publications/wp-llm-reproducibility.html#citation",
+    "title": "Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research",
+    "section": "",
+    "text": "Ferrantino, C., Grossetti, F. & Martens, T. (2026). Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research. Working paper."
   },
   {
-    "objectID": "publications/wp-fintag2text.html#citation",
-    "href": "publications/wp-fintag2text.html#citation",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
-    "section": "Citation",
-    "text": "Citation\nBurd, C., Casi, E., Grossetti, F. & Lisowsky, P. (2025). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data. Working paper, SSRN 4070703."
-  },
-  {
-    "objectID": "publications/wp-fintag2text.html#bibtex",
-    "href": "publications/wp-fintag2text.html#bibtex",
-    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "objectID": "publications/wp-llm-reproducibility.html#bibtex",
+    "href": "publications/wp-llm-reproducibility.html#bibtex",
+    "title": "Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research",
     "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{burd2025fintag2text,\n  title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},\n  author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},\n  note   = {Working paper, under 3rd-round review. SSRN 4070703},\n  year   = {2025}\n}"
+    "text": "BibTeX\n@unpublished{ferrantino2026deterministic,\n  title  = {Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research},\n  author = {Ferrantino, Claudio and Grossetti, Francesco and Martens, Tim},\n  note   = {Working paper, preparing for submission},\n  year   = {2026}\n}"
   },
   {
     "objectID": "teaching.html",
@@ -327,6 +320,34 @@
     "title": "Teaching",
     "section": "Past courses | Bocconi University",
     "text": "Past courses | Bocconi University\n\nStatistical and Computational Methods in Accounting\nAccounting and Financial Statement Analysis — Module I\nDeep Learning for Computer Vision\nComputer Programming and Database Systems"
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html",
+    "href": "publications/wp-fintag2text.html",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "",
+    "text": "SSRN"
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#abstract",
+    "href": "publications/wp-fintag2text.html#abstract",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Abstract",
+    "text": "Abstract\nWe introduce a novel firm-level measure, “Discussed Numbers,” to quantify explicit numeric–narrative linkages in financial statement disclosures. Our measure identifies instances where firms explicitly reference reported numbers, as identified through XBRL tags, within the narrative portions of their 10-K filings. Focusing specifically on tax-related disclosures, we find that a greater volume of discussed numbers is associated with improved analyst forecasts of effective tax rates (ETRs), evidenced by increased ETR forecast accuracy and reduced ETR forecast dispersion. Further, the discussion of complex tax items — such as FIN 48 unrecognized tax benefits, deferred taxes, and valuation allowance — are particularly helpful for analysts forecasting ETRs. Importantly, these benefits persist beyond those related to numeric disclosure volume or narrative length alone. Additionally, firms provide greater discussion of tax numbers when facing higher GAAP ETRs and greater materiality of complex tax accounts. Overall, our findings suggest that explicitly linking numerical disclosures with their related narrative enhances the informativeness of financial statements for capital market participants. Our methodology leveraging SEC-standardized XBRL data is transparent and highly replicable, providing a useful tool for future research in linking numbers to narrative."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#citation",
+    "href": "publications/wp-fintag2text.html#citation",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "Citation",
+    "text": "Citation\nBurd, C., Casi, E., Grossetti, F. & Lisowsky, P. (2025). FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data. Working paper, SSRN 4070703."
+  },
+  {
+    "objectID": "publications/wp-fintag2text.html#bibtex",
+    "href": "publications/wp-fintag2text.html#bibtex",
+    "title": "FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data",
+    "section": "BibTeX",
+    "text": "BibTeX\n@unpublished{burd2025fintag2text,\n  title  = {FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data},\n  author = {Burd, Carlyle and Casi, Elisa and Grossetti, Francesco and Lisowsky, Petro},\n  note   = {Working paper, revising for 3rd-round resubmission at European Accounting Review. SSRN 4070703},\n  year   = {2025}\n}"
   },
   {
     "objectID": "publications/book-tax-avoidance-2024.html",
@@ -438,7 +459,7 @@
     "href": "publications/wp-loan-contract-disclosures.html#bibtex",
     "title": "The Information Content of Loan Contract Disclosures",
     "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{brancaccio_loan_contract,\n  title  = {The Information Content of Loan Contract Disclosures},\n  author = {Brancaccio, Isabella and Demer{\\'e}, Paul and Grossetti, Francesco},\n  note   = {Working paper, under review},\n  year   = {2025}\n}"
+    "text": "BibTeX\n@unpublished{brancaccio_loan_contract,\n  title  = {The Information Content of Loan Contract Disclosures},\n  author = {Brancaccio, Isabella and Demer{\\'e}, Paul and Grossetti, Francesco},\n  note   = {Working paper, preparing for submission},\n  year   = {2025}\n}"
   },
   {
     "objectID": "publications/wip-ties-that-blind.html",
@@ -550,7 +571,7 @@
     "href": "publications/wp-topic-gof.html#bibtex",
     "title": "Goodness-of-Fit Indices and Diagnostics for Topic Models",
     "section": "BibTeX",
-    "text": "BibTeX\n@unpublished{grossetti2025gof,\n  title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},\n  author = {Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper},\n  year   = {2025}\n}"
+    "text": "BibTeX\n@unpublished{grossetti2025gof,\n  title  = {Goodness-of-Fit Indices and Diagnostics for Topic Models},\n  author = {Grossetti, Francesco and Lewis, Craig M.},\n  note   = {Working paper, preparing for submission},\n  year   = {2025}\n}"
   },
   {
     "objectID": "publications/2019-cardiac-rehab.html",
@@ -627,7 +648,7 @@
     "href": "publications.html#working-papers",
     "title": "Research",
     "section": "Working papers",
-    "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\n\nworking\n\naccounting\n\nNLP\n\nXBRL\n\ntax\n\n\n\nWorking paper — revising for 3rd-round resubmission\n\n\n\n\n\nCarlyle Burd, Elisa Casi, Francesco Grossetti, Petro Lisowsky\n\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\n\nworking\n\nmachine-learning\n\nLLM\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\n\nworking\n\naccounting\n\nNLP\n\n\n\nWorking paper — under review\n\n\n\n\n\nIsabella Brancaccio, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\n\nworking\n\nmachine-learning\n\nNLP\n\nmethods\n\n\n\nWorking paper\n\n\n\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\nNo matching items"
+    "text": "Working papers\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFinTag2Text: Mapping Financial Statement Disclosures with XBRL Data\n\n\n\nworking\n\naccounting\n\nNLP\n\nXBRL\n\ntax\n\n\n\nWorking paper — revising for 3rd-round resubmission at European Accounting Review\n\n\n\n\n\nCarlyle Burd, Elisa Casi, Francesco Grossetti, Petro Lisowsky\n\n\n\n\n\n\n\nIt’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains\n\n\n\nworking\n\nmachine-learning\n\nLLM\n\nNLP\n\n\n\nWorking paper — preparing for submission\n\n\n\n\n\nMiles Gietzmann, Francesco Grossetti, Craig M. Lewis\n\n\n\n\n\n\n\nDeterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research\n\n\n\nworking\n\naccounting\n\nLLM\n\nNLP\n\nmethods\n\n\n\nWorking paper — preparing for submission\n\n\n\n\n\nClaudio Ferrantino, Francesco Grossetti, Tim Martens\n\n\n\n\n\n\n\nThe Information Content of Loan Contract Disclosures\n\n\n\nworking\n\naccounting\n\nNLP\n\n\n\nWorking paper — preparing for submission\n\n\n\n\n\nIsabella Brancaccio, Paul Demeré, Francesco Grossetti\n\n\n\n\n\n\n\nGoodness-of-Fit Indices and Diagnostics for Topic Models\n\n\n\nworking\n\nmachine-learning\n\nNLP\n\nmethods\n\n\n\nWorking paper — preparing for submission\n\n\n\n\n\nCraig M. Lewis, Francesco Grossetti\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html#work-in-progress",
