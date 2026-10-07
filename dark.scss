@@ -1,0 +1,49 @@
+/*-- scss:defaults --*/
+
+// Dark theme layered on top of cosmo, so typography and component shapes stay
+// identical between light and dark; only the colours change.
+//
+// Palette is GitHub "dark dimmed" rather than GitHub's default dark: a dark
+// slate (#22272e) instead of near-black (#0d1117). The custom properties that
+// styles.css actually draws with are redefined under `body.quarto-dark` there;
+// the variables below cover the Bootstrap components Quarto renders on its own
+// (listing filter inputs, sort dropdowns, tables, cards).
+
+$body-bg:                 #22272e;
+$body-color:              #cdd9e5;
+
+$link-color:              #6cb6ff;
+$link-hover-color:        #9fd0ff;
+
+$border-color:            #444c56;
+
+$card-bg:                 #2d333b;
+$card-border-color:       #444c56;
+
+$table-color:             #cdd9e5;
+$table-border-color:      #444c56;
+
+$input-bg:                #2d333b;
+$input-color:             #cdd9e5;
+$input-border-color:      #444c56;
+$input-placeholder-color: #768390;
+$input-focus-border-color: #6cb6ff;
+
+// The sort/search icon boxes beside the listing filters default to Bootstrap's
+// light grey, which reads as a white chip against the dark page.
+$input-group-addon-bg:          #2d333b;
+$input-group-addon-color:       #cdd9e5;
+$input-group-addon-border-color: #444c56;
+
+// The select caret is a baked-in dark SVG; lighten it or it vanishes.
+$form-select-indicator-color:   #cdd9e5;
+
+$dropdown-bg:             #2d333b;
+$dropdown-border-color:   #444c56;
+$dropdown-link-color:     #cdd9e5;
+$dropdown-link-hover-color: #cdd9e5;
+$dropdown-link-hover-bg:  #373e47;
+
+$code-color:              #f69d50;
+$code-bg:                 #2d333b;
+$pre-bg:                  #2d333b;

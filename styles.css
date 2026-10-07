@@ -12,6 +12,22 @@
   --accent-soft: #eaf2fb;
 }
 
+/* ---------- Palette (dark) ---------- */
+/* Quarto sets .quarto-dark on <body> when the navbar toggle (or the OS
+   preference) selects the dark theme. Every rule below this block draws with
+   these same custom properties, so redefining the seven of them is all the
+   dark theme needs. Colours follow GitHub's "dark dimmed": a dark slate
+   rather than near-black. */
+body.quarto-dark {
+  --fg: #cdd9e5;
+  --fg-muted: #909dab;
+  --bg: #22272e;
+  --bg-soft: #2d333b;
+  --border: #444c56;
+  --accent: #6cb6ff;
+  --accent-soft: #2a3a4f;
+}
+
 /* ---------- Base ---------- */
 body {
   color: var(--fg);
@@ -92,8 +108,25 @@ a:hover {
 .navbar .nav-link {
   font-weight: 500;
 }
+/* Bootstrap colours navbar text from the `background: light` setting in
+   _quarto.yml, which would stay dark-on-dark once the theme flips. Drive it
+   from the palette instead so it follows both themes. */
+.navbar .navbar-brand {
+  color: var(--fg) !important;
+}
+.navbar .nav-link {
+  color: var(--fg-muted) !important;
+}
+.navbar .nav-link:hover,
 .navbar .nav-link.active {
   color: var(--accent) !important;
+}
+/* The mobile hamburger is a dark SVG baked into navbar-light; flip it. */
+body.quarto-dark .navbar-toggler-icon {
+  filter: invert(1) opacity(0.8);
+}
+body.quarto-dark .navbar-toggler {
+  border-color: var(--border);
 }
 
 /* ---------- Full-width page grid override ---------- */
@@ -257,11 +290,21 @@ ol li, ul li {
 }
 
 /* ---------- Footer ---------- */
-.page-footer {
+/* Quarto emits the footer as `.nav-footer`, not `.page-footer`. Both the
+   background and the text colour are pinned to Bootstrap's light palette by
+   `page-footer: background: light` in _quarto.yml, so drive them from the
+   tokens instead or the footer stays pale in dark mode. */
+.nav-footer {
   border-top: 1px solid var(--border);
   background: var(--bg) !important;
-  color: var(--fg-muted);
   font-size: 0.9em;
+}
+.nav-footer,
+.nav-footer a {
+  color: var(--fg-muted) !important;
+}
+.nav-footer a:hover {
+  color: var(--accent) !important;
 }
 
 /* ---------- Listings (publications, code, featured) ---------- */

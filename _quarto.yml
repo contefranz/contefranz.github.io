@@ -51,6 +51,7 @@ format:
   html:
     theme:
       light: cosmo
+      dark: [cosmo, dark.scss]
     css: styles.css
     toc: true
     toc-location: right
