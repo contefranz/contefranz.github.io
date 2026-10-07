@@ -9,7 +9,7 @@
 <meta name="author" content="Claudio Ferrantino">
 <meta name="author" content="Francesco Grossetti">
 <meta name="author" content="Tim Martens">
-<meta name="description" content="Working paper — preparing for submission">
+<meta name="description" content="Accounting researchers who use large language models (LLMs) to measure disclosure characteristics typically report the model, the prompt, the temperature, and…">
 
 <title>Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research – Dr.&nbsp;Francesco Grossetti</title>
 <style>
@@ -192,7 +192,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#citation" id="toc-citation" class="nav-link active" data-scroll-target="#citation">Citation</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
   <li><a href="#bibtex" id="toc-bibtex" class="nav-link" data-scroll-target="#bibtex">BibTeX</a></li>
   </ul>
 </nav>
@@ -214,7 +215,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div>
   <div class="description">
-    Working paper — preparing for submission
+    Accounting researchers who use large language models (LLMs) to measure disclosure characteristics typically report the model, the prompt, the temperature, and…
   </div>
 </div>
 
@@ -239,6 +240,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Accounting researchers who use large language models (LLMs) to measure disclosure characteristics typically report the model, the prompt, the temperature, and the random seed. A commonly held belief is that reporting these parameters makes the measure replicable, as the output is believed to be fully determined by the underlying text. We test this belief in an experiment in which four open-weight LLMs score the tone and uncertainty of, and generate summaries for, 1,024 MD&amp;A sections of Form 10-K filings, while we vary the numerical precision of the computation, the number of concurrent requests, and the prompt. We distinguish within-specification variation, which arises when the identical configuration is simply run again, from across-specification variation, which arises when configurations change. Within specification, the output is not fixed. At the lowest precision (BF16), as few as 1.5% of filings receive the same response in ten identical runs, compared with more than 90% at the highest precision (FP32). Across specifications, precision is the setting that matters. Switching the precision shifts the scores of individual filings by about 2.4% of the variation in tone across filings, compared with about 0.1% for switching the number of concurrent requests. Our results show that both types of variation leave averages essentially unchanged, but they affect inference. The uncertainty score and the summaries show the same pattern. Our results suggest that computing in FP32 and reporting the runtime environment remove most of the problem.</p>
+</section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
 <p>Ferrantino, C., Grossetti, F. &amp; Martens, T. (2026). Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research. <em>Working paper</em>.</p>
