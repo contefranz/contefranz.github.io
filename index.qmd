@@ -122,6 +122,19 @@ draw on statistical learning and stochastic processes for sequential
 data, which let me model how corporate information evolves over time
 (disclosure cascades, topic model identification, and more).
 
+A second strand of my work is deliberately **cross-disciplinary**, cutting
+across accounting, marketing, statistics, and computer science. There I
+treat **artificial intelligence** and **generative AI** as objects of study
+rather than instruments: how **large language models** behave when asked to
+measure, judge, or stand in for people, and what researchers can
+legitimately expect of them — whether general-purpose models rival
+domain-calibrated ones, how much of a measure survives the numerical
+details of the computation behind it, and whether reproducing canonical
+behavioral effects is enough to call a model human-like. The same
+methodological impulse runs through my work on **diagnostics for topic
+models**, which brings regression-style effect sizes and residual checks to
+unsupervised text models.
+
 My work has appeared in the *Review of Accounting Studies*, the
 *Journal of Machine Learning Research*, the *Journal of Accounting and
 Public Policy*, and other outlets.
