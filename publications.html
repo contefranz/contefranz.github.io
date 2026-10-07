@@ -43,10 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bb32a928b012c121e521763d113837f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bb32a928b012c121e521763d113837f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3593639535cb9ed6312ed1c1c61f6c7a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-6bb32a928b012c121e521763d113837f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -231,7 +235,169 @@ window.Quarto = {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed page-wide quarto-light">
+<body class="nav-fixed page-wide quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -284,6 +450,7 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -308,6 +475,7 @@ window.Quarto = {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -355,7 +523,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkNkaXNjbG9zdXJlJTJDZmVhdHVyZWQ=" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="quarto-post image-right" data-index="0" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkNkaXNjbG9zdXJlJTJDZmVhdHVyZWQ=" data-listing-date-sort="1773014400000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-investor-distraction.html" class="no-external">Investor Distraction and Multi-Dimensional Financial Narrative</a>
@@ -390,7 +558,7 @@ Miles Gietzmann, Francesco Grossetti, Craig M. Lewis
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+<div class="quarto-post image-right" data-index="1" data-categories="cHVibGlzaGVkJTJDMjAyNiUyQ2FjY291bnRpbmclMkNOTFAlMkN0YXglMkNmZWF0dXJlZA==" data-listing-date-sort="1761523200000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2026-narrative-tax-outcomes.html" class="no-external">Using Narrative Disclosures to Predict Tax Outcomes</a>
@@ -425,7 +593,7 @@ Olga Bogachek, Antonio De Vito, Paul Demeré, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyNCUyQ2FjY291bnRpbmclMkNOTFAlMkNnb3Zlcm5hbmNl" data-listing-date-sort="1679011200000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<div class="quarto-post image-right" data-index="2" data-categories="cHVibGlzaGVkJTJDMjAyNCUyQ2FjY291bnRpbmclMkNOTFAlMkNnb3Zlcm5hbmNl" data-listing-date-sort="1679011200000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2024-risk-guidance-codes.html" class="no-external">Risk Guidance and Anti-Corruption Language: Evidence from Corporate Codes of Conduct</a>
@@ -458,7 +626,7 @@ Olga Bogachek, Miles Gietzmann, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
+<div class="quarto-post image-right" data-index="3" data-categories="cHVibGlzaGVkJTJDMjAyMiUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2RzJTJDZmVhdHVyZWQ=" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2022-topic-model-identification.html" class="no-external">A Statistical Approach for Optimal Topic Model Identification</a>
@@ -493,7 +661,7 @@ Craig M. Lewis, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="cHVibGlzaGVkJTJDMjAyMSUyQ2FjY291bnRpbmclMkNibG9ja2NoYWlu" data-listing-date-sort="1628380800000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
+<div class="quarto-post image-right" data-index="4" data-categories="cHVibGlzaGVkJTJDMjAyMSUyQ2FjY291bnRpbmclMkNibG9ja2NoYWlu" data-listing-date-sort="1628380800000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2021-blockchain-accounting.html" class="no-external">Blockchain and Other Distributed Ledger Technologies: Where Is the Accounting?</a>
@@ -524,7 +692,7 @@ Miles Gietzmann, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="cHVibGlzaGVkJTJDMjAxOSUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1598659200000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
+<div class="quarto-post image-right" data-index="5" data-categories="cHVibGlzaGVkJTJDMjAxOSUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1598659200000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2019-cardiac-rehab.html" class="no-external">Impact of In-Hospital Cardiac Rehabilitation on Mortality and Readmissions in Heart Failure: A Population Study in Lombardy, Italy, from 2005 to 2012</a>
@@ -555,7 +723,7 @@ Simonetta Scalvini, Francesco Grossetti, Anna Maria Paganoni, Maria Teresa La Ro
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="cHVibGlzaGVkJTJDMjAxOCUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1494288000000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
+<div class="quarto-post image-right" data-index="6" data-categories="cHVibGlzaGVkJTJDMjAxOCUyQ2Jpb3N0YXRpc3RpY3MlMkNoZWFsdGhjYXJl" data-listing-date-sort="1494288000000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="244">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2018-multistate-readmissions.html" class="no-external">A Multi-State Approach to Patients Affected by Chronic Heart Failure: The Value Added by Administrative Data</a>
@@ -586,7 +754,7 @@ Francesco Grossetti, Francesca Ieva, Anna Maria Paganoni
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="cHVibGlzaGVkJTJDMjAxMyUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1363132800000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<div class="quarto-post image-right" data-index="7" data-categories="cHVibGlzaGVkJTJDMjAxMyUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1363132800000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2013-halpha3-ii.html" class="no-external">Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. II. Star Formation Properties of Galaxies in the Virgo Cluster and Surroundings</a>
@@ -615,7 +783,7 @@ Giuseppe Gavazzi, Michele Fumagalli, Matteo Fossati, Vincenzo Galardo, Francesco
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="cHVibGlzaGVkJTJDMjAxMiUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1337558400000" data-listing-file-modified-sort="1791389415268" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
+<div class="quarto-post image-right" data-index="8" data-categories="cHVibGlzaGVkJTJDMjAxMiUyQ2FzdHJvcGh5c2ljcw==" data-listing-date-sort="1337558400000" data-listing-file-modified-sort="1791397812231" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/2012-halpha3-i.html" class="no-external">Hα³: An Hα Imaging Survey of HI-Selected Galaxies from ALFALFA. I. Catalogue in the Local Supercluster</a>
@@ -674,7 +842,7 @@ Giuseppe Gavazzi, Michele Fumagalli, Vincenzo Galardo, Francesco Grossetti, Ales
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFAlMkNYQlJMJTJDdGF4" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
+<div class="quarto-post image-right" data-index="0" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFAlMkNYQlJMJTJDdGF4" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wp-fintag2text.html" class="no-external">FinTag2Text: Mapping Financial Statement Disclosures with XBRL Data</a>
@@ -704,7 +872,7 @@ Carlyle Burd, Elisa Casi, Francesco Grossetti, Petro Lisowsky
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNMTE0lMkNOTFA=" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="2" data-listing-word-count-sort="210">
+<div class="quarto-post image-right" data-index="1" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNMTE0lMkNOTFA=" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="2" data-listing-word-count-sort="210">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wp-human-touch-llm.html" class="no-external">It’s the Human Touch! Performance of Large Language Models in Highly-Specific Domains</a>
@@ -732,7 +900,7 @@ Miles Gietzmann, Francesco Grossetti, Craig M. Lewis
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNMTE0lMkNOTFAlMkNtZXRob2Rz" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="2" data-listing-word-count-sort="309">
+<div class="quarto-post image-right" data-index="2" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNMTE0lMkNOTFAlMkNtZXRob2Rz" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="2" data-listing-word-count-sort="309">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wp-llm-reproducibility.html" class="no-external">Deterministic in Theory, Random in Practice: Numerical Precision and the Reproducibility of LLM Measures in Accounting Research</a>
@@ -762,7 +930,7 @@ Claudio Ferrantino, Francesco Grossetti, Tim Martens
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFA=" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<div class="quarto-post image-right" data-index="3" data-categories="d29ya2luZyUyQ2FjY291bnRpbmclMkNOTFA=" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wp-loan-contract-disclosures.html" class="no-external">The Information Content of Loan Contract Disclosures</a>
@@ -788,7 +956,7 @@ Isabella Brancaccio, Paul Demeré, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2Rz" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<div class="quarto-post image-right" data-index="4" data-categories="d29ya2luZyUyQ21hY2hpbmUtbGVhcm5pbmclMkNOTFAlMkNtZXRob2Rz" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wp-topic-gof.html" class="no-external">Goodness-of-Fit Indices and Diagnostics for Topic Models</a>
@@ -846,7 +1014,7 @@ Craig M. Lewis, Francesco Grossetti
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ05MUCUyQ3N0b2NoYXN0aWMtcHJvY2Vzc2Vz" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<div class="quarto-post image-right" data-index="0" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ05MUCUyQ3N0b2NoYXN0aWMtcHJvY2Vzc2Vz" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wip-disclosure-cascade.html" class="no-external">Disclosure Cascade: A Hawkes Process Approach</a>
@@ -874,7 +1042,7 @@ Miles Gietzmann, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2NvcnBvcmF0ZS1maW5hbmNl" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<div class="quarto-post image-right" data-index="1" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2NvcnBvcmF0ZS1maW5hbmNl" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wip-ma-bankers.html" class="no-external">M&amp;A Bankers’ Human Capital: The Role of Expertise, Connections, and Background in Dealmaking</a>
@@ -900,7 +1068,7 @@ Atif Ellahie, Francesco Grossetti, Riccardo Vincenzi
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2dvdmVybmFuY2U=" data-listing-file-modified-sort="1791389415269" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="quarto-post image-right" data-index="2" data-categories="d2lwJTJDYWNjb3VudGluZyUyQ2dvdmVybmFuY2U=" data-listing-file-modified-sort="1791397812232" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/wip-ties-that-blind.html" class="no-external">Ties That Blind: Social Networks, Pressure, and CEO Wrongdoing</a>
@@ -934,7 +1102,7 @@ Ludovica Bullini Orlandi, Antonio De Vito, Paul Demeré, Francesco Grossetti
 <h2 class="anchored" data-anchor-id="books-and-monographs">Books and monographs</h2>
 <div id="listing-books" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Ym9vayUyQzIwMjUlMkNhY2NvdW50aW5nJTJDTkxQ" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458">
+<div class="quarto-post image-right" data-index="0" data-categories="Ym9vayUyQzIwMjUlMkNhY2NvdW50aW5nJTJDTkxQ" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="458">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-value-relevance-2025.html" class="no-external">Value Relevance of Textual Characteristics — Evidence from Annual Reports of U.S. Listed Firms</a>
@@ -954,7 +1122,7 @@ Olga Bogachek, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Ym9vayUyQzIwMjQlMkNhY2NvdW50aW5nJTJDdGF4JTJDYmlibGlvbWV0cmljcw==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
+<div class="quarto-post image-right" data-index="1" data-categories="Ym9vayUyQzIwMjQlMkNhY2NvdW50aW5nJTJDdGF4JTJDYmlibGlvbWV0cmljcw==" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-tax-avoidance-2024.html" class="no-external">Tax Avoidance Research: Exploring Networks and Dynamics of Global Academic Collaboration</a>
@@ -974,7 +1142,7 @@ Antonio De Vito, Francesco Grossetti
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Ym9vayUyQzIwMTklMkNwcm9ncmFtbWluZyUyQ2VkdWNhdGlvbg==" data-listing-date-sort="1546300800000" data-listing-file-modified-sort="1791389415269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
+<div class="quarto-post image-right" data-index="2" data-categories="Ym9vayUyQzIwMTklMkNwcm9ncmFtbWluZyUyQ2VkdWNhdGlvbg==" data-listing-date-sort="1546300800000" data-listing-file-modified-sort="1791397812232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./publications/book-python-2019.html" class="no-external">Python for Non-Pythonians: How to Win Over Programming Languages</a>
@@ -1028,6 +1196,19 @@ Francesco Grossetti, Gaia Rubera
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
