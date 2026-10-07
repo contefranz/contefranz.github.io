@@ -38,6 +38,63 @@ $input-group-addon-border-color: #444c56;
 // The select caret is a baked-in dark SVG; lighten it or it vanishes.
 $form-select-indicator-color:   #cdd9e5;
 
+/*-- scss:rules --*/
+
+// Everything dark-specific lives in THIS file on purpose, not in styles.css.
+// Quarto compiles this into `bootstrap-dark-<hash>.min.css`, so the filename
+// changes whenever the content does and browsers always fetch it fresh.
+// `styles.css` is served at a stable, unhashed URL, so returning visitors can
+// hold a cached copy for a long time. Putting the dark overrides there meant a
+// visitor could get the new dark Bootstrap alongside a stale styles.css with
+// no dark tokens: dark text colours on a white page.
+//
+// `body.quarto-dark` (0,1,1) also outranks `:root` (0,1,0), so these win over
+// the light tokens even though styles.css loads after this file.
+
+body.quarto-dark {
+  --fg: #cdd9e5;
+  --fg-muted: #909dab;
+  --bg: #22272e;
+  --bg-soft: #2d333b;
+  --border: #444c56;
+  --accent: #6cb6ff;
+  --accent-soft: #2a3a4f;
+
+  // Bootstrap colours navbar and footer text from `background: light` in
+  // _quarto.yml, which stays dark-on-dark once the theme flips.
+  .navbar .navbar-brand {
+    color: var(--fg) !important;
+  }
+  .navbar .nav-link {
+    color: var(--fg-muted) !important;
+  }
+  .navbar .nav-link:hover,
+  .navbar .nav-link.active {
+    color: var(--accent) !important;
+  }
+
+  // Quarto emits the footer as `.nav-footer`, not `.page-footer`.
+  .nav-footer {
+    border-top: 1px solid var(--border);
+    background: var(--bg) !important;
+  }
+  .nav-footer,
+  .nav-footer a {
+    color: var(--fg-muted) !important;
+  }
+  .nav-footer a:hover {
+    color: var(--accent) !important;
+  }
+
+  // The mobile hamburger is a dark SVG baked into navbar-light.
+  .navbar-toggler-icon {
+    filter: invert(1) opacity(0.8);
+  }
+  .navbar-toggler {
+    border-color: var(--border);
+  }
+}
+
 $dropdown-bg:             #2d333b;
 $dropdown-border-color:   #444c56;
 $dropdown-link-color:     #cdd9e5;
